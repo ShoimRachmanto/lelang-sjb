@@ -5,8 +5,6 @@
   <title>Lelang Segera Berakhir - Wilayah SJB</title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
-  <link href="https://cdn.datatables.net/1.13.6/css/dataTables.bootstrap5.min.css" rel="stylesheet">
-
   <style>
     body {
       padding: 2rem;
@@ -15,53 +13,77 @@
     h1 {
       margin-bottom: 1rem;
     }
+    .lot-page {
+      display: none;
+    }
+    .lot-page.active {
+      display: block;
+    }
   </style>
 </head>
 <body>
   <div class="container">
     <h1 class="text-center">📢 Lelang Segera Berakhir - Wilayah SJB</h1>
-    <p class="text-center text-muted">Data ini diperbarui secara berkala dari sistem lokal ke GitHub Pages.</p>
+    <p class="text-center text-muted">Data ini diperbarui secara berkala dari sistem lokal WongsoGojek.</p>
 
-    <div class="table-responsive">
-      <table id="lelangTable" class="table table-striped table-bordered">
-        <thead class="table-dark">
-          <tr>
-            <th>Pemohon</th>
-            <th>Kode Lot</th>
-            <th>Nama Lot</th>
-            <th>Nilai Limit</th>
-            <th>Tanggal Lelang</th>
-            <th>KPKNL</th>
-          </tr>
-        </thead>
-        <tbody></tbody>
-      </table>
-    </div>
+    <div id="lot-container"></div>
   </div>
-
-  <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
-  <script src="https://cdn.datatables.net/1.13.6/js/jquery.dataTables.min.js"></script>
-  <script src="https://cdn.datatables.net/1.13.6/js/dataTables.bootstrap5.min.js"></script>
 
   <script>
     fetch('data/lelang_segera.json')
       .then(response => response.json())
       .then(data => {
-        const tbody = document.querySelector("#lelangTable tbody");
-        data.forEach(item => {
-          const row = `
-            <tr>
-              <td>${item.pemohon}</td>
-              <td>${item.kode_lot}</td>
-              <td>${item.nama_lot}</td>
-              <td>Rp ${Number(item.nilai_limit).toLocaleString('id-ID')}</td>
-              <td>${item.tanggal_lelang}</td>
-              <td>${item.kpknl}</td>
-            </tr>
+        const perPage = 7;
+        const pages = Math.ceil(data.length / perPage);
+        const container = document.getElementById('lot-container');
+
+        for (let i = 0; i < pages; i++) {
+          const pageDiv = document.createElement('div');
+          pageDiv.classList.add('lot-page');
+          if (i === 0) pageDiv.classList.add('active');
+
+          let html = `
+            <table class="table table-striped table-bordered">
+              <thead class="table-dark">
+                <tr>
+                  <th>Pemohon</th>
+                  <th>Kode Lot</th>
+                  <th>Nama Lot</th>
+                  <th>Nilai Limit</th>
+                  <th>Tanggal Lelang</th>
+                  <th>KPKNL</th>
+                </tr>
+              </thead>
+              <tbody>
           `;
-          tbody.insertAdjacentHTML('beforeend', row);
-        });
-        $('#lelangTable').DataTable();
+
+          for (let j = i * perPage; j < (i + 1) * perPage && j < data.length; j++) {
+            const row = data[j];
+            html += `
+              <tr>
+                <td>${row.pemohon}</td>
+                <td>${row.kode_lot}</td>
+                <td>${row.nama_lot}</td>
+                <td>Rp ${Number(row.nilai_limit).toLocaleString('id-ID')}</td>
+                <td>${row.tanggal_lelang}</td>
+                <td>${row.kpknl}</td>
+              </tr>
+            `;
+          }
+
+          html += `</tbody></table>`;
+          pageDiv.innerHTML = html;
+          container.appendChild(pageDiv);
+        }
+
+        // Auto-rotate pages
+        let currentPage = 0;
+        setInterval(() => {
+          document.querySelectorAll('.lot-page').forEach((el, i) => {
+            el.classList.toggle('active', i === currentPage);
+          });
+          currentPage = (currentPage + 1) % pages;
+        }, 8000); // Ganti tiap 8 detik
       });
   </script>
 </body>
