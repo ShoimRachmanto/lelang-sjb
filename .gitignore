@@ -1,0 +1,14 @@
+# Abaikan file sementara
+*.tmp
+*.log
+
+# Abaikan file backup/editor
+*~
+.vscode/
+.DS_Store
+
+# Abaikan file env/token
+.env
+
+# Abaikan file database (jika pernah copy ke sini)
+*.db
