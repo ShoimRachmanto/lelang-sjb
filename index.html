@@ -37,6 +37,12 @@
         const perPage = 7;
         const pages = Math.ceil(data.length / perPage);
         const container = document.getElementById('lot-container');
+        const warnaKota = {
+        "KPKNL Jambi": "primary",
+        "KPKNL Palembang": "success",
+        "KPKNL Lahat": "warning",
+        "KPKNL Pangkal Pinang": "danger"
+        };
 
         for (let i = 0; i < pages; i++) {
             const pageDiv = document.createElement('div');
@@ -50,8 +56,8 @@
                     <th>No.</th>
                     <th>Pemohon</th>
                     <th>Kode</th>
-                    <th>Nama Lot</th>
-                    <th class="text-end">Nilai Limit</th>
+                    <th>Objek Lelang</th>
+                    <th class="text-end">Limit</th>
                     <th>Tanggal</th>
                     <th>KPKNL</th>
                 </tr>
@@ -72,7 +78,9 @@
             const min = String(tanggalObj.getMinutes()).padStart(2, '0');
             const tanggal = `${yyyy}-${mm}-${dd} pada ${hh}:${min}`;
 
-            const kpknl = row.kpknl.replace("KPKNL", "").trim();
+            const kota = row.kpknl.trim();
+            const warna = warnaKota[kota] || "secondary";
+            const kpknl = `<span class="badge bg-${warna}">${kota.replace("KPKNL", "").trim()}</span>`;
 
             html += `
                 <tr>
