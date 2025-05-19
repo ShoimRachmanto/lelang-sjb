@@ -12,3 +12,6 @@
 
 # Abaikan file database (jika pernah copy ke sini)
 *.db
+
+__pycache__/
+*.pyc
