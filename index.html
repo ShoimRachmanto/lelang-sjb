@@ -24,7 +24,7 @@
 <body>
   <div class="container">
     <h1 class="text-center">📢 Lelang Segera Berakhir - Wilayah SJB</h1>
-    <p class="text-center text-muted">Data diperbarui secara berkala dari sistem lelang DJKN.</p>
+    <p class="text-center text-muted">Data diperbarui secara berkala dari sistem WongsoGojek.</p>
 
     <div id="lot-container"></div>
   </div>
@@ -44,15 +44,15 @@
             if (i === 0) pageDiv.classList.add('active');
 
             let html = `
-            <table class="table table-striped table-bordered">
+            <table class="table table-striped table-bordered text-center">
                 <thead class="table-dark">
                 <tr>
                     <th>No.</th>
                     <th>Pemohon</th>
                     <th>Kode</th>
                     <th>Nama Lot</th>
-                    <th>Nilai Limit</th>
-                    <th>Tanggal Lelang</th>
+                    <th class="text-end">Nilai Limit</th>
+                    <th>Tanggal</th>
                     <th>KPKNL</th>
                 </tr>
                 </thead>
@@ -63,8 +63,16 @@
             const row = data[j];
             const no = j + 1;
             const nilai = Number(row.nilai_limit).toLocaleString('id-ID');
-            const tanggal = new Date(row.tanggal_lelang).toISOString().slice(0, 16).replace('T', ' ');
-            const kpknl = row.kpknl.replace("KPKNL", "").trim(); // ambil kota saja
+
+            const tanggalObj = new Date(row.tanggal_lelang);
+            const yyyy = tanggalObj.getFullYear();
+            const mm = String(tanggalObj.getMonth() + 1).padStart(2, '0');
+            const dd = String(tanggalObj.getDate()).padStart(2, '0');
+            const hh = String(tanggalObj.getHours()).padStart(2, '0');
+            const min = String(tanggalObj.getMinutes()).padStart(2, '0');
+            const tanggal = `${yyyy}-${mm}-${dd} pada ${hh}:${min}`;
+
+            const kpknl = row.kpknl.replace("KPKNL", "").trim();
 
             html += `
                 <tr>
