@@ -1,0 +1,14 @@
+[INFO] Menjalankan export_lelang_pekan_ini.py 
+Traceback (most recent call last):
+  File "D:\WongsoApps\lelang-sjb\export_lelang_pekan_ini.py", line 50, in <module>
+    print(f"\u2705 Export {len(output)} data lelang ke {OUTPUT_JSON}")
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u2705' in position 0: character maps to <undefined>
+[INFO] Melakukan git add dan commit 
+[main f9467dd] Auto update lelang pekan ini - Wed 05/21/2025 17:07:55.10
+ 1 file changed, 1079 insertions(+), 959 deletions(-)
+[INFO] Push ke GitHub... 
+To https://github.com/ShoimRachmanto/lelang-sjb.git
+   4b2ddea..f9467dd  main -> main
