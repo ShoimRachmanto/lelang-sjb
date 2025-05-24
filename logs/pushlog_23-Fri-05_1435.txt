@@ -1,0 +1,11 @@
+[INFO] Menjalankan export_lelang_pekan_ini.py 
+[OK] Export 216 data lelang ke D:\WongsoApps\lelang-sjb\data\lelang_segera.json
+[INFO] Periode: 2025-05-26 s.d. 2025-05-30
+[INFO] Melakukan git add dan commit 
+'git' is not recognized as an internal or external command,
+operable program or batch file.
+'git' is not recognized as an internal or external command,
+operable program or batch file.
+[INFO] Push ke GitHub... 
+'git' is not recognized as an internal or external command,
+operable program or batch file.
