@@ -216,6 +216,14 @@
     "kpknl": "KPKNL Palembang"
   },
   {
+    "pemohon": "KEJAKSAAN NEGERI TEBO",
+    "kode_lot": "PEFGAC",
+    "nama_lot": "DAMAR BATU BARA 23 TON di Kab. Tebo",
+    "nilai_limit": "56925000",
+    "tanggal_lelang": "2025-06-11T14:00:00+07:00",
+    "kpknl": "KPKNL Jambi"
+  },
+  {
     "pemohon": "PT. Bank Rakyat Indonesia (Persero), Tbk, Kantor Cabang Palembang Sriwijaya",
     "kode_lot": "IXIQXK",
     "nama_lot": "1 bidang tanah dengan total luas 764 m2 berikut bangunan di Kota Palembang",
@@ -254,6 +262,102 @@
     "nilai_limit": "150000000",
     "tanggal_lelang": "2025-06-12T10:00:00+07:00",
     "kpknl": "KPKNL Lahat"
+  },
+  {
+    "pemohon": "KANWIL BPN PROVINSI JAMBI",
+    "kode_lot": "VOFNID",
+    "nama_lot": "Satu paket barang Inventaris Kantor dalam kondisi Rusak Berat. di Kota Jambi",
+    "nilai_limit": "395500",
+    "tanggal_lelang": "2025-06-12T10:00:00+07:00",
+    "kpknl": "KPKNL Jambi"
+  },
+  {
+    "pemohon": "PT BANK SYARIAH INDONESIA TBK, AREA JAMBI",
+    "kode_lot": "A0R1IH",
+    "nama_lot": "1 bidang tanah dengan total luas 141 m2 berikut bangunan di Kota Jambi",
+    "nilai_limit": "50000000",
+    "tanggal_lelang": "2025-06-12T14:30:00+07:00",
+    "kpknl": "KPKNL Jambi"
+  },
+  {
+    "pemohon": "PT BANK SYARIAH INDONESIA TBK, AREA JAMBI",
+    "kode_lot": "VQCSAT",
+    "nama_lot": "1 bidang tanah dengan total luas 120 m2 berikut bangunan di Kota Jambi",
+    "nilai_limit": "187200000",
+    "tanggal_lelang": "2025-06-12T14:30:00+07:00",
+    "kpknl": "KPKNL Jambi"
+  },
+  {
+    "pemohon": "PT BANK SYARIAH INDONESIA TBK, AREA JAMBI",
+    "kode_lot": "IERD9Z",
+    "nama_lot": "1 bidang tanah dengan total luas 90 m2 berikut bangunan di Kota Jambi",
+    "nilai_limit": "449600000",
+    "tanggal_lelang": "2025-06-12T14:30:00+07:00",
+    "kpknl": "KPKNL Jambi"
+  },
+  {
+    "pemohon": "DITJEN BINWASNAKER",
+    "kode_lot": "USCPWU",
+    "nama_lot": "Inventaris kantor/Alat Pengujian K3 di Kota Jambi",
+    "nilai_limit": "10571750",
+    "tanggal_lelang": "2025-06-12T14:30:00+07:00",
+    "kpknl": "KPKNL Jambi"
+  },
+  {
+    "pemohon": "PT BANK SYARIAH INDONESIA TBK, AREA JAMBI",
+    "kode_lot": "VQOSOK",
+    "nama_lot": "1 bidang tanah dengan total luas 268 m2 di Kota Jambi",
+    "nilai_limit": "123100000",
+    "tanggal_lelang": "2025-06-12T14:30:00+07:00",
+    "kpknl": "KPKNL Jambi"
+  },
+  {
+    "pemohon": "POLITEKNIK KESEHATAN PALEMBANG",
+    "kode_lot": "TUQPSJ",
+    "nama_lot": "1 (Satu) Paket Barang Inventaris Kantor di Kota Palembang",
+    "nilai_limit": "39888385",
+    "tanggal_lelang": "2025-06-12T09:00:00+07:00",
+    "kpknl": "KPKNL Palembang"
+  },
+  {
+    "pemohon": "KANTOR KESYAHBANDARAN DAN OTORITAS PELABUHAN TANJUNGPANDAN",
+    "kode_lot": "FRYKRE",
+    "nama_lot": "Yamaha Scorpio Z di Kab. Belitung",
+    "nilai_limit": "3560000",
+    "tanggal_lelang": "2025-06-12T10:00:00+07:00",
+    "kpknl": "KPKNL Pangkalpinang"
+  },
+  {
+    "pemohon": "KANTOR KESYAHBANDARAN DAN OTORITAS PELABUHAN TANJUNGPANDAN",
+    "kode_lot": "FAIJKB",
+    "nama_lot": "Speed Boat di Kab. Belitung",
+    "nilai_limit": "2096000",
+    "tanggal_lelang": "2025-06-12T10:00:00+07:00",
+    "kpknl": "KPKNL Pangkalpinang"
+  },
+  {
+    "pemohon": "KANTOR KESYAHBANDARAN DAN OTORITAS PELABUHAN TANJUNGPANDAN",
+    "kode_lot": "MQV5CJ",
+    "nama_lot": "Survey Boat di Kab. Belitung",
+    "nilai_limit": "17825000",
+    "tanggal_lelang": "2025-06-12T10:00:00+07:00",
+    "kpknl": "KPKNL Pangkalpinang"
+  },
+  {
+    "pemohon": "KANTOR KESYAHBANDARAN DAN OTORITAS PELABUHAN TANJUNGPANDAN",
+    "kode_lot": "IAKT9M",
+    "nama_lot": "Toyota Kijang Innova V Diesel di Kab. Belitung",
+    "nilai_limit": "79905000",
+    "tanggal_lelang": "2025-06-12T10:00:00+07:00",
+    "kpknl": "KPKNL Pangkalpinang"
+  },
+  {
+    "pemohon": "KANTOR KESYAHBANDARAN DAN OTORITAS PELABUHAN TANJUNGPANDAN",
+    "kode_lot": "O1DFAY",
+    "nama_lot": "Yamaha Scorpio Z di Kab. Belitung",
+    "nilai_limit": "3560000",
+    "tanggal_lelang": "2025-06-12T10:00:00+07:00",
+    "kpknl": "KPKNL Pangkalpinang"
   },
   {
     "pemohon": "BANK MUAMALAT INDONESIA",
@@ -333,6 +437,254 @@
     "nama_lot": "1 bidang tanah dengan total luas 410 m2 berikut bangunan di Kabupaten Musi Banyuasin",
     "nilai_limit": "664409625",
     "tanggal_lelang": "2025-06-13T10:00:00+07:00",
+    "kpknl": "KPKNL Palembang"
+  },
+  {
+    "pemohon": "PEMERINTAH KABUPATEN OGAN KOMERING ILIR",
+    "kode_lot": "1RTH6N",
+    "nama_lot": "Mitsubishi Maven GLX di Kab. Ogan Komering Ilir",
+    "nilai_limit": "23446000",
+    "tanggal_lelang": "2025-06-13T09:00:00+07:00",
+    "kpknl": "KPKNL Palembang"
+  },
+  {
+    "pemohon": "PEMERINTAH KABUPATEN OGAN KOMERING ILIR",
+    "kode_lot": "QAYE94",
+    "nama_lot": "Isuzu Panther TBR 54 di Kab. Ogan Komering Ilir",
+    "nilai_limit": "29686000",
+    "tanggal_lelang": "2025-06-13T09:00:00+07:00",
+    "kpknl": "KPKNL Palembang"
+  },
+  {
+    "pemohon": "PEMERINTAH KABUPATEN OGAN KOMERING ILIR",
+    "kode_lot": "FQQPUL",
+    "nama_lot": "Isuzu Panther TBR 54 di Kab. Ogan Komering Ilir",
+    "nilai_limit": "27700000",
+    "tanggal_lelang": "2025-06-13T09:00:00+07:00",
+    "kpknl": "KPKNL Palembang"
+  },
+  {
+    "pemohon": "PEMERINTAH KABUPATEN OGAN KOMERING ILIR",
+    "kode_lot": "KR31JG",
+    "nama_lot": "Isuzu Panther TBR 54 di Kab. Ogan Komering Ilir",
+    "nilai_limit": "29952000",
+    "tanggal_lelang": "2025-06-13T09:00:00+07:00",
+    "kpknl": "KPKNL Palembang"
+  },
+  {
+    "pemohon": "PEMERINTAH KABUPATEN OGAN KOMERING ILIR",
+    "kode_lot": "UY1QQN",
+    "nama_lot": "Isuzu Panther TBR 54 Turbo di Kab. Ogan Komering Ilir",
+    "nilai_limit": "32754000",
+    "tanggal_lelang": "2025-06-13T09:00:00+07:00",
+    "kpknl": "KPKNL Palembang"
+  },
+  {
+    "pemohon": "PEMERINTAH KABUPATEN OGAN KOMERING ILIR",
+    "kode_lot": "ACDREG",
+    "nama_lot": "Isuzu Panther TBR 54 Turbo di Kab. Ogan Komering Ilir",
+    "nilai_limit": "31841000",
+    "tanggal_lelang": "2025-06-13T09:00:00+07:00",
+    "kpknl": "KPKNL Palembang"
+  },
+  {
+    "pemohon": "PEMERINTAH KABUPATEN OGAN KOMERING ILIR",
+    "kode_lot": "CKQLHL",
+    "nama_lot": "Toyota Kijang KF60 Standard di Kab. Ogan Komering Ilir",
+    "nilai_limit": "19865000",
+    "tanggal_lelang": "2025-06-13T09:00:00+07:00",
+    "kpknl": "KPKNL Palembang"
+  },
+  {
+    "pemohon": "PEMERINTAH KABUPATEN OGAN KOMERING ILIR",
+    "kode_lot": "ZNHFSQ",
+    "nama_lot": "Mitsubishi Colt Diesel FE71 BC (4X2) M/T di Kab. Ogan Komering Ilir",
+    "nilai_limit": "52255000",
+    "tanggal_lelang": "2025-06-13T09:00:00+07:00",
+    "kpknl": "KPKNL Palembang"
+  },
+  {
+    "pemohon": "PEMERINTAH KABUPATEN OGAN KOMERING ILIR",
+    "kode_lot": "TFNEIX",
+    "nama_lot": "Toyota Kijang KF80 Standard di Kab. Ogan Komering Ilir",
+    "nilai_limit": "19596000",
+    "tanggal_lelang": "2025-06-13T09:00:00+07:00",
+    "kpknl": "KPKNL Palembang"
+  },
+  {
+    "pemohon": "PEMERINTAH KABUPATEN OGAN KOMERING ILIR",
+    "kode_lot": "LRSEHQ",
+    "nama_lot": "Isuzu D-Max E2 Double Cabin di Kab. Ogan Komering Ilir",
+    "nilai_limit": "28971000",
+    "tanggal_lelang": "2025-06-13T09:00:00+07:00",
+    "kpknl": "KPKNL Palembang"
+  },
+  {
+    "pemohon": "PEMERINTAH KABUPATEN OGAN KOMERING ILIR",
+    "kode_lot": "IYUMM6",
+    "nama_lot": "Isuzu Panther TBR 54 Turbo di Kab. Ogan Komering Ilir",
+    "nilai_limit": "33594000",
+    "tanggal_lelang": "2025-06-13T09:00:00+07:00",
+    "kpknl": "KPKNL Palembang"
+  },
+  {
+    "pemohon": "PEMERINTAH KABUPATEN OGAN KOMERING ILIR",
+    "kode_lot": "3MKTAH",
+    "nama_lot": "Mitsubishi Strada Triton CR 2.8 AM SC GLX (4X4) M/T di Kab. Ogan Komering Ilir",
+    "nilai_limit": "45231000",
+    "tanggal_lelang": "2025-06-13T09:00:00+07:00",
+    "kpknl": "KPKNL Palembang"
+  },
+  {
+    "pemohon": "PEMERINTAH KABUPATEN OGAN KOMERING ILIR",
+    "kode_lot": "9QELBY",
+    "nama_lot": "Mitsubishi Kuda VA1W GLS di Kab. Ogan Komering Ilir",
+    "nilai_limit": "16903000",
+    "tanggal_lelang": "2025-06-13T09:00:00+07:00",
+    "kpknl": "KPKNL Palembang"
+  },
+  {
+    "pemohon": "PEMERINTAH KABUPATEN OGAN KOMERING ILIR",
+    "kode_lot": "DOQYQC",
+    "nama_lot": "Nissan Frontier Navara 2.5 M/T di Kab. Ogan Komering Ilir",
+    "nilai_limit": "73287000",
+    "tanggal_lelang": "2025-06-13T09:00:00+07:00",
+    "kpknl": "KPKNL Palembang"
+  },
+  {
+    "pemohon": "PEMERINTAH KABUPATEN OGAN KOMERING ILIR",
+    "kode_lot": "J1QOKE",
+    "nama_lot": "Mitsubishi Strada L200 2.5L GLS DB Cabin di Kab. Ogan Komering Ilir",
+    "nilai_limit": "50128000",
+    "tanggal_lelang": "2025-06-13T09:00:00+07:00",
+    "kpknl": "KPKNL Palembang"
+  },
+  {
+    "pemohon": "PEMERINTAH KABUPATEN OGAN KOMERING ILIR",
+    "kode_lot": "DPEOBF",
+    "nama_lot": "Mitsubishi Strada CR 2.5L GLS di Kab. Ogan Komering Ilir",
+    "nilai_limit": "37842000",
+    "tanggal_lelang": "2025-06-13T09:00:00+07:00",
+    "kpknl": "KPKNL Palembang"
+  },
+  {
+    "pemohon": "PEMERINTAH KABUPATEN OGAN KOMERING ILIR",
+    "kode_lot": "MC2FAL",
+    "nama_lot": "Toyota Hilux Pick Up 2.0L M/T di Kab. Ogan Komering Ilir",
+    "nilai_limit": "38792000",
+    "tanggal_lelang": "2025-06-13T09:00:00+07:00",
+    "kpknl": "KPKNL Palembang"
+  },
+  {
+    "pemohon": "PEMERINTAH KABUPATEN OGAN KOMERING ILIR",
+    "kode_lot": "U3QJAD",
+    "nama_lot": "Station Wagon Merk/Type Mitsubishi Strada Triton BG 9142 KZ di Kab. Ogan Komering Ilir",
+    "nilai_limit": "8751000",
+    "tanggal_lelang": "2025-06-13T09:00:00+07:00",
+    "kpknl": "KPKNL Palembang"
+  },
+  {
+    "pemohon": "PEMERINTAH KABUPATEN OGAN KOMERING ILIR",
+    "kode_lot": "2UDF3B",
+    "nama_lot": "Ford Everest 2.5L10-S MT di Kab. Ogan Komering Ilir",
+    "nilai_limit": "65496000",
+    "tanggal_lelang": "2025-06-13T09:00:00+07:00",
+    "kpknl": "KPKNL Palembang"
+  },
+  {
+    "pemohon": "PEMERINTAH KABUPATEN OGAN KOMERING ILIR",
+    "kode_lot": "34PXGS",
+    "nama_lot": "Ford Everest 2.5L 10-S MT di Kab. Ogan Komering Ilir",
+    "nilai_limit": "46811000",
+    "tanggal_lelang": "2025-06-13T09:00:00+07:00",
+    "kpknl": "KPKNL Palembang"
+  },
+  {
+    "pemohon": "PEMERINTAH KABUPATEN OGAN KOMERING ILIR",
+    "kode_lot": "C16OEL",
+    "nama_lot": "Ford Ranger Double Cabin Base 2.2L (4X4) MT Plus di Kab. Ogan Komering Ilir",
+    "nilai_limit": "57416000",
+    "tanggal_lelang": "2025-06-13T09:00:00+07:00",
+    "kpknl": "KPKNL Palembang"
+  },
+  {
+    "pemohon": "PEMERINTAH KABUPATEN OGAN KOMERING ILIR",
+    "kode_lot": "ZRMHGU",
+    "nama_lot": "5 barang bergerak di Kab. Ogan Komering Ilir",
+    "nilai_limit": "12250000",
+    "tanggal_lelang": "2025-06-13T09:00:00+07:00",
+    "kpknl": "KPKNL Palembang"
+  },
+  {
+    "pemohon": "PEMERINTAH KABUPATEN OGAN KOMERING ILIR",
+    "kode_lot": "ILWBE8",
+    "nama_lot": "Mitsubishi Strada L-200 di Kab. Ogan Komering Ilir",
+    "nilai_limit": "39383000",
+    "tanggal_lelang": "2025-06-13T09:00:00+07:00",
+    "kpknl": "KPKNL Palembang"
+  },
+  {
+    "pemohon": "PEMERINTAH KABUPATEN OGAN KOMERING ILIR",
+    "kode_lot": "1KW3WG",
+    "nama_lot": "Isuzu Panther TBR 54 Turbo di Kab. Ogan Komering Ilir",
+    "nilai_limit": "31808000",
+    "tanggal_lelang": "2025-06-13T09:00:00+07:00",
+    "kpknl": "KPKNL Palembang"
+  },
+  {
+    "pemohon": "PEMERINTAH KABUPATEN OGAN KOMERING ILIR",
+    "kode_lot": "XCKBM8",
+    "nama_lot": "Mitsubishi Strada CR 2.8L DC GLX di Kab. Ogan Komering Ilir",
+    "nilai_limit": "52159000",
+    "tanggal_lelang": "2025-06-13T09:00:00+07:00",
+    "kpknl": "KPKNL Palembang"
+  },
+  {
+    "pemohon": "PEMERINTAH KABUPATEN OGAN KOMERING ILIR",
+    "kode_lot": "1L02WI",
+    "nama_lot": "Nissan Frontier Navara 2.5 MT di Kab. Ogan Komering Ilir",
+    "nilai_limit": "61542000",
+    "tanggal_lelang": "2025-06-13T09:00:00+07:00",
+    "kpknl": "KPKNL Palembang"
+  },
+  {
+    "pemohon": "PEMERINTAH KABUPATEN OGAN KOMERING ILIR",
+    "kode_lot": "AHLNPL",
+    "nama_lot": "Mitsubishi Strada L200 2.5L GLS DB Cabin di Kab. Ogan Komering Ilir",
+    "nilai_limit": "49161000",
+    "tanggal_lelang": "2025-06-13T09:00:00+07:00",
+    "kpknl": "KPKNL Palembang"
+  },
+  {
+    "pemohon": "PEMERINTAH KABUPATEN OGAN KOMERING ILIR",
+    "kode_lot": "KGJTWG",
+    "nama_lot": "Isuzu Panther TBR 54 Turbo di Kab. Ogan Komering Ilir",
+    "nilai_limit": "33432000",
+    "tanggal_lelang": "2025-06-13T09:00:00+07:00",
+    "kpknl": "KPKNL Palembang"
+  },
+  {
+    "pemohon": "PEMERINTAH KABUPATEN OGAN KOMERING ILIR",
+    "kode_lot": "HD7YVK",
+    "nama_lot": "Ford Everest 2.5L 10-S MT di Kab. Ogan Komering Ilir",
+    "nilai_limit": "59336000",
+    "tanggal_lelang": "2025-06-13T09:00:00+07:00",
+    "kpknl": "KPKNL Palembang"
+  },
+  {
+    "pemohon": "PEMERINTAH KABUPATEN OGAN KOMERING ILIR",
+    "kode_lot": "JOLDLJ",
+    "nama_lot": "Mitsubishi Strada L-200 di Kab. Ogan Komering Ilir",
+    "nilai_limit": "46023000",
+    "tanggal_lelang": "2025-06-13T09:00:00+07:00",
+    "kpknl": "KPKNL Palembang"
+  },
+  {
+    "pemohon": "PEMERINTAH KABUPATEN OGAN KOMERING ILIR",
+    "kode_lot": "Y1JIRM",
+    "nama_lot": "Station Wagon Merk/Type Mitsubishi Strada CR 2.5L GLS BG 9149 KZ di Kab. Ogan Komering Ilir",
+    "nilai_limit": "9802000",
+    "tanggal_lelang": "2025-06-13T09:00:00+07:00",
     "kpknl": "KPKNL Palembang"
   }
 ]
