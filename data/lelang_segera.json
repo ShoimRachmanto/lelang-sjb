@@ -656,6 +656,30 @@
     "kpknl": "KPKNL Pangkalpinang"
   },
   {
+    "pemohon": null,
+    "kode_lot": null,
+    "nama_lot": "Satu Paket Peralatan Elektronik terdiri dari P.C Unit, UPS, Printer, Viewer, Scanner dalam keadaan Rusak Berat di Kab. Kerinci",
+    "nilai_limit": "999322",
+    "tanggal_lelang": "2025-10-28T11:00:00+07:00",
+    "kpknl": "KPKNL Jambi"
+  },
+  {
+    "pemohon": null,
+    "kode_lot": null,
+    "nama_lot": "1 (satu) Paket Barang/Inventaris Kantor (Rusak Berat) pada KPU Kab. Ogan Komering Ilir di Kab. Ogan Komering Ilir",
+    "nilai_limit": "1602000",
+    "tanggal_lelang": "2025-10-28T10:00:00+07:00",
+    "kpknl": "KPKNL Palembang"
+  },
+  {
+    "pemohon": null,
+    "kode_lot": null,
+    "nama_lot": "1 Paket Inventaris Kantor dalam kondisi rusak berat di Kota Palembang",
+    "nilai_limit": "1964030",
+    "tanggal_lelang": "2025-10-28T11:00:00+07:00",
+    "kpknl": "KPKNL Palembang"
+  },
+  {
     "pemohon": "PT BANK SYARIAH INDONESIA TBK, AREA JAMBI",
     "kode_lot": "6YZBJD",
     "nama_lot": "1 bidang tanah dengan total luas 95 m2 berikut bangunan di Kab. Merangin",
@@ -925,6 +949,78 @@
     "nama_lot": "Mobil Honda CRV-RM3 2WD 2,4 AT Tahun 2013 di Kota Pangkal Pinang",
     "nilai_limit": "200000000",
     "tanggal_lelang": "2025-10-29T12:00:00+07:00",
+    "kpknl": "KPKNL Pangkalpinang"
+  },
+  {
+    "pemohon": null,
+    "kode_lot": null,
+    "nama_lot": "Mobil Toyota Kijang Standart KF 80 di Kab. Tanjung Jabung Timur",
+    "nilai_limit": "15000000",
+    "tanggal_lelang": "2025-10-29T09:30:00+07:00",
+    "kpknl": "KPKNL Jambi"
+  },
+  {
+    "pemohon": null,
+    "kode_lot": null,
+    "nama_lot": "Mobil Toyota Avanza 1300 G di Kab. Tanjung Jabung Timur",
+    "nilai_limit": "15000000",
+    "tanggal_lelang": "2025-10-29T09:30:00+07:00",
+    "kpknl": "KPKNL Jambi"
+  },
+  {
+    "pemohon": null,
+    "kode_lot": null,
+    "nama_lot": "6 kendaraan bermotor di Kab. Tanjung Jabung Timur",
+    "nilai_limit": "7805300",
+    "tanggal_lelang": "2025-10-29T09:30:00+07:00",
+    "kpknl": "KPKNL Jambi"
+  },
+  {
+    "pemohon": null,
+    "kode_lot": null,
+    "nama_lot": "Mobil Toyota Avanza 1300 G di Kab. Tanjung Jabung Timur",
+    "nilai_limit": "28000000",
+    "tanggal_lelang": "2025-10-29T09:30:00+07:00",
+    "kpknl": "KPKNL Jambi"
+  },
+  {
+    "pemohon": null,
+    "kode_lot": null,
+    "nama_lot": "1 Paket scrap kendaraan bermotor kejari muba di Kab. Musi Banyuasin",
+    "nilai_limit": "34650000",
+    "tanggal_lelang": "2025-10-29T10:00:00+07:00",
+    "kpknl": "KPKNL Palembang"
+  },
+  {
+    "pemohon": null,
+    "kode_lot": null,
+    "nama_lot": "Satu paket AC Split, UPS, Kipas, Jam, Telepon, Fax, Pompa Air, Televisi, Speaker, Tape Recording, Infocus, Mic, Dispenser, Acces Poin, Amplifier dan Mesin Pembukuan, Fotocopy, Jilid, Mesin Cuci dan Mesin Rumput Kondisi Rusak Berat di Kota Palembang",
+    "nilai_limit": "5268000",
+    "tanggal_lelang": "2025-10-29T10:00:00+07:00",
+    "kpknl": "KPKNL Palembang"
+  },
+  {
+    "pemohon": null,
+    "kode_lot": null,
+    "nama_lot": "1 (satu) Paket Printer, P.C Unit dan Notebook Dalam Kondisi Rusak Berat di Kota Palembang",
+    "nilai_limit": "18470000",
+    "tanggal_lelang": "2025-10-29T10:00:00+07:00",
+    "kpknl": "KPKNL Palembang"
+  },
+  {
+    "pemohon": null,
+    "kode_lot": null,
+    "nama_lot": "Material hasil pembongkaran bangunan gedung berupa besi, aluminium, kayu, wastafel, urinoir, kloset duduk dan pipa PVC di Kota Palembang",
+    "nilai_limit": "5000000",
+    "tanggal_lelang": "2025-10-29T14:30:00+07:00",
+    "kpknl": "KPKNL Palembang"
+  },
+  {
+    "pemohon": null,
+    "kode_lot": null,
+    "nama_lot": "1 (Satu) Paket Inventaris Kantor Berupa 130 Unit Peralatan Mesin Kondisi Rusak Berat di Kota Pangkal Pinang",
+    "nilai_limit": "8236000",
+    "tanggal_lelang": "2025-10-29T09:00:00+07:00",
     "kpknl": "KPKNL Pangkalpinang"
   },
   {
@@ -1600,6 +1696,118 @@
     "kpknl": "KPKNL Pangkalpinang"
   },
   {
+    "pemohon": null,
+    "kode_lot": null,
+    "nama_lot": "1 bidang tanah dengan total luas 341 m2 berikut bangunan di Kota Jambi",
+    "nilai_limit": "650000000",
+    "tanggal_lelang": "2025-10-30T11:00:00+07:00",
+    "kpknl": "KPKNL Jambi"
+  },
+  {
+    "pemohon": null,
+    "kode_lot": null,
+    "nama_lot": "1 bidang tanah dengan total luas 2306 m2 di Kab. Tanjung Jabung Timur",
+    "nilai_limit": "182600000",
+    "tanggal_lelang": "2025-10-30T11:00:00+07:00",
+    "kpknl": "KPKNL Jambi"
+  },
+  {
+    "pemohon": null,
+    "kode_lot": null,
+    "nama_lot": "1 bidang tanah dengan total luas 148 m2 berikut bangunan di Kab. Tanjung Jabung Timur",
+    "nilai_limit": "169300000",
+    "tanggal_lelang": "2025-10-30T11:00:00+07:00",
+    "kpknl": "KPKNL Jambi"
+  },
+  {
+    "pemohon": null,
+    "kode_lot": null,
+    "nama_lot": "1 bidang tanah dengan total luas 150 m2 berikut bangunan di Kab. Tanjung Jabung Timur",
+    "nilai_limit": "169300000",
+    "tanggal_lelang": "2025-10-30T11:00:00+07:00",
+    "kpknl": "KPKNL Jambi"
+  },
+  {
+    "pemohon": null,
+    "kode_lot": null,
+    "nama_lot": "1 bidang tanah dengan total luas 151 m2 berikut bangunan di Kab. Tanjung Jabung Timur",
+    "nilai_limit": "169300000",
+    "tanggal_lelang": "2025-10-30T11:00:00+07:00",
+    "kpknl": "KPKNL Jambi"
+  },
+  {
+    "pemohon": null,
+    "kode_lot": null,
+    "nama_lot": "2 bidang tanah dengan total luas 1100 m2 berikut bangunan di Kota Jambi",
+    "nilai_limit": "1200000000",
+    "tanggal_lelang": "2025-10-30T11:00:00+07:00",
+    "kpknl": "KPKNL Jambi"
+  },
+  {
+    "pemohon": null,
+    "kode_lot": null,
+    "nama_lot": "1 bidang tanah dengan total luas 412 m2 berikut bangunan di Kota Jambi",
+    "nilai_limit": "125000000",
+    "tanggal_lelang": "2025-10-30T15:00:00+07:00",
+    "kpknl": "KPKNL Jambi"
+  },
+  {
+    "pemohon": null,
+    "kode_lot": null,
+    "nama_lot": "1 bidang tanah dengan total luas 400 m2 berikut bangunan di Kab. Muaro Jambi",
+    "nilai_limit": "90000000",
+    "tanggal_lelang": "2025-10-30T15:00:00+07:00",
+    "kpknl": "KPKNL Jambi"
+  },
+  {
+    "pemohon": null,
+    "kode_lot": null,
+    "nama_lot": "1 bidang tanah dengan total luas 96 m2 berikut bangunan di Kab. Lahat",
+    "nilai_limit": "112000000",
+    "tanggal_lelang": "2025-10-30T10:35:00+07:00",
+    "kpknl": "KPKNL Lahat"
+  },
+  {
+    "pemohon": null,
+    "kode_lot": null,
+    "nama_lot": "1 bidang tanah dengan total luas 18360 m2 di Kab. Muara Enim",
+    "nilai_limit": "73000000",
+    "tanggal_lelang": "2025-10-30T13:00:00+07:00",
+    "kpknl": "KPKNL Lahat"
+  },
+  {
+    "pemohon": null,
+    "kode_lot": null,
+    "nama_lot": "1 bidang tanah dengan total luas 2305 m2 berikut bangunan di Kab. Muara Enim",
+    "nilai_limit": "47000000",
+    "tanggal_lelang": "2025-10-30T13:00:00+07:00",
+    "kpknl": "KPKNL Lahat"
+  },
+  {
+    "pemohon": null,
+    "kode_lot": null,
+    "nama_lot": "1 bidang tanah dengan total luas 2370 m2 berikut bangunan di Kab. Muara Enim",
+    "nilai_limit": "51000000",
+    "tanggal_lelang": "2025-10-30T13:00:00+07:00",
+    "kpknl": "KPKNL Lahat"
+  },
+  {
+    "pemohon": null,
+    "kode_lot": null,
+    "nama_lot": "1 bidang tanah dengan total luas 21960 m2 di Kab. Muara Enim",
+    "nilai_limit": "54000000",
+    "tanggal_lelang": "2025-10-30T13:00:00+07:00",
+    "kpknl": "KPKNL Lahat"
+  },
+  {
+    "pemohon": null,
+    "kode_lot": null,
+    "nama_lot": "1 bidang tanah dengan total luas 18255 m2 di Kab. Muara Enim",
+    "nilai_limit": "73000000",
+    "tanggal_lelang": "2025-10-30T13:00:00+07:00",
+    "kpknl": "KPKNL Lahat"
+  },
+  {
     "pemohon": "PT. Bank Rakyat Indonesia (Persero), Tbk, Kantor Cabang Bangko",
     "kode_lot": "QBCKHQ",
     "nama_lot": "1 bidang tanah dengan total luas 1360 m2 berikut bangunan di Kab. Merangin",
@@ -1822,5 +2030,1005 @@
     "nilai_limit": "918000000",
     "tanggal_lelang": "2025-10-31T09:00:00+07:00",
     "kpknl": "KPKNL Palembang"
+  },
+  {
+    "pemohon": null,
+    "kode_lot": null,
+    "nama_lot": "5 kendaraan bermotor di Kab. Tebo",
+    "nilai_limit": "6077000",
+    "tanggal_lelang": "2025-10-31T10:00:00+07:00",
+    "kpknl": "KPKNL Jambi"
+  },
+  {
+    "pemohon": null,
+    "kode_lot": null,
+    "nama_lot": "5 kendaraan bermotor di Kab. Tebo",
+    "nilai_limit": "5085000",
+    "tanggal_lelang": "2025-10-31T10:00:00+07:00",
+    "kpknl": "KPKNL Jambi"
+  },
+  {
+    "pemohon": null,
+    "kode_lot": null,
+    "nama_lot": "5 kendaraan bermotor di Kab. Tebo",
+    "nilai_limit": "5511000",
+    "tanggal_lelang": "2025-10-31T10:00:00+07:00",
+    "kpknl": "KPKNL Jambi"
+  },
+  {
+    "pemohon": null,
+    "kode_lot": null,
+    "nama_lot": "5 kendaraan bermotor di Kab. Tebo",
+    "nilai_limit": "7404000",
+    "tanggal_lelang": "2025-10-31T10:00:00+07:00",
+    "kpknl": "KPKNL Jambi"
+  },
+  {
+    "pemohon": null,
+    "kode_lot": null,
+    "nama_lot": "5 kendaraan bermotor di Kab. Tebo",
+    "nilai_limit": "8918000",
+    "tanggal_lelang": "2025-10-31T10:00:00+07:00",
+    "kpknl": "KPKNL Jambi"
+  },
+  {
+    "pemohon": null,
+    "kode_lot": null,
+    "nama_lot": "LOT 7, 1 (Satu) Unit Mitshubishi L-300 di Kab. Tebo",
+    "nilai_limit": "18369000",
+    "tanggal_lelang": "2025-10-31T10:00:00+07:00",
+    "kpknl": "KPKNL Jambi"
+  },
+  {
+    "pemohon": null,
+    "kode_lot": null,
+    "nama_lot": "5 kendaraan bermotor di Kab. Tebo",
+    "nilai_limit": "7447000",
+    "tanggal_lelang": "2025-10-31T10:00:00+07:00",
+    "kpknl": "KPKNL Jambi"
+  },
+  {
+    "pemohon": null,
+    "kode_lot": null,
+    "nama_lot": "5 kendaraan bermotor di Kab. Tebo",
+    "nilai_limit": "5517000",
+    "tanggal_lelang": "2025-10-31T10:00:00+07:00",
+    "kpknl": "KPKNL Jambi"
+  },
+  {
+    "pemohon": null,
+    "kode_lot": null,
+    "nama_lot": "5 kendaraan bermotor di Kab. Tebo",
+    "nilai_limit": "6735000",
+    "tanggal_lelang": "2025-10-31T10:00:00+07:00",
+    "kpknl": "KPKNL Jambi"
+  },
+  {
+    "pemohon": null,
+    "kode_lot": null,
+    "nama_lot": "5 kendaraan bermotor di Kab. Tebo",
+    "nilai_limit": "8040000",
+    "tanggal_lelang": "2025-10-31T10:00:00+07:00",
+    "kpknl": "KPKNL Jambi"
+  },
+  {
+    "pemohon": null,
+    "kode_lot": null,
+    "nama_lot": "Lot 13, 1 (satu) Paket Scrab 11 Unit eks Kendaraan roda tiga di Kab. Tebo",
+    "nilai_limit": "2924000",
+    "tanggal_lelang": "2025-10-31T10:00:00+07:00",
+    "kpknl": "KPKNL Jambi"
+  },
+  {
+    "pemohon": null,
+    "kode_lot": null,
+    "nama_lot": "5 kendaraan bermotor di Kab. Tebo",
+    "nilai_limit": "8187000",
+    "tanggal_lelang": "2025-10-31T10:00:00+07:00",
+    "kpknl": "KPKNL Jambi"
+  },
+  {
+    "pemohon": null,
+    "kode_lot": null,
+    "nama_lot": "5 kendaraan bermotor di Kab. Tebo",
+    "nilai_limit": "6019000",
+    "tanggal_lelang": "2025-10-31T10:00:00+07:00",
+    "kpknl": "KPKNL Jambi"
+  },
+  {
+    "pemohon": null,
+    "kode_lot": null,
+    "nama_lot": "LOT 13, Eks ambulan TOYOTA/KIJANG (kondisi scrab) di Kab. Tebo",
+    "nilai_limit": "2332000",
+    "tanggal_lelang": "2025-10-31T10:00:00+07:00",
+    "kpknl": "KPKNL Jambi"
+  },
+  {
+    "pemohon": null,
+    "kode_lot": null,
+    "nama_lot": "LOT 14, Eks ambulan TOYOTA/KIJANG SUPER (kondisi scrab) di Kab. Tebo",
+    "nilai_limit": "1862000",
+    "tanggal_lelang": "2025-10-31T10:00:00+07:00",
+    "kpknl": "KPKNL Jambi"
+  },
+  {
+    "pemohon": null,
+    "kode_lot": null,
+    "nama_lot": "LOT 15, Eks ambulan DAIHATSU/EXSPAS (kondisi scrab) di Kab. Tebo",
+    "nilai_limit": "2509000",
+    "tanggal_lelang": "2025-10-31T10:00:00+07:00",
+    "kpknl": "KPKNL Jambi"
+  },
+  {
+    "pemohon": null,
+    "kode_lot": null,
+    "nama_lot": "LOT 16, Eks ambulan TOYOTA/KIJANG SUPER (kondisi scrab) di Kab. Tebo",
+    "nilai_limit": "1764000",
+    "tanggal_lelang": "2025-10-31T10:00:00+07:00",
+    "kpknl": "KPKNL Jambi"
+  },
+  {
+    "pemohon": null,
+    "kode_lot": null,
+    "nama_lot": "LOT 17, Eks mobil TOYOTA/KIJANG SUPER (kondisi scrab) di Kab. Tebo",
+    "nilai_limit": "3528000",
+    "tanggal_lelang": "2025-10-31T10:00:00+07:00",
+    "kpknl": "KPKNL Jambi"
+  },
+  {
+    "pemohon": null,
+    "kode_lot": null,
+    "nama_lot": "LOT 20, 1 (Satu) Unit DUMP TRUCK/ ISUZU di Kab. Tebo",
+    "nilai_limit": "23709000",
+    "tanggal_lelang": "2025-10-31T10:00:00+07:00",
+    "kpknl": "KPKNL Jambi"
+  },
+  {
+    "pemohon": null,
+    "kode_lot": null,
+    "nama_lot": "LOT 32, EXCAVATOR  (KONDISI SCRAB) di Kab. Tebo",
+    "nilai_limit": "71677000",
+    "tanggal_lelang": "2025-10-31T10:00:00+07:00",
+    "kpknl": "KPKNL Jambi"
+  },
+  {
+    "pemohon": null,
+    "kode_lot": null,
+    "nama_lot": "LOT 18, Eks mobil TOYOTA/KIJANG SUPER (kondisi scrab) di Kab. Tebo",
+    "nilai_limit": "3528000",
+    "tanggal_lelang": "2025-10-31T10:00:00+07:00",
+    "kpknl": "KPKNL Jambi"
+  },
+  {
+    "pemohon": null,
+    "kode_lot": null,
+    "nama_lot": "LOT 12, Eks ambulan TOYOTA/KIJANG (kondisi scrab) di Kab. Tebo",
+    "nilai_limit": "1078000",
+    "tanggal_lelang": "2025-10-31T10:00:00+07:00",
+    "kpknl": "KPKNL Jambi"
+  },
+  {
+    "pemohon": null,
+    "kode_lot": null,
+    "nama_lot": "LOT 9, Eks Ambulan TOYOTA/KIJANG (kondisi scrab) di Kab. Tebo",
+    "nilai_limit": "706000",
+    "tanggal_lelang": "2025-10-31T10:00:00+07:00",
+    "kpknl": "KPKNL Jambi"
+  },
+  {
+    "pemohon": null,
+    "kode_lot": null,
+    "nama_lot": "1 bidang tanah dengan total luas 625 m2 berikut bangunan di Kab. Muaro Jambi",
+    "nilai_limit": "800000000",
+    "tanggal_lelang": "2025-10-31T10:00:00+07:00",
+    "kpknl": "KPKNL Jambi"
+  },
+  {
+    "pemohon": null,
+    "kode_lot": null,
+    "nama_lot": "1 bidang tanah dengan total luas 495 m2 berikut bangunan di Kab. Batanghari",
+    "nilai_limit": "500000000",
+    "tanggal_lelang": "2025-10-31T10:00:00+07:00",
+    "kpknl": "KPKNL Jambi"
+  },
+  {
+    "pemohon": null,
+    "kode_lot": null,
+    "nama_lot": "LOT 33, TOYOTA/KIJANG SUPER (kondisi scrab) di Kab. Tebo",
+    "nilai_limit": "3567000",
+    "tanggal_lelang": "2025-10-31T10:00:00+07:00",
+    "kpknl": "KPKNL Jambi"
+  },
+  {
+    "pemohon": null,
+    "kode_lot": null,
+    "nama_lot": "LOT 10, Eks ambulan TOYOTA/ BUX 3 (kondisi scrab) di Kab. Tebo",
+    "nilai_limit": "2783000",
+    "tanggal_lelang": "2025-10-31T10:00:00+07:00",
+    "kpknl": "KPKNL Jambi"
+  },
+  {
+    "pemohon": null,
+    "kode_lot": null,
+    "nama_lot": "LOT 19, 1 (Satu) Unit DUMP TRUCK/ MITSUBHISI di Kab. Tebo",
+    "nilai_limit": "25031000",
+    "tanggal_lelang": "2025-10-31T10:00:00+07:00",
+    "kpknl": "KPKNL Jambi"
+  },
+  {
+    "pemohon": null,
+    "kode_lot": null,
+    "nama_lot": "LOT 29, 1 (Satu) Unit Kijang Super F 50 Long di Kab. Tebo",
+    "nilai_limit": "16104000",
+    "tanggal_lelang": "2025-10-31T10:00:00+07:00",
+    "kpknl": "KPKNL Jambi"
+  },
+  {
+    "pemohon": null,
+    "kode_lot": null,
+    "nama_lot": "1 bidang tanah dengan total luas 226 m2 berikut bangunan di Kota Jambi",
+    "nilai_limit": "800000000",
+    "tanggal_lelang": "2025-10-31T10:00:00+07:00",
+    "kpknl": "KPKNL Jambi"
+  },
+  {
+    "pemohon": null,
+    "kode_lot": null,
+    "nama_lot": "Lot 12, 1 (satu) Paket Scrab 13 Unit eks Kendaraan Roda 2 di Kab. Tebo",
+    "nilai_limit": "1260000",
+    "tanggal_lelang": "2025-10-31T10:00:00+07:00",
+    "kpknl": "KPKNL Jambi"
+  },
+  {
+    "pemohon": null,
+    "kode_lot": null,
+    "nama_lot": "LOT 1, 1 (unit) Mobil MITSUBISHI / L200 di Kab. Tebo",
+    "nilai_limit": "25377000",
+    "tanggal_lelang": "2025-10-31T10:00:00+07:00",
+    "kpknl": "KPKNL Jambi"
+  },
+  {
+    "pemohon": null,
+    "kode_lot": null,
+    "nama_lot": "LOT 5, 1 (satu) unit TOYOTA KIJANG di Kab. Tebo",
+    "nilai_limit": "3466000",
+    "tanggal_lelang": "2025-10-31T10:00:00+07:00",
+    "kpknl": "KPKNL Jambi"
+  },
+  {
+    "pemohon": null,
+    "kode_lot": null,
+    "nama_lot": "LOT 22, 1 (Satu) Unit Mitshubishi FE349 Truk di Kab. Tebo",
+    "nilai_limit": "36915000",
+    "tanggal_lelang": "2025-10-31T10:00:00+07:00",
+    "kpknl": "KPKNL Jambi"
+  },
+  {
+    "pemohon": null,
+    "kode_lot": null,
+    "nama_lot": "LOT 23, 1 (Satu) Unit Microbus Isuzu MKR66-2 di Kab. Tebo",
+    "nilai_limit": "27864000",
+    "tanggal_lelang": "2025-10-31T10:00:00+07:00",
+    "kpknl": "KPKNL Jambi"
+  },
+  {
+    "pemohon": null,
+    "kode_lot": null,
+    "nama_lot": "LOT 25, 1 (Satu) Unit MITSUBISHI L200 di Kab. Tebo",
+    "nilai_limit": "29805000",
+    "tanggal_lelang": "2025-10-31T10:00:00+07:00",
+    "kpknl": "KPKNL Jambi"
+  },
+  {
+    "pemohon": null,
+    "kode_lot": null,
+    "nama_lot": "LOT 26, 1 (Satu) Unit Mitshubishi L-200 di Kab. Tebo",
+    "nilai_limit": "18026000",
+    "tanggal_lelang": "2025-10-31T10:00:00+07:00",
+    "kpknl": "KPKNL Jambi"
+  },
+  {
+    "pemohon": null,
+    "kode_lot": null,
+    "nama_lot": "6 kendaraan bermotor di Kab. Tebo",
+    "nilai_limit": "9817000",
+    "tanggal_lelang": "2025-10-31T10:00:00+07:00",
+    "kpknl": "KPKNL Jambi"
+  },
+  {
+    "pemohon": null,
+    "kode_lot": null,
+    "nama_lot": "6 kendaraan bermotor di Kab. Tebo",
+    "nilai_limit": "7555000",
+    "tanggal_lelang": "2025-10-31T10:00:00+07:00",
+    "kpknl": "KPKNL Jambi"
+  },
+  {
+    "pemohon": null,
+    "kode_lot": null,
+    "nama_lot": "LOT 21, 1 (Satu) Unit DUMP TRUCK/ ISUZU di Kab. Tebo",
+    "nilai_limit": "20610000",
+    "tanggal_lelang": "2025-10-31T10:00:00+07:00",
+    "kpknl": "KPKNL Jambi"
+  },
+  {
+    "pemohon": null,
+    "kode_lot": null,
+    "nama_lot": "LOT 4, 1 (Satu) Unit MITSUBISHI L200 2.8L 4X4 di Kab. Tebo",
+    "nilai_limit": "31295000",
+    "tanggal_lelang": "2025-10-31T10:00:00+07:00",
+    "kpknl": "KPKNL Jambi"
+  },
+  {
+    "pemohon": null,
+    "kode_lot": null,
+    "nama_lot": "LOT 6, 1 (Satu) Unit Toyota Bux 3 di Kab. Tebo",
+    "nilai_limit": "20796000",
+    "tanggal_lelang": "2025-10-31T10:00:00+07:00",
+    "kpknl": "KPKNL Jambi"
+  },
+  {
+    "pemohon": null,
+    "kode_lot": null,
+    "nama_lot": "LOT 8, 1 (Satu) Unit Mitshubishi L-300 di Kab. Tebo",
+    "nilai_limit": "16408000",
+    "tanggal_lelang": "2025-10-31T10:00:00+07:00",
+    "kpknl": "KPKNL Jambi"
+  },
+  {
+    "pemohon": null,
+    "kode_lot": null,
+    "nama_lot": "LOT 11, Eks ambulan MITSUBISHI/L300 (kondisi scrab) di Kab. Tebo",
+    "nilai_limit": "2646000",
+    "tanggal_lelang": "2025-10-31T10:00:00+07:00",
+    "kpknl": "KPKNL Jambi"
+  },
+  {
+    "pemohon": null,
+    "kode_lot": null,
+    "nama_lot": "LOT 28, 1 (Satu) Unit MOBIL AMBULANCE/ MAZDA DIESEL di Kab. Tebo",
+    "nilai_limit": "25395000",
+    "tanggal_lelang": "2025-10-31T10:00:00+07:00",
+    "kpknl": "KPKNL Jambi"
+  },
+  {
+    "pemohon": null,
+    "kode_lot": null,
+    "nama_lot": "LOT 2, 1 (Satu) Unit MITSUBISHI VB5W KUDA di Kab. Tebo",
+    "nilai_limit": "21417000",
+    "tanggal_lelang": "2025-10-31T10:00:00+07:00",
+    "kpknl": "KPKNL Jambi"
+  },
+  {
+    "pemohon": null,
+    "kode_lot": null,
+    "nama_lot": "LOT 24, 1 (Satu) Unit CHEVROLET COLORADO LTZ di Kab. Tebo",
+    "nilai_limit": "62814000",
+    "tanggal_lelang": "2025-10-31T10:00:00+07:00",
+    "kpknl": "KPKNL Jambi"
+  },
+  {
+    "pemohon": null,
+    "kode_lot": null,
+    "nama_lot": "LOT 27, 1 (Satu) Unit Toyota KF.60 Pick Up di Kab. Tebo",
+    "nilai_limit": "14599000",
+    "tanggal_lelang": "2025-10-31T10:00:00+07:00",
+    "kpknl": "KPKNL Jambi"
+  },
+  {
+    "pemohon": null,
+    "kode_lot": null,
+    "nama_lot": "LOT 3, 1 (Satu) Unit MITSUBISHI L200 di Kab. Tebo",
+    "nilai_limit": "24433000",
+    "tanggal_lelang": "2025-10-31T10:00:00+07:00",
+    "kpknl": "KPKNL Jambi"
+  },
+  {
+    "pemohon": null,
+    "kode_lot": null,
+    "nama_lot": "1 bidang tanah dengan total luas 78 m2 berikut bangunan di Kab. Bungo",
+    "nilai_limit": "314400000",
+    "tanggal_lelang": "2025-10-31T10:30:00+07:00",
+    "kpknl": "KPKNL Jambi"
+  },
+  {
+    "pemohon": null,
+    "kode_lot": null,
+    "nama_lot": "1 bidang tanah dengan total luas 429 m2 berikut bangunan di Kota Jambi",
+    "nilai_limit": "110400000",
+    "tanggal_lelang": "2025-10-31T10:30:00+07:00",
+    "kpknl": "KPKNL Jambi"
+  },
+  {
+    "pemohon": null,
+    "kode_lot": null,
+    "nama_lot": "1 bidang tanah dengan total luas 140 m2 berikut bangunan di Kota Jambi",
+    "nilai_limit": "427200000",
+    "tanggal_lelang": "2025-10-31T10:30:00+07:00",
+    "kpknl": "KPKNL Jambi"
+  },
+  {
+    "pemohon": null,
+    "kode_lot": null,
+    "nama_lot": "1 bidang tanah dengan total luas 119 m2 berikut bangunan di Kota Jambi",
+    "nilai_limit": "533950000",
+    "tanggal_lelang": "2025-10-31T10:30:00+07:00",
+    "kpknl": "KPKNL Jambi"
+  },
+  {
+    "pemohon": null,
+    "kode_lot": null,
+    "nama_lot": "1 bidang tanah dengan total luas 109 m2 berikut bangunan di Kab. Muaro Jambi",
+    "nilai_limit": "154100000",
+    "tanggal_lelang": "2025-10-31T10:30:00+07:00",
+    "kpknl": "KPKNL Jambi"
+  },
+  {
+    "pemohon": null,
+    "kode_lot": null,
+    "nama_lot": "1 bidang tanah dengan total luas 149 m2 berikut bangunan di Kota Jambi",
+    "nilai_limit": "274230000",
+    "tanggal_lelang": "2025-10-31T10:45:00+07:00",
+    "kpknl": "KPKNL Jambi"
+  },
+  {
+    "pemohon": null,
+    "kode_lot": null,
+    "nama_lot": "1 bidang tanah dengan total luas 352 m2 berikut bangunan di Kab. Tanjung Jabung Barat",
+    "nilai_limit": "110900000",
+    "tanggal_lelang": "2025-10-31T10:45:00+07:00",
+    "kpknl": "KPKNL Jambi"
+  },
+  {
+    "pemohon": null,
+    "kode_lot": null,
+    "nama_lot": "1 bidang tanah dengan total luas 118 m2 berikut bangunan di Kab. Muaro Jambi",
+    "nilai_limit": "186540000",
+    "tanggal_lelang": "2025-10-31T10:45:00+07:00",
+    "kpknl": "KPKNL Jambi"
+  },
+  {
+    "pemohon": null,
+    "kode_lot": null,
+    "nama_lot": "1 bidang tanah dengan total luas 120 m2 berikut bangunan di Kota Jambi",
+    "nilai_limit": "68292000",
+    "tanggal_lelang": "2025-10-31T10:45:00+07:00",
+    "kpknl": "KPKNL Jambi"
+  },
+  {
+    "pemohon": null,
+    "kode_lot": null,
+    "nama_lot": "1 bidang tanah dengan total luas 310 m2 berikut bangunan di Kota Jambi",
+    "nilai_limit": "114910000",
+    "tanggal_lelang": "2025-10-31T10:45:00+07:00",
+    "kpknl": "KPKNL Jambi"
+  },
+  {
+    "pemohon": null,
+    "kode_lot": null,
+    "nama_lot": "1 bidang tanah dengan total luas 829 m2 berikut bangunan di Kota Jambi",
+    "nilai_limit": "250000000",
+    "tanggal_lelang": "2025-10-31T11:00:00+07:00",
+    "kpknl": "KPKNL Jambi"
+  },
+  {
+    "pemohon": null,
+    "kode_lot": null,
+    "nama_lot": "1 bidang tanah dengan total luas 630 m2 berikut bangunan di Kota Jambi",
+    "nilai_limit": "600000000",
+    "tanggal_lelang": "2025-10-31T11:00:00+07:00",
+    "kpknl": "KPKNL Jambi"
+  },
+  {
+    "pemohon": null,
+    "kode_lot": null,
+    "nama_lot": "1 bidang tanah dengan total luas 114 m2 berikut bangunan di Kab. Muaro Jambi",
+    "nilai_limit": "112435000",
+    "tanggal_lelang": "2025-10-31T14:00:00+07:00",
+    "kpknl": "KPKNL Jambi"
+  },
+  {
+    "pemohon": null,
+    "kode_lot": null,
+    "nama_lot": "TOYOTA INOVA G di Kota Palembang",
+    "nilai_limit": "29298000",
+    "tanggal_lelang": "2025-10-31T08:30:00+07:00",
+    "kpknl": "KPKNL Palembang"
+  },
+  {
+    "pemohon": null,
+    "kode_lot": null,
+    "nama_lot": "SEPEDA MOTOR SUZUKI FL 125 SD di Kota Palembang",
+    "nilai_limit": "2029000",
+    "tanggal_lelang": "2025-10-31T08:30:00+07:00",
+    "kpknl": "KPKNL Palembang"
+  },
+  {
+    "pemohon": null,
+    "kode_lot": null,
+    "nama_lot": "SEPEDA MOTOR SUZUKI FL 125 SD di Kota Palembang",
+    "nilai_limit": "2062000",
+    "tanggal_lelang": "2025-10-31T08:30:00+07:00",
+    "kpknl": "KPKNL Palembang"
+  },
+  {
+    "pemohon": null,
+    "kode_lot": null,
+    "nama_lot": "SEPEDA MOTOR SUZUKI FL 125 SD di Kota Palembang",
+    "nilai_limit": "2062000",
+    "tanggal_lelang": "2025-10-31T08:30:00+07:00",
+    "kpknl": "KPKNL Palembang"
+  },
+  {
+    "pemohon": null,
+    "kode_lot": null,
+    "nama_lot": "SUZUKI SEPEDA MOTOR FL 125 SD di Kota Palembang",
+    "nilai_limit": "2062000",
+    "tanggal_lelang": "2025-10-31T08:30:00+07:00",
+    "kpknl": "KPKNL Palembang"
+  },
+  {
+    "pemohon": null,
+    "kode_lot": null,
+    "nama_lot": "SUZUKI SEPEDA MOTOR FL 125 SD di Kota Palembang",
+    "nilai_limit": "2029000",
+    "tanggal_lelang": "2025-10-31T08:30:00+07:00",
+    "kpknl": "KPKNL Palembang"
+  },
+  {
+    "pemohon": null,
+    "kode_lot": null,
+    "nama_lot": "SCRAP/BESI TUA BG 7906 MZ di Kota Palembang",
+    "nilai_limit": "2234000",
+    "tanggal_lelang": "2025-10-31T08:30:00+07:00",
+    "kpknl": "KPKNL Palembang"
+  },
+  {
+    "pemohon": null,
+    "kode_lot": null,
+    "nama_lot": "SCRAP/BESI TUA BG 7907 MZ di Kota Palembang",
+    "nilai_limit": "4803000",
+    "tanggal_lelang": "2025-10-31T08:30:00+07:00",
+    "kpknl": "KPKNL Palembang"
+  },
+  {
+    "pemohon": null,
+    "kode_lot": null,
+    "nama_lot": "SCRAP/BESI TUA BG 7768 MZ di Kota Palembang",
+    "nilai_limit": "3382000",
+    "tanggal_lelang": "2025-10-31T08:30:00+07:00",
+    "kpknl": "KPKNL Palembang"
+  },
+  {
+    "pemohon": null,
+    "kode_lot": null,
+    "nama_lot": "SCRAP/BESI TUA BG 9641 LZ di Kota Palembang",
+    "nilai_limit": "3002000",
+    "tanggal_lelang": "2025-10-31T08:30:00+07:00",
+    "kpknl": "KPKNL Palembang"
+  },
+  {
+    "pemohon": null,
+    "kode_lot": null,
+    "nama_lot": "SCRAP/BESI TUA BG 7770 MZ di Kota Palembang",
+    "nilai_limit": "3382000",
+    "tanggal_lelang": "2025-10-31T08:30:00+07:00",
+    "kpknl": "KPKNL Palembang"
+  },
+  {
+    "pemohon": null,
+    "kode_lot": null,
+    "nama_lot": "SCRAP/BESI TUA BG 7857 MZ di Kota Palembang",
+    "nilai_limit": "3382000",
+    "tanggal_lelang": "2025-10-31T08:30:00+07:00",
+    "kpknl": "KPKNL Palembang"
+  },
+  {
+    "pemohon": null,
+    "kode_lot": null,
+    "nama_lot": "SCRAP/BESI TUA BG 7856 MZ di Kota Palembang",
+    "nilai_limit": "3382000",
+    "tanggal_lelang": "2025-10-31T08:30:00+07:00",
+    "kpknl": "KPKNL Palembang"
+  },
+  {
+    "pemohon": null,
+    "kode_lot": null,
+    "nama_lot": "SCRAP/BESI TUA BG 7854 MZ di Kota Palembang",
+    "nilai_limit": "3382000",
+    "tanggal_lelang": "2025-10-31T08:30:00+07:00",
+    "kpknl": "KPKNL Palembang"
+  },
+  {
+    "pemohon": null,
+    "kode_lot": null,
+    "nama_lot": "SEPEDA MOTOR SUZUKI FL 125 SD di Kota Palembang",
+    "nilai_limit": "2029000",
+    "tanggal_lelang": "2025-10-31T08:30:00+07:00",
+    "kpknl": "KPKNL Palembang"
+  },
+  {
+    "pemohon": null,
+    "kode_lot": null,
+    "nama_lot": "SEPEDA MOTOR SUZUKI FL 125 SD di Kota Palembang",
+    "nilai_limit": "2532000",
+    "tanggal_lelang": "2025-10-31T08:30:00+07:00",
+    "kpknl": "KPKNL Palembang"
+  },
+  {
+    "pemohon": null,
+    "kode_lot": null,
+    "nama_lot": "Sepeda Motor Suzuki FL 125 SD di Kota Palembang",
+    "nilai_limit": "2029000",
+    "tanggal_lelang": "2025-10-31T08:30:00+07:00",
+    "kpknl": "KPKNL Palembang"
+  },
+  {
+    "pemohon": null,
+    "kode_lot": null,
+    "nama_lot": "SEPEDA MOTOR SUZUKI FL 125 SD di Kota Palembang",
+    "nilai_limit": "2029000",
+    "tanggal_lelang": "2025-10-31T08:30:00+07:00",
+    "kpknl": "KPKNL Palembang"
+  },
+  {
+    "pemohon": null,
+    "kode_lot": null,
+    "nama_lot": "SEPEDA MOTOR SUZUKI FL 125 SD di Kota Palembang",
+    "nilai_limit": "2062000",
+    "tanggal_lelang": "2025-10-31T08:30:00+07:00",
+    "kpknl": "KPKNL Palembang"
+  },
+  {
+    "pemohon": null,
+    "kode_lot": null,
+    "nama_lot": "SEPEDA MOTOR SUZUKI FL 125 SD di Kota Palembang",
+    "nilai_limit": "1995000",
+    "tanggal_lelang": "2025-10-31T08:30:00+07:00",
+    "kpknl": "KPKNL Palembang"
+  },
+  {
+    "pemohon": null,
+    "kode_lot": null,
+    "nama_lot": "SCRAP/BESI TUA BG 7904 di Kota Palembang",
+    "nilai_limit": "4803000",
+    "tanggal_lelang": "2025-10-31T08:30:00+07:00",
+    "kpknl": "KPKNL Palembang"
+  },
+  {
+    "pemohon": null,
+    "kode_lot": null,
+    "nama_lot": "SCRAP/BESI TUA BG 7903 MZ di Kota Palembang",
+    "nilai_limit": "4803000",
+    "tanggal_lelang": "2025-10-31T08:30:00+07:00",
+    "kpknl": "KPKNL Palembang"
+  },
+  {
+    "pemohon": null,
+    "kode_lot": null,
+    "nama_lot": "MITSUBISHI COLT DIESEL FE 447 F di Kota Palembang",
+    "nilai_limit": "43183000",
+    "tanggal_lelang": "2025-10-31T08:30:00+07:00",
+    "kpknl": "KPKNL Palembang"
+  },
+  {
+    "pemohon": null,
+    "kode_lot": null,
+    "nama_lot": "MITSUBISHI COLT DIESEL FE 447 F di Kota Palembang",
+    "nilai_limit": "43183000",
+    "tanggal_lelang": "2025-10-31T08:30:00+07:00",
+    "kpknl": "KPKNL Palembang"
+  },
+  {
+    "pemohon": null,
+    "kode_lot": null,
+    "nama_lot": "MOBIL FORD EVEREST 2.5L MINIBUS di Kota Palembang",
+    "nilai_limit": "42453000",
+    "tanggal_lelang": "2025-10-31T08:30:00+07:00",
+    "kpknl": "KPKNL Palembang"
+  },
+  {
+    "pemohon": null,
+    "kode_lot": null,
+    "nama_lot": "SUZUKI FL 125 SD di Kota Palembang",
+    "nilai_limit": "2029000",
+    "tanggal_lelang": "2025-10-31T08:30:00+07:00",
+    "kpknl": "KPKNL Palembang"
+  },
+  {
+    "pemohon": null,
+    "kode_lot": null,
+    "nama_lot": "SEPEDA MOTOR FL 125 SD di Kota Palembang",
+    "nilai_limit": "2532000",
+    "tanggal_lelang": "2025-10-31T08:30:00+07:00",
+    "kpknl": "KPKNL Palembang"
+  },
+  {
+    "pemohon": null,
+    "kode_lot": null,
+    "nama_lot": "SEPEDA MOTOR  MERK SUZUKI FL 125 SD di Kota Palembang",
+    "nilai_limit": "2532000",
+    "tanggal_lelang": "2025-10-31T08:30:00+07:00",
+    "kpknl": "KPKNL Palembang"
+  },
+  {
+    "pemohon": null,
+    "kode_lot": null,
+    "nama_lot": "SEPEDA MOTOR SUZUKI FL 125 SD di Kota Palembang",
+    "nilai_limit": "2029000",
+    "tanggal_lelang": "2025-10-31T08:30:00+07:00",
+    "kpknl": "KPKNL Palembang"
+  },
+  {
+    "pemohon": null,
+    "kode_lot": null,
+    "nama_lot": "SEPEDA MOTOR SUZUKI 125 SD di Kota Palembang",
+    "nilai_limit": "2062000",
+    "tanggal_lelang": "2025-10-31T08:30:00+07:00",
+    "kpknl": "KPKNL Palembang"
+  },
+  {
+    "pemohon": null,
+    "kode_lot": null,
+    "nama_lot": "SEPEDA MOTOR SUZUKI 125 SD di Kota Palembang",
+    "nilai_limit": "1995000",
+    "tanggal_lelang": "2025-10-31T08:30:00+07:00",
+    "kpknl": "KPKNL Palembang"
+  },
+  {
+    "pemohon": null,
+    "kode_lot": null,
+    "nama_lot": "SCRAP/BESI TUA BG 7767 MZ di Kota Palembang",
+    "nilai_limit": "3382000",
+    "tanggal_lelang": "2025-10-31T08:30:00+07:00",
+    "kpknl": "KPKNL Palembang"
+  },
+  {
+    "pemohon": null,
+    "kode_lot": null,
+    "nama_lot": "SEPEDA MOTOR SUZUKI FL 125 SD di Kota Palembang",
+    "nilai_limit": "2062000",
+    "tanggal_lelang": "2025-10-31T08:30:00+07:00",
+    "kpknl": "KPKNL Palembang"
+  },
+  {
+    "pemohon": null,
+    "kode_lot": null,
+    "nama_lot": "SEPEDA MOTOR SUZUKI FL 125 SD di Kota Palembang",
+    "nilai_limit": "2096000",
+    "tanggal_lelang": "2025-10-31T08:30:00+07:00",
+    "kpknl": "KPKNL Palembang"
+  },
+  {
+    "pemohon": null,
+    "kode_lot": null,
+    "nama_lot": "SEPEDA MOTOR SUZUKI FL 125 SD di Kota Palembang",
+    "nilai_limit": "2532000",
+    "tanggal_lelang": "2025-10-31T08:30:00+07:00",
+    "kpknl": "KPKNL Palembang"
+  },
+  {
+    "pemohon": null,
+    "kode_lot": null,
+    "nama_lot": "SEPEDA MOTOR SUZUKI FL 125 SD di Kota Palembang",
+    "nilai_limit": "2029000",
+    "tanggal_lelang": "2025-10-31T08:30:00+07:00",
+    "kpknl": "KPKNL Palembang"
+  },
+  {
+    "pemohon": null,
+    "kode_lot": null,
+    "nama_lot": "SEPEDA MOTOR SUZUKI FL 125 SD di Kota Palembang",
+    "nilai_limit": "2029000",
+    "tanggal_lelang": "2025-10-31T08:30:00+07:00",
+    "kpknl": "KPKNL Palembang"
+  },
+  {
+    "pemohon": null,
+    "kode_lot": null,
+    "nama_lot": "SEPEDA MOTOR SUZUKI125 SD di Kota Palembang",
+    "nilai_limit": "2062000",
+    "tanggal_lelang": "2025-10-31T08:30:00+07:00",
+    "kpknl": "KPKNL Palembang"
+  },
+  {
+    "pemohon": null,
+    "kode_lot": null,
+    "nama_lot": "MITSUBISHI Type Colt Diesel FE 447 F di Kota Palembang",
+    "nilai_limit": "43183000",
+    "tanggal_lelang": "2025-10-31T08:30:00+07:00",
+    "kpknl": "KPKNL Palembang"
+  },
+  {
+    "pemohon": null,
+    "kode_lot": null,
+    "nama_lot": "MOBIL FORD EVEREST 2.5 L MINIBUS di Kota Palembang",
+    "nilai_limit": "42453000",
+    "tanggal_lelang": "2025-10-31T08:30:00+07:00",
+    "kpknl": "KPKNL Palembang"
+  },
+  {
+    "pemohon": null,
+    "kode_lot": null,
+    "nama_lot": "TOYOTA INOVA G MINIBUS 1998 CC di Kota Palembang",
+    "nilai_limit": "29298000",
+    "tanggal_lelang": "2025-10-31T08:30:00+07:00",
+    "kpknl": "KPKNL Palembang"
+  },
+  {
+    "pemohon": null,
+    "kode_lot": null,
+    "nama_lot": "SEPEDA MOTOR SUZUKI FL 125 SD di Kota Palembang",
+    "nilai_limit": "2029000",
+    "tanggal_lelang": "2025-10-31T08:30:00+07:00",
+    "kpknl": "KPKNL Palembang"
+  },
+  {
+    "pemohon": null,
+    "kode_lot": null,
+    "nama_lot": "SEPEDA MOTOR SUZUKI 125 SD di Kota Palembang",
+    "nilai_limit": "2029000",
+    "tanggal_lelang": "2025-10-31T08:30:00+07:00",
+    "kpknl": "KPKNL Palembang"
+  },
+  {
+    "pemohon": null,
+    "kode_lot": null,
+    "nama_lot": "SEPEDA MOTOR SUZUKI FL 125 SD di Kota Palembang",
+    "nilai_limit": "2364000",
+    "tanggal_lelang": "2025-10-31T08:30:00+07:00",
+    "kpknl": "KPKNL Palembang"
+  },
+  {
+    "pemohon": null,
+    "kode_lot": null,
+    "nama_lot": "SEPEDA MOTOR SUZUKI FL 125 SD di Kota Palembang",
+    "nilai_limit": "2062000",
+    "tanggal_lelang": "2025-10-31T08:30:00+07:00",
+    "kpknl": "KPKNL Palembang"
+  },
+  {
+    "pemohon": null,
+    "kode_lot": null,
+    "nama_lot": "SCRAP/ BESI TUA BG 7905 MZ di Kota Palembang",
+    "nilai_limit": "4803000",
+    "tanggal_lelang": "2025-10-31T08:30:00+07:00",
+    "kpknl": "KPKNL Palembang"
+  },
+  {
+    "pemohon": null,
+    "kode_lot": null,
+    "nama_lot": "SEPEDA MOTOR FL 125 SD SUZUKI di Kota Palembang",
+    "nilai_limit": "2062000",
+    "tanggal_lelang": "2025-10-31T08:30:00+07:00",
+    "kpknl": "KPKNL Palembang"
+  },
+  {
+    "pemohon": null,
+    "kode_lot": null,
+    "nama_lot": "SCRAP/BESI TUA MOBIL BG 1141MZ di Kota Palembang",
+    "nilai_limit": "4468000",
+    "tanggal_lelang": "2025-10-31T08:30:00+07:00",
+    "kpknl": "KPKNL Palembang"
+  },
+  {
+    "pemohon": null,
+    "kode_lot": null,
+    "nama_lot": "Scrap/Besi Tua BG 6998 NZ di Kota Palembang",
+    "nilai_limit": "223000",
+    "tanggal_lelang": "2025-10-31T08:30:00+07:00",
+    "kpknl": "KPKNL Palembang"
+  },
+  {
+    "pemohon": null,
+    "kode_lot": null,
+    "nama_lot": "SCRAP/BESI TUA BG 7853 MZ di Kota Palembang",
+    "nilai_limit": "3382000",
+    "tanggal_lelang": "2025-10-31T08:30:00+07:00",
+    "kpknl": "KPKNL Palembang"
+  },
+  {
+    "pemohon": null,
+    "kode_lot": null,
+    "nama_lot": "MITSUBISHI COLT DIESEL FE 447 F 4214cc di Kota Palembang",
+    "nilai_limit": "43183000",
+    "tanggal_lelang": "2025-10-31T08:30:00+07:00",
+    "kpknl": "KPKNL Palembang"
+  },
+  {
+    "pemohon": null,
+    "kode_lot": null,
+    "nama_lot": "MITSUBISHI COLT DIESEL FE 447 di Kota Palembang",
+    "nilai_limit": "43183000",
+    "tanggal_lelang": "2025-10-31T08:30:00+07:00",
+    "kpknl": "KPKNL Palembang"
+  },
+  {
+    "pemohon": null,
+    "kode_lot": null,
+    "nama_lot": "MOBIL BEBAN TRUCK TANGKI HYUNDAI MT/HD-72 di Kota Palembang",
+    "nilai_limit": "24776000",
+    "tanggal_lelang": "2025-10-31T08:30:00+07:00",
+    "kpknl": "KPKNL Palembang"
+  },
+  {
+    "pemohon": null,
+    "kode_lot": null,
+    "nama_lot": "1 bidang tanah dengan total luas 298 m2 berikut bangunan di Kota Prabumulih",
+    "nilai_limit": "160000000",
+    "tanggal_lelang": "2025-10-31T09:00:00+07:00",
+    "kpknl": "KPKNL Palembang"
+  },
+  {
+    "pemohon": null,
+    "kode_lot": null,
+    "nama_lot": "1 (satu) unit sepeda motor Yamaha Vega R di Kota Prabumulih",
+    "nilai_limit": "566000",
+    "tanggal_lelang": "2025-10-31T09:30:00+07:00",
+    "kpknl": "KPKNL Palembang"
+  },
+  {
+    "pemohon": null,
+    "kode_lot": null,
+    "nama_lot": "1 (satu) unit sepeda motor YAMAHA VEGA ZR di Kota Prabumulih",
+    "nilai_limit": "566000",
+    "tanggal_lelang": "2025-10-31T09:30:00+07:00",
+    "kpknl": "KPKNL Palembang"
+  },
+  {
+    "pemohon": null,
+    "kode_lot": null,
+    "nama_lot": "1 (Satu) unit sepeda motor Yamaha Jupiter MX di Kota Prabumulih",
+    "nilai_limit": "547000",
+    "tanggal_lelang": "2025-10-31T09:30:00+07:00",
+    "kpknl": "KPKNL Palembang"
+  },
+  {
+    "pemohon": null,
+    "kode_lot": null,
+    "nama_lot": "1 (satu) unit sepeda motor merek Yamaha Mio M3 di Kota Prabumulih",
+    "nilai_limit": "549000",
+    "tanggal_lelang": "2025-10-31T09:30:00+07:00",
+    "kpknl": "KPKNL Palembang"
+  },
+  {
+    "pemohon": null,
+    "kode_lot": null,
+    "nama_lot": "1 (Satu) unit sepeda motor Yamaha Mio M125 di Kota Prabumulih",
+    "nilai_limit": "549000",
+    "tanggal_lelang": "2025-10-31T09:30:00+07:00",
+    "kpknl": "KPKNL Palembang"
+  },
+  {
+    "pemohon": null,
+    "kode_lot": null,
+    "nama_lot": "Batubara di Kab. Ogan Komering Ulu",
+    "nilai_limit": "185136000",
+    "tanggal_lelang": "2025-10-31T14:00:00+07:00",
+    "kpknl": "KPKNL Palembang"
+  },
+  {
+    "pemohon": null,
+    "kode_lot": null,
+    "nama_lot": "Batubara sebanyak lebih kurang 79 Ton di Kab. Ogan Komering Ulu",
+    "nilai_limit": "21215000",
+    "tanggal_lelang": "2025-10-31T14:00:00+07:00",
+    "kpknl": "KPKNL Palembang"
+  },
+  {
+    "pemohon": null,
+    "kode_lot": null,
+    "nama_lot": "1 bidang tanah dengan total luas 568 m2 berikut bangunan di Kab. Bangka Tengah",
+    "nilai_limit": "170000000",
+    "tanggal_lelang": "2025-10-31T08:00:00+07:00",
+    "kpknl": "KPKNL Pangkalpinang"
+  },
+  {
+    "pemohon": null,
+    "kode_lot": null,
+    "nama_lot": "Satu paket BMN Peralatan dan Mesin sejumlah 29 unit kondisi Rusak Berat/Apa adanya di Kab. Belitung",
+    "nilai_limit": "213564",
+    "tanggal_lelang": "2025-10-31T08:30:00+07:00",
+    "kpknl": "KPKNL Pangkalpinang"
   }
 ]
