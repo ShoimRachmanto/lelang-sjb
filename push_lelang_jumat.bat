@@ -17,8 +17,8 @@ for /f "tokens=1-2 delims=: " %%a in ("%time%") do (
 set logfile=logs\pushlog_%logdate%_%logtime%.txt
 
 :: === Jalankan script export
-echo [INFO] Menjalankan export_lelang_pekan_ini.py >> %logfile%
-python export_lelang_pekan_ini.py >> %logfile% 2>&1
+echo [INFO] Menjalankan export_lelang_pekan_ini_new.py >> %logfile%
+python export_lelang_pekan_ini_new.py >> %logfile% 2>&1
 
 :: === Git push
 echo [INFO] Melakukan git add dan commit >> %logfile%

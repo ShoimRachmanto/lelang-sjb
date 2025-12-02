@@ -1,0 +1,12 @@
+[INFO] Menjalankan export_lelang_pekan_ini.py 
+[OK] Export 235 data lelang ke D:\WongsoApps\lelang-sjb\data\lelang_segera.json
+[INFO] Periode: 2025-11-10 s.d. 2025-11-14
+[INFO] Melakukan git add dan commit 
+[main aca9406] Auto update lelang pekan ini - Fri 11/07/2025 18:06:24.08
+ 1 file changed, 1426 insertions(+), 1026 deletions(-)
+[INFO] Push ke GitHub... 
+ssh: Could not resolve hostname github.com: Name or service not known
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.

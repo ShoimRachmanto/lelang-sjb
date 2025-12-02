@@ -1,0 +1,55 @@
+[INFO] Menjalankan export_lelang_pekan_ini_new.py 
+  File "D:\WongsoApps\lelang-sjb\export_lelang_pekan_ini_new.py", line 137
+    if __name__ == "__main__":
+IndentationError: expected an indented block after 'if' statement on line 137
+[INFO] Melakukan git add dan commit 
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   push_lelang_jumat.bat
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	export_lelang_pekan_ini_new.py
+	logs/pushlog_01-Fri-08_1435.txt
+	logs/pushlog_02-Tue-12_1050.txt
+	logs/pushlog_02-Tue-12_1053.txt
+	logs/pushlog_02-Tue-12_1058.txt
+	logs/pushlog_02-Tue-12_1150.txt
+	logs/pushlog_02-Tue-12_1152.txt
+	logs/pushlog_03-Fri-10_1436.txt
+	logs/pushlog_04-Fri-07_2327.txt
+	logs/pushlog_06-Fri-06_2359.txt
+	logs/pushlog_07-Fri-11_1806.txt
+	logs/pushlog_07-Sat-06_005.txt
+	logs/pushlog_07-Sat-06_014.txt
+	logs/pushlog_08-Fri-08_1435.txt
+	logs/pushlog_11-Fri-07_1435.txt
+	logs/pushlog_12-Fri-09_1435.txt
+	logs/pushlog_13-Fri-06_1435.txt
+	logs/pushlog_13-Fri-06_1443.txt
+	logs/pushlog_14-Fri-11_1435.txt
+	logs/pushlog_15-Fri-08_1435.txt
+	logs/pushlog_16-Tue-09_544.txt
+	logs/pushlog_17-Fri-10_2114.txt
+	logs/pushlog_18-Fri-07_1435.txt
+	logs/pushlog_19-Fri-09_1435.txt
+	logs/pushlog_20-Fri-06_1441.txt
+	logs/pushlog_21-Fri-11_1435.txt
+	logs/pushlog_22-Fri-08_1435.txt
+	logs/pushlog_22-Wed-10_1421.txt
+	logs/pushlog_24-Fri-10_1435.txt
+	logs/pushlog_25-Fri-07_1435.txt
+	logs/pushlog_26-Fri-09_1436.txt
+	logs/pushlog_26-Thu-06_1638.txt
+	logs/pushlog_28-Wed-05_1433.txt
+	logs/pushlog_29-Fri-08_1435.txt
+	logs/pushlog_30-Fri-05_1435.txt
+	logs/pushlog_31-Fri-10_1435.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[INFO] Push ke GitHub... 
+Everything up-to-date
