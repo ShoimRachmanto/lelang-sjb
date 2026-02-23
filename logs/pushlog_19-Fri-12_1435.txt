@@ -1,0 +1,10 @@
+[INFO] Menjalankan export_lelang_pekan_ini_new.py 
+[OK] Export 185 data lelang ke D:\WongsoApps\lelang-sjb\data\lelang_segera.json
+[INFO] Periode: 2025-12-22 s.d. 2025-12-26
+[INFO] Mode: auto | Cutoff Friday hour: 12
+[INFO] Melakukan git add dan commit 
+[main 4f9c388] Auto update lelang pekan ini - Fri 12/19/2025 14:35:02.37
+ 1 file changed, 1018 insertions(+), 3290 deletions(-)
+[INFO] Push ke GitHub... 
+To github.com:ShoimRachmanto/lelang-sjb.git
+   01dcb96..4f9c388  main -> main

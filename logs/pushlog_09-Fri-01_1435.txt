@@ -1,0 +1,5 @@
+[INFO] Menjalankan export_lelang_pekan_ini_new.py 
+[OK] Export 118 data lelang ke D:\WongsoApps\lelang-sjb\data\lelang_segera.json
+[INFO] Periode: 2026-01-12 s.d. 2026-01-16
+[INFO] Mode: auto | Cutoff Friday hour: 12
+[INFO] Melakukan git add dan commit 
