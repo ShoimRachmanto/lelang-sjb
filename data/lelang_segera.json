@@ -1,1290 +1,1562 @@
 [
   {
-    "pemohon": "BANK PEREKONOMIAN RAKYAT RONATAMA MANDIRI JAMBI",
-    "kode_lot": "LX7LXS",
-    "nama_lot": "1 bidang tanah dengan total luas 336 m2 berikut bangunan di Kab. Batanghari",
-    "nilai_limit": "125000000",
-    "tanggal_lelang": "2026-03-30T11:30:00+07:00",
-    "kpknl": "KPKNL Jambi"
-  },
-  {
-    "pemohon": "PT. Bank Negara Indonesia (Persero) Tbk. Divisi Retail Collection & Recovery Region 03",
-    "kode_lot": "K4WLIF",
-    "nama_lot": "1 bidang tanah dengan total luas 122 m2 berikut bangunan di Kab. Merangin",
-    "nilai_limit": "131000000",
-    "tanggal_lelang": "2026-03-30T14:00:00+07:00",
-    "kpknl": "KPKNL Jambi"
-  },
-  {
-    "pemohon": "PT. Bank Rakyat Indonesia (Persero), Tbk, Kantor Cabang Bangko",
-    "kode_lot": "ZTQQ0V",
-    "nama_lot": "Rumah dengan total luas 1360 m2 di Kab. Merangin",
-    "nilai_limit": "150000000",
-    "tanggal_lelang": "2026-03-30T15:00:00+07:00",
-    "kpknl": "KPKNL Jambi"
-  },
-  {
-    "pemohon": "PT. Bank Rakyat Indonesia (Persero), Tbk, Kantor Cabang Palembang Sriwijaya",
-    "kode_lot": "F7WV4B",
-    "nama_lot": "1 bidang tanah dengan total luas 108 m2 berikut bangunan di Kab. Banyuasin",
-    "nilai_limit": "290000000",
-    "tanggal_lelang": "2026-03-30T10:00:00+07:00",
-    "kpknl": "KPKNL Palembang"
-  },
-  {
-    "pemohon": "PT. Bank Rakyat Indonesia (Persero), Tbk, Kantor Cabang Palembang Sriwijaya",
-    "kode_lot": "MTJ87W",
-    "nama_lot": "1 bidang tanah dengan total luas 135 m2 berikut bangunan di Kab. Banyuasin",
-    "nilai_limit": "300000000",
-    "tanggal_lelang": "2026-03-30T10:00:00+07:00",
-    "kpknl": "KPKNL Palembang"
-  },
-  {
-    "pemohon": "PT. Bank Rakyat Indonesia (Persero), Tbk, Kantor Cabang Bangko",
-    "kode_lot": "LF1LBX",
-    "nama_lot": "1 bidang tanah dengan total luas 1750 m2 berikut bangunan di Kab. Merangin",
-    "nilai_limit": "210000000",
-    "tanggal_lelang": "2026-03-30T15:00:00+07:00",
-    "kpknl": "KPKNL Jambi"
-  },
-  {
-    "pemohon": "PT. Bank Rakyat Indonesia (Persero), Tbk, Kantor Cabang Kuala Tungkal",
-    "kode_lot": "TTQLZ3",
-    "nama_lot": "1 bidang tanah dengan total luas 85 m2 berikut bangunan di Kab. Muaro Jambi",
-    "nilai_limit": "350000000",
-    "tanggal_lelang": "2026-03-30T09:00:00+07:00",
-    "kpknl": "KPKNL Jambi"
-  },
-  {
-    "pemohon": "PT. Bank Rakyat Indonesia (Persero), Tbk, Kantor Cabang Kuala Tungkal",
-    "kode_lot": "QIA5N0",
-    "nama_lot": "1 bidang tanah dengan total luas 204 m2 berikut bangunan di Kab. Tanjung Jabung Barat",
-    "nilai_limit": "130000000",
-    "tanggal_lelang": "2026-03-30T09:00:00+07:00",
-    "kpknl": "KPKNL Jambi"
-  },
-  {
-    "pemohon": "PT. Bank Rakyat Indonesia (Persero), Tbk, Kantor Cabang Muara Bulian",
-    "kode_lot": "GW3CFX",
-    "nama_lot": "1 bidang tanah dengan total luas 230 m2 berikut bangunan di Kab. Batanghari",
-    "nilai_limit": "230000000",
-    "tanggal_lelang": "2026-03-30T10:00:00+07:00",
-    "kpknl": "KPKNL Jambi"
-  },
-  {
-    "pemohon": "PT Bank Tabungan Negara (Persero) Tbk - Kantor Wilayah Sumatera 2",
-    "kode_lot": "HRCE4K",
-    "nama_lot": "1 bidang tanah dengan total luas 117 m2 berikut bangunan di Kota Jambi",
-    "nilai_limit": "114600000",
-    "tanggal_lelang": "2026-03-30T11:00:00+07:00",
-    "kpknl": "KPKNL Jambi"
-  },
-  {
-    "pemohon": "PT Bank Tabungan Negara (Persero) Tbk - Kantor Wilayah Sumatera 2",
-    "kode_lot": "ADHUF6",
-    "nama_lot": "1 bidang tanah dengan total luas 150 m2 berikut bangunan di Kab. Bungo",
-    "nilai_limit": "54000000",
-    "tanggal_lelang": "2026-03-30T11:00:00+07:00",
-    "kpknl": "KPKNL Jambi"
-  },
-  {
-    "pemohon": "PT Bank Tabungan Negara (Persero) Tbk - Kantor Wilayah Sumatera 2",
-    "kode_lot": "XG8KGD",
-    "nama_lot": "1 bidang tanah dengan total luas 130 m2 berikut bangunan di Kab. Bungo",
-    "nilai_limit": "55700000",
-    "tanggal_lelang": "2026-03-30T11:00:00+07:00",
-    "kpknl": "KPKNL Jambi"
-  },
-  {
-    "pemohon": "PT Bank Tabungan Negara (Persero) Tbk - Kantor Wilayah Sumatera 2",
-    "kode_lot": "A39VV1",
-    "nama_lot": "1 bidang tanah dengan total luas 150 m2 berikut bangunan di Kab. Bungo",
-    "nilai_limit": "57600000",
-    "tanggal_lelang": "2026-03-30T11:00:00+07:00",
-    "kpknl": "KPKNL Jambi"
-  },
-  {
-    "pemohon": "PT Bank Central Asia, Tbk",
-    "kode_lot": "DEPRCY",
-    "nama_lot": "1 bidang tanah dengan total luas 58 m2 berikut bangunan di Kota Palembang",
-    "nilai_limit": "259854000",
-    "tanggal_lelang": "2026-03-30T09:00:00+07:00",
-    "kpknl": "KPKNL Palembang"
-  },
-  {
-    "pemohon": "PT Bank Central Asia, Tbk",
-    "kode_lot": "IQPG3T",
-    "nama_lot": "1 bidang tanah dengan total luas 97 m2 berikut bangunan di Kota Palembang",
-    "nilai_limit": "228718000",
-    "tanggal_lelang": "2026-03-30T09:00:00+07:00",
+    "pemohon": "PT Bank Mandiri (Persero), Tbk - Retail Asset Management II / Sumatera 2",
+    "kode_lot": "RADJFU",
+    "nama_lot": "1 bidang tanah dengan total luas 550 m2 berikut bangunan di Kab. Ogan Komering Ulu",
+    "nilai_limit": "519800000",
+    "tanggal_lelang": "2026-04-07T09:00:00+07:00",
     "kpknl": "KPKNL Palembang"
   },
   {
     "pemohon": "PT Bank Mandiri (Persero), Tbk - Retail Asset Management II / Sumatera 2",
-    "kode_lot": "YLSE1W",
-    "nama_lot": "1 bidang tanah dengan total luas 124 m2 berikut bangunan di Kab. Musi Banyuasin",
-    "nilai_limit": "241600000",
-    "tanggal_lelang": "2026-03-30T09:30:00+07:00",
+    "kode_lot": "S47BOP",
+    "nama_lot": "1 bidang tanah dengan total luas 125 m2 berikut bangunan di Kota Palembang",
+    "nilai_limit": "1294000000",
+    "tanggal_lelang": "2026-04-07T09:00:00+07:00",
     "kpknl": "KPKNL Palembang"
   },
   {
-    "pemohon": "PT Bank Mandiri (Persero) Tbk - Regional Special Asset Management Region II",
-    "kode_lot": "T0SXM1",
+    "pemohon": "BANK OCBC NISP",
+    "kode_lot": "FRHIXP",
+    "nama_lot": "1 bidang tanah dengan total luas 1253 m2 berikut bangunan di Kota Palembang",
+    "nilai_limit": "5600000000",
+    "tanggal_lelang": "2026-04-07T10:00:00+07:00",
+    "kpknl": "KPKNL Palembang"
+  },
+  {
+    "pemohon": "PT. Bank Negara Indonesia (Persero) Tbk. Divisi Retail Collection & Recovery Region 03",
+    "kode_lot": "HFRD4G",
     "nama_lot": "1 bidang tanah dengan total luas 96 m2 berikut bangunan di Kota Palembang",
-    "nilai_limit": "563000000",
-    "tanggal_lelang": "2026-03-30T10:00:00+07:00",
+    "nilai_limit": "205200000",
+    "tanggal_lelang": "2026-04-07T11:00:00+07:00",
     "kpknl": "KPKNL Palembang"
   },
   {
-    "pemohon": "PT. Bank Rakyat Indonesia (Persero), Tbk, Kantor Cabang Palembang A. Rivai",
-    "kode_lot": "MX8HKF",
-    "nama_lot": "1 bidang tanah dengan total luas 534 m2 berikut bangunan di Kota Palembang",
-    "nilai_limit": "3300000000",
-    "tanggal_lelang": "2026-03-30T11:00:00+07:00",
-    "kpknl": "KPKNL Palembang"
-  },
-  {
-    "pemohon": "PT. Bank Rakyat Indonesia (Persero), Tbk, Kantor Cabang Palembang A. Rivai",
-    "kode_lot": "Z2EAC8",
-    "nama_lot": "1 bidang tanah dengan total luas 109 m2 berikut bangunan di Kota Palembang",
-    "nilai_limit": "1800000000",
-    "tanggal_lelang": "2026-03-30T11:00:00+07:00",
-    "kpknl": "KPKNL Palembang"
-  },
-  {
-    "pemohon": "BANK PEREKONOMIAN RAKYAT SUMATERA SELATAN (PERSERODA)",
-    "kode_lot": "EPNPW1",
-    "nama_lot": "1 bidang tanah dengan total luas 1109 m2 di Kab. Banyuasin",
-    "nilai_limit": "460680000",
-    "tanggal_lelang": "2026-03-30T09:00:00+07:00",
-    "kpknl": "KPKNL Palembang"
-  },
-  {
-    "pemohon": "PT. Bank Rakyat Indonesia (Persero), Tbk, Kantor Cabang Palembang A. Rivai",
-    "kode_lot": "PSNLK4",
-    "nama_lot": "1 bidang tanah dengan total luas 293 m2 berikut bangunan di Kota Palembang",
-    "nilai_limit": "1100000000",
-    "tanggal_lelang": "2026-03-30T09:00:00+07:00",
-    "kpknl": "KPKNL Palembang"
-  },
-  {
-    "pemohon": "PT Bank Mandiri (Persero), Tbk - Retail Asset Management II / Sumatera 2",
-    "kode_lot": "FPRSGF",
-    "nama_lot": "1 bidang tanah dengan total luas 20000 m2 di Kab. Musi Banyuasin",
-    "nilai_limit": "170000000",
-    "tanggal_lelang": "2026-03-30T11:00:00+07:00",
-    "kpknl": "KPKNL Palembang"
-  },
-  {
-    "pemohon": "PT Grahacipta Bangkojaya (dalam Pailit)",
-    "kode_lot": "TZHDVS",
-    "nama_lot": "1 bidang tanah dengan total luas 345980 m2 berikut bangunan di Kab. Merangin",
-    "nilai_limit": "53858000000",
-    "tanggal_lelang": "2026-03-30T11:00:00+07:00",
-    "kpknl": "KPKNL Jambi"
-  },
-  {
-    "pemohon": "PT. Bank Rakyat Indonesia (Persero), Tbk, Kantor Cabang Sarolangun",
-    "kode_lot": "PDN7VW",
-    "nama_lot": "1 bidang tanah dengan total luas 499 m2 berikut bangunan di Kab. Sarolangun",
-    "nilai_limit": "500000000",
-    "tanggal_lelang": "2026-03-30T14:00:00+07:00",
-    "kpknl": "KPKNL Jambi"
-  },
-  {
-    "pemohon": "PT. Bank Rakyat Indonesia (Persero), Tbk, Kantor Cabang Muara Bungo",
-    "kode_lot": "6L0QSG",
-    "nama_lot": "1 bidang tanah dengan total luas 435 m2 berikut bangunan di Kab. Bungo",
-    "nilai_limit": "557000000",
-    "tanggal_lelang": "2026-03-30T14:10:00+07:00",
-    "kpknl": "KPKNL Jambi"
-  },
-  {
-    "pemohon": "PT. Bank Rakyat Indonesia (Persero), Tbk, Kantor Cabang Muara Bungo",
-    "kode_lot": "EEHQ1N",
-    "nama_lot": "1 bidang tanah dengan total luas 132 m2 berikut bangunan di Kab. Bungo",
-    "nilai_limit": "131000000",
-    "tanggal_lelang": "2026-03-30T14:10:00+07:00",
-    "kpknl": "KPKNL Jambi"
-  },
-  {
-    "pemohon": "PT. Bank Rakyat Indonesia Persero,Tbk Kantor Cabang Abunjani Sipin",
-    "kode_lot": "8HFG4Q",
-    "nama_lot": "1 bidang tanah dengan total luas 829 m2 berikut bangunan di Kota Jambi",
-    "nilai_limit": "225000000",
-    "tanggal_lelang": "2026-03-30T15:00:00+07:00",
-    "kpknl": "KPKNL Jambi"
-  },
-  {
-    "pemohon": "PT. Bank Rakyat Indonesia Persero,Tbk Kantor Cabang Abunjani Sipin",
-    "kode_lot": "EPZF0Y",
-    "nama_lot": "1 bidang tanah dengan total luas 630 m2 berikut bangunan di Kota Jambi",
-    "nilai_limit": "525000000",
-    "tanggal_lelang": "2026-03-30T15:00:00+07:00",
-    "kpknl": "KPKNL Jambi"
-  },
-  {
-    "pemohon": "DAMRI",
-    "kode_lot": "WI4CUT",
-    "nama_lot": "1 Paket bus sebanyak 2 Unit bus, Mediumbus mrek NKR71 dan Microbus mrek HINO dijual Scrap/Besi Tua di Kota Pangkal Pinang",
-    "nilai_limit": "16650000",
-    "tanggal_lelang": "2026-03-30T10:00:00+07:00",
+    "pemohon": "PT Bank Tabungan Negara (Persero), Tbk - Regional Commercial & SME Asset Sales Management Area Sumatera",
+    "kode_lot": "AXPYKP",
+    "nama_lot": "1 bidang tanah dengan total luas 79 m2 berikut bangunan di Kab. Bangka Tengah",
+    "nilai_limit": "138400000",
+    "tanggal_lelang": "2026-04-07T10:00:00+07:00",
     "kpknl": "KPKNL Pangkalpinang"
   },
   {
-    "pemohon": "PT Bank Mandiri (Persero), Tbk - Retail Asset Management II / Sumatera 2",
-    "kode_lot": "UKGD5C",
-    "nama_lot": "1 bidang tanah dengan total luas 90 m2 berikut bangunan di Kab. Muaro Jambi",
-    "nilai_limit": "89900000",
-    "tanggal_lelang": "2026-03-31T10:00:00+07:00",
-    "kpknl": "KPKNL Jambi"
-  },
-  {
-    "pemohon": "PT Bank Mandiri (Persero), Tbk - Retail Asset Management II / Sumatera 2",
-    "kode_lot": "XVCQ6O",
-    "nama_lot": "1 bidang tanah dengan total luas 108 m2 berikut bangunan di Kab. Muaro Jambi",
-    "nilai_limit": "90400000",
-    "tanggal_lelang": "2026-03-31T10:00:00+07:00",
-    "kpknl": "KPKNL Jambi"
-  },
-  {
-    "pemohon": "PT Bank Mandiri (Persero), Tbk - Retail Asset Management II / Sumatera 2",
-    "kode_lot": "BUNRCM",
-    "nama_lot": "1 bidang tanah dengan total luas 90 m2 berikut bangunan di Kab. Muaro Jambi",
-    "nilai_limit": "89000000",
-    "tanggal_lelang": "2026-03-31T10:00:00+07:00",
-    "kpknl": "KPKNL Jambi"
-  },
-  {
-    "pemohon": "PT Bank Mandiri (Persero), Tbk - Retail Asset Management II / Sumatera 2",
-    "kode_lot": "TSL8R9",
-    "nama_lot": "1 bidang tanah dengan total luas 90 m2 berikut bangunan di Kab. Muaro Jambi",
-    "nilai_limit": "86500000",
-    "tanggal_lelang": "2026-03-31T10:00:00+07:00",
-    "kpknl": "KPKNL Jambi"
-  },
-  {
-    "pemohon": "PNM Cabang Palembang",
-    "kode_lot": "ER1QAF",
-    "nama_lot": "1 bidang tanah dengan total luas 167 m2 di Kab. Banyuasin",
-    "nilai_limit": "73000000",
-    "tanggal_lelang": "2026-03-31T09:00:00+07:00",
-    "kpknl": "KPKNL Palembang"
-  },
-  {
-    "pemohon": "PNM Cabang Palembang",
-    "kode_lot": "JVB6AV",
-    "nama_lot": "1 bidang tanah dengan total luas 164 m2 di Kab. Banyuasin",
-    "nilai_limit": "68000000",
-    "tanggal_lelang": "2026-03-31T09:00:00+07:00",
-    "kpknl": "KPKNL Palembang"
-  },
-  {
-    "pemohon": "PNM Cabang Palembang",
-    "kode_lot": "SAY0DM",
-    "nama_lot": "1 bidang tanah dengan total luas 90 m2 di Kab. Banyuasin",
-    "nilai_limit": "50000000",
-    "tanggal_lelang": "2026-03-31T09:00:00+07:00",
-    "kpknl": "KPKNL Palembang"
-  },
-  {
-    "pemohon": "KOPERASI SIMPAN PINJAM SAHABAT MITRA SEJATI",
-    "kode_lot": "Y41VZQ",
-    "nama_lot": "1 bidang tanah dengan total luas 9990 m2 berikut bangunan di Kab. Ogan Komering Ulu",
-    "nilai_limit": "145548750",
-    "tanggal_lelang": "2026-03-31T10:00:00+07:00",
-    "kpknl": "KPKNL Palembang"
-  },
-  {
-    "pemohon": "KOPERASI SIMPAN PINJAM SAHABAT MITRA SEJATI",
-    "kode_lot": "ALDCMX",
-    "nama_lot": "1 bidang tanah dengan total luas 272 m2 berikut bangunan di Kab. Ogan Komering Ulu Timur",
-    "nilai_limit": "201552000",
-    "tanggal_lelang": "2026-03-31T10:00:00+07:00",
-    "kpknl": "KPKNL Palembang"
-  },
-  {
-    "pemohon": "PT Bank Mandiri (Persero), Tbk - Retail Asset Management II / Sumatera 2",
-    "kode_lot": "C1KM9F",
-    "nama_lot": "1 bidang tanah dengan total luas 1804 m2 di Kab. Belitung Timur",
-    "nilai_limit": "59403750",
-    "tanggal_lelang": "2026-03-31T10:00:00+07:00",
-    "kpknl": "KPKNL Pangkalpinang"
-  },
-  {
-    "pemohon": "PT Bank Mandiri (Persero), Tbk - Retail Asset Management II / Sumatera 2",
-    "kode_lot": "GTMHPQ",
-    "nama_lot": "1 bidang tanah dengan total luas 83 m2 berikut bangunan di Kota Pangkal Pinang",
-    "nilai_limit": "56722000",
-    "tanggal_lelang": "2026-03-31T10:00:00+07:00",
-    "kpknl": "KPKNL Pangkalpinang"
-  },
-  {
-    "pemohon": "PT Bank Mandiri (Persero), Tbk - Retail Asset Management II / Sumatera 2",
-    "kode_lot": "DJCUXB",
-    "nama_lot": "1 bidang tanah dengan total luas 105 m2 berikut bangunan di Kota Pangkal Pinang",
-    "nilai_limit": "99197000",
-    "tanggal_lelang": "2026-03-31T10:00:00+07:00",
-    "kpknl": "KPKNL Pangkalpinang"
-  },
-  {
-    "pemohon": "PT Bank Mandiri (Persero), Tbk - Retail Asset Management II / Sumatera 2",
-    "kode_lot": "OPT6WR",
-    "nama_lot": "1 bidang tanah dengan total luas 112 m2 berikut bangunan di Kab. Bangka",
-    "nilai_limit": "125099000",
-    "tanggal_lelang": "2026-03-31T13:00:00+07:00",
-    "kpknl": "KPKNL Pangkalpinang"
-  },
-  {
-    "pemohon": "PT Bank Mandiri (Persero), Tbk - Retail Asset Management II / Sumatera 2",
-    "kode_lot": "YUYWRW",
+    "pemohon": "PT Bank Tabungan Negara (Persero), Tbk - Regional Commercial & SME Asset Sales Management Area Sumatera",
+    "kode_lot": "5HBSLW",
     "nama_lot": "1 bidang tanah dengan total luas 90 m2 berikut bangunan di Kab. Bangka Tengah",
-    "nilai_limit": "86592000",
-    "tanggal_lelang": "2026-03-31T13:00:00+07:00",
+    "nilai_limit": "124800000",
+    "tanggal_lelang": "2026-04-07T10:00:00+07:00",
     "kpknl": "KPKNL Pangkalpinang"
+  },
+  {
+    "pemohon": "PT Bank Tabungan Negara (Persero), Tbk - Regional Commercial & SME Asset Sales Management Area Sumatera",
+    "kode_lot": "GEI7A0",
+    "nama_lot": "1 bidang tanah dengan total luas 71 m2 berikut bangunan di Kab. Bangka Tengah",
+    "nilai_limit": "110800000",
+    "tanggal_lelang": "2026-04-07T10:00:00+07:00",
+    "kpknl": "KPKNL Pangkalpinang"
+  },
+  {
+    "pemohon": "BPJS KESEHATAN KANTOR CABANG PRABUMULIH",
+    "kode_lot": "ZBWSL7",
+    "nama_lot": "Genset Olympian (Kondisi Rusak Berat) di Kota Prabumulih",
+    "nilai_limit": "6334000",
+    "tanggal_lelang": "2026-04-07T09:00:00+07:00",
+    "kpknl": "KPKNL Palembang"
+  },
+  {
+    "pemohon": "BPJS KESEHATAN KANTOR CABANG PRABUMULIH",
+    "kode_lot": "HU32DR",
+    "nama_lot": "Motor SupraX 125 CWF1 (Kondisi apa adanya) di Kota Prabumulih",
+    "nilai_limit": "2864000",
+    "tanggal_lelang": "2026-04-07T09:00:00+07:00",
+    "kpknl": "KPKNL Palembang"
+  },
+  {
+    "pemohon": "BPJS KESEHATAN KANTOR CABANG PRABUMULIH",
+    "kode_lot": "8M5I9U",
+    "nama_lot": "Paket Inventaris Kantor (Kondisi Rusak Berat) di Kota Prabumulih",
+    "nilai_limit": "2270000",
+    "tanggal_lelang": "2026-04-07T09:00:00+07:00",
+    "kpknl": "KPKNL Palembang"
+  },
+  {
+    "pemohon": "KEJAKSAAN NEGERI PRABUMULIH",
+    "kode_lot": "IBVRTX",
+    "nama_lot": "Isuzu Traga di Kota Prabumulih",
+    "nilai_limit": "49900000",
+    "tanggal_lelang": "2026-04-07T09:30:00+07:00",
+    "kpknl": "KPKNL Palembang"
+  },
+  {
+    "pemohon": "KEJAKSAAN NEGERI PRABUMULIH",
+    "kode_lot": "OCQ2GI",
+    "nama_lot": "Daihatsu Gran Max di Kota Prabumulih",
+    "nilai_limit": "35930000",
+    "tanggal_lelang": "2026-04-07T09:30:00+07:00",
+    "kpknl": "KPKNL Palembang"
+  },
+  {
+    "pemohon": "BALAI PELAKSANAAN JALAN NASIONAL SUMATERA BARAT",
+    "kode_lot": "8K7CBZ",
+    "nama_lot": "SIR20 di Kab. Banyuasin",
+    "nilai_limit": "5985252000",
+    "tanggal_lelang": "2026-04-07T10:00:00+07:00",
+    "kpknl": "KPKNL Palembang"
+  },
+  {
+    "pemohon": "BALAI PENGKAJIAN TEKNOLOGI PERTANIAN SUMATERA SELATAN",
+    "kode_lot": "EDJN0Z",
+    "nama_lot": "1 (Satu) Paket Peralatan dan Mesin di Kota Palembang",
+    "nilai_limit": "7000000",
+    "tanggal_lelang": "2026-04-07T10:30:00+07:00",
+    "kpknl": "KPKNL Palembang"
+  },
+  {
+    "pemohon": "LPP TVRI SUMSEL",
+    "kode_lot": "H0T2AP",
+    "nama_lot": "1 (Satu) Paket Peralatan dan Mesin di Kota Palembang",
+    "nilai_limit": "5183000",
+    "tanggal_lelang": "2026-04-07T11:00:00+07:00",
+    "kpknl": "KPKNL Palembang"
+  },
+  {
+    "pemohon": "SATRIA BAHANA SARANA",
+    "kode_lot": "GLN2FB",
+    "nama_lot": "LOT 10 - 4 Unit Bulldozer, 2 Unit Excavator & 2 Unit Wheel Loader di Kab. Muara Enim",
+    "nilai_limit": "3614800000",
+    "tanggal_lelang": "2026-04-07T10:00:00+07:00",
+    "kpknl": "KPKNL Lahat"
+  },
+  {
+    "pemohon": "SATRIA BAHANA SARANA",
+    "kode_lot": "DORXEK",
+    "nama_lot": "LOT 11 - 2 Unit Compactor di Kab. Muara Enim",
+    "nilai_limit": "322800000",
+    "tanggal_lelang": "2026-04-07T10:00:00+07:00",
+    "kpknl": "KPKNL Lahat"
+  },
+  {
+    "pemohon": "SATRIA BAHANA SARANA",
+    "kode_lot": "JWZJGH",
+    "nama_lot": "LOT 14 - 12 Unit Dump Truck di Kab. Muara Enim",
+    "nilai_limit": "1683600000",
+    "tanggal_lelang": "2026-04-07T10:00:00+07:00",
+    "kpknl": "KPKNL Lahat"
+  },
+  {
+    "pemohon": "SATRIA BAHANA SARANA",
+    "kode_lot": "FSMKUE",
+    "nama_lot": "LOT 5 - 1 Unit Bulldozer di Kab. Muara Enim",
+    "nilai_limit": "446300000",
+    "tanggal_lelang": "2026-04-07T10:00:00+07:00",
+    "kpknl": "KPKNL Lahat"
+  },
+  {
+    "pemohon": "SATRIA BAHANA SARANA",
+    "kode_lot": "SHVNRY",
+    "nama_lot": "LOT 3 - 2 Unit Rigid Dump Truck di Kab. Muara Enim",
+    "nilai_limit": "637000000",
+    "tanggal_lelang": "2026-04-07T10:00:00+07:00",
+    "kpknl": "KPKNL Lahat"
+  },
+  {
+    "pemohon": "SATRIA BAHANA SARANA",
+    "kode_lot": "FCWGDN",
+    "nama_lot": "LOT 6 - 1 Unit Water Truck di Kab. Muara Enim",
+    "nilai_limit": "189300000",
+    "tanggal_lelang": "2026-04-07T10:00:00+07:00",
+    "kpknl": "KPKNL Lahat"
+  },
+  {
+    "pemohon": "SATRIA BAHANA SARANA",
+    "kode_lot": "RBLG1G",
+    "nama_lot": "LOT 7 - 1 Unit Motor Grader di Kab. Muara Enim",
+    "nilai_limit": "452600000",
+    "tanggal_lelang": "2026-04-07T10:00:00+07:00",
+    "kpknl": "KPKNL Lahat"
+  },
+  {
+    "pemohon": "SATRIA BAHANA SARANA",
+    "kode_lot": "IRVXRW",
+    "nama_lot": "LOT 12 - 6 Unit Dump Truck di Kab. Muara Enim",
+    "nilai_limit": "841800000",
+    "tanggal_lelang": "2026-04-07T10:00:00+07:00",
+    "kpknl": "KPKNL Lahat"
+  },
+  {
+    "pemohon": "SATRIA BAHANA SARANA",
+    "kode_lot": "KO8D5I",
+    "nama_lot": "LOT 4 - 1 Unit Bulldozer & 1 Unit Motor Grader di Kab. Muara Enim",
+    "nilai_limit": "365800000",
+    "tanggal_lelang": "2026-04-07T10:00:00+07:00",
+    "kpknl": "KPKNL Lahat"
+  },
+  {
+    "pemohon": "SATRIA BAHANA SARANA",
+    "kode_lot": "72RVEF",
+    "nama_lot": "LOT 13 - 4 Unit Dewatering Pump di Kab. Muara Enim",
+    "nilai_limit": "289300000",
+    "tanggal_lelang": "2026-04-07T10:00:00+07:00",
+    "kpknl": "KPKNL Lahat"
+  },
+  {
+    "pemohon": "SATRIA BAHANA SARANA",
+    "kode_lot": "2Z4X7U",
+    "nama_lot": "LOT 1 - 3 Unit Rigid Dump Truck di Kab. Muara Enim",
+    "nilai_limit": "1639000000",
+    "tanggal_lelang": "2026-04-07T10:00:00+07:00",
+    "kpknl": "KPKNL Lahat"
+  },
+  {
+    "pemohon": "SATRIA BAHANA SARANA",
+    "kode_lot": "ENHJBV",
+    "nama_lot": "LOT 2 - 4 Unit Rigid Dump Truck di Kab. Muara Enim",
+    "nilai_limit": "2475300000",
+    "tanggal_lelang": "2026-04-07T10:00:00+07:00",
+    "kpknl": "KPKNL Lahat"
+  },
+  {
+    "pemohon": "SATRIA BAHANA SARANA",
+    "kode_lot": "QVSZIV",
+    "nama_lot": "LOT 8 - 4 Unit Excavator di Kab. Muara Enim",
+    "nilai_limit": "1010400000",
+    "tanggal_lelang": "2026-04-07T10:00:00+07:00",
+    "kpknl": "KPKNL Lahat"
+  },
+  {
+    "pemohon": "SATRIA BAHANA SARANA",
+    "kode_lot": "EXGLGH",
+    "nama_lot": "LOT 9 - 3 Unit Bulldozer di Kab. Muara Enim",
+    "nilai_limit": "1338900000",
+    "tanggal_lelang": "2026-04-07T10:00:00+07:00",
+    "kpknl": "KPKNL Lahat"
+  },
+  {
+    "pemohon": "PT Bank Mandiri (Persero), Tbk - Retail Asset Management II / Sumatera 2",
+    "kode_lot": "XILYDF",
+    "nama_lot": "1 bidang tanah dengan total luas 105 m2 berikut bangunan di Kota Pangkal Pinang",
+    "nilai_limit": "133845000",
+    "tanggal_lelang": "2026-04-08T10:00:00+07:00",
+    "kpknl": "KPKNL Pangkalpinang"
+  },
+  {
+    "pemohon": "PT Bank Mandiri (Persero), Tbk - Retail Asset Management II / Sumatera 2",
+    "kode_lot": "DLY8UE",
+    "nama_lot": "1 bidang tanah dengan total luas 591 m2 berikut bangunan di Kab. Bangka Tengah",
+    "nilai_limit": "151065000",
+    "tanggal_lelang": "2026-04-08T10:00:00+07:00",
+    "kpknl": "KPKNL Pangkalpinang"
+  },
+  {
+    "pemohon": "PT Bank Tabungan Negara (Persero) Tbk - Kantor Wilayah Sumatera 2",
+    "kode_lot": "OAIJ1W",
+    "nama_lot": "1 bidang tanah dengan total luas 116 m2 berikut bangunan di Kota Jambi",
+    "nilai_limit": "90000000",
+    "tanggal_lelang": "2026-04-08T09:00:00+07:00",
+    "kpknl": "KPKNL Jambi"
+  },
+  {
+    "pemohon": "PT Bank Tabungan Negara (Persero) Tbk - Kantor Wilayah Sumatera 2",
+    "kode_lot": "WMX7KF",
+    "nama_lot": "1 bidang tanah dengan total luas 139 m2 berikut bangunan di Kab. Muaro Jambi",
+    "nilai_limit": "50900000",
+    "tanggal_lelang": "2026-04-08T09:00:00+07:00",
+    "kpknl": "KPKNL Jambi"
+  },
+  {
+    "pemohon": "PT Bank Mandiri (Persero), Tbk - Retail Asset Management II / Sumatera 2",
+    "kode_lot": "EPQISU",
+    "nama_lot": "1 bidang tanah dengan total luas 105 m2 berikut bangunan di Kota Jambi",
+    "nilai_limit": "496572000",
+    "tanggal_lelang": "2026-04-08T09:00:00+07:00",
+    "kpknl": "KPKNL Jambi"
+  },
+  {
+    "pemohon": "PT Bank Tabungan Negara (Persero) Tbk - Kantor Wilayah Sumatera 2",
+    "kode_lot": "EEYRDH",
+    "nama_lot": "1 bidang tanah dengan total luas 114 m2 berikut bangunan di Kota Jambi",
+    "nilai_limit": "115000000",
+    "tanggal_lelang": "2026-04-08T09:00:00+07:00",
+    "kpknl": "KPKNL Jambi"
+  },
+  {
+    "pemohon": "PT Bank Mandiri (Persero), Tbk - Retail Asset Management II / Sumatera 2",
+    "kode_lot": "QC5DLH",
+    "nama_lot": "1 bidang tanah dengan total luas 192 m2 berikut bangunan di Kota Jambi",
+    "nilai_limit": "285000000",
+    "tanggal_lelang": "2026-04-08T09:00:00+07:00",
+    "kpknl": "KPKNL Jambi"
+  },
+  {
+    "pemohon": "PT Bank Mandiri (Persero), Tbk - Retail Asset Management II / Sumatera 2",
+    "kode_lot": "MC32B7",
+    "nama_lot": "1 bidang tanah dengan total luas 116 m2 berikut bangunan di Kota Jambi",
+    "nilai_limit": "352700000",
+    "tanggal_lelang": "2026-04-08T09:00:00+07:00",
+    "kpknl": "KPKNL Jambi"
+  },
+  {
+    "pemohon": "PT Bank Mandiri (Persero), Tbk - Retail Asset Management II / Sumatera 2",
+    "kode_lot": "GY94LO",
+    "nama_lot": "1 bidang tanah dengan total luas 160 m2 berikut bangunan di Kota Jambi",
+    "nilai_limit": "260833700",
+    "tanggal_lelang": "2026-04-08T09:00:00+07:00",
+    "kpknl": "KPKNL Jambi"
+  },
+  {
+    "pemohon": "PT Bank Tabungan Negara (Persero) Tbk - Kantor Wilayah Sumatera 2",
+    "kode_lot": "OBRCJU",
+    "nama_lot": "1 bidang tanah dengan total luas 105 m2 berikut bangunan di Kota Jambi",
+    "nilai_limit": "100900000",
+    "tanggal_lelang": "2026-04-08T09:00:00+07:00",
+    "kpknl": "KPKNL Jambi"
+  },
+  {
+    "pemohon": "PT Bank Tabungan Negara (Persero) Tbk - Kantor Wilayah Sumatera 2",
+    "kode_lot": "V8XL4N",
+    "nama_lot": "1 bidang tanah dengan total luas 143 m2 berikut bangunan di Kota Jambi",
+    "nilai_limit": "142300000",
+    "tanggal_lelang": "2026-04-08T11:00:00+07:00",
+    "kpknl": "KPKNL Jambi"
+  },
+  {
+    "pemohon": "PT Bank Tabungan Negara (Persero) Tbk - Kantor Wilayah Sumatera 2",
+    "kode_lot": "SGN8IW",
+    "nama_lot": "1 bidang tanah dengan total luas 125 m2 berikut bangunan di Kab. Muaro Jambi",
+    "nilai_limit": "99000000",
+    "tanggal_lelang": "2026-04-08T11:00:00+07:00",
+    "kpknl": "KPKNL Jambi"
+  },
+  {
+    "pemohon": "PT Bank Tabungan Negara (Persero) Tbk - Kantor Wilayah Sumatera 2",
+    "kode_lot": "OF2KMG",
+    "nama_lot": "1 bidang tanah dengan total luas 120 m2 berikut bangunan di Kab. Muaro Jambi",
+    "nilai_limit": "93000000",
+    "tanggal_lelang": "2026-04-08T11:00:00+07:00",
+    "kpknl": "KPKNL Jambi"
+  },
+  {
+    "pemohon": "PT Bank Tabungan Negara (Persero) Tbk - Kantor Wilayah Sumatera 2",
+    "kode_lot": "I9SW5O",
+    "nama_lot": "1 bidang tanah dengan total luas 300 m2 berikut bangunan di Kab. Bungo",
+    "nilai_limit": "137600000",
+    "tanggal_lelang": "2026-04-08T11:00:00+07:00",
+    "kpknl": "KPKNL Jambi"
+  },
+  {
+    "pemohon": "PT. Bank Negara Indonesia (Persero) Tbk. Divisi Retail Collection & Recovery Region 03",
+    "kode_lot": "YXB24N",
+    "nama_lot": "1 bidang tanah dengan total luas 19149 m2 di Kab. Tebo",
+    "nilai_limit": "143620000",
+    "tanggal_lelang": "2026-04-08T11:00:00+07:00",
+    "kpknl": "KPKNL Jambi"
+  },
+  {
+    "pemohon": "PT. Bank Negara Indonesia (Persero) Tbk. Divisi Retail Collection & Recovery Region 03",
+    "kode_lot": "W3XD4J",
+    "nama_lot": "1 bidang tanah dengan total luas 400 m2 berikut bangunan di Kab. Bungo",
+    "nilai_limit": "249200000",
+    "tanggal_lelang": "2026-04-08T11:00:00+07:00",
+    "kpknl": "KPKNL Jambi"
+  },
+  {
+    "pemohon": "PT Bank Tabungan Negara (Persero) Tbk - Kantor Wilayah Sumatera 2",
+    "kode_lot": "YBX2CT",
+    "nama_lot": "1 bidang tanah dengan total luas 121 m2 berikut bangunan di Kota Jambi",
+    "nilai_limit": "163400000",
+    "tanggal_lelang": "2026-04-08T11:30:00+07:00",
+    "kpknl": "KPKNL Jambi"
+  },
+  {
+    "pemohon": "PT Bank Tabungan Negara (Persero) Tbk - Kantor Wilayah Sumatera 2",
+    "kode_lot": "WZ1GGT",
+    "nama_lot": "1 bidang tanah dengan total luas 143 m2 berikut bangunan di Kota Jambi",
+    "nilai_limit": "215400000",
+    "tanggal_lelang": "2026-04-08T11:30:00+07:00",
+    "kpknl": "KPKNL Jambi"
+  },
+  {
+    "pemohon": "PT Bank Tabungan Negara (Persero) Tbk - Kantor Wilayah Sumatera 2",
+    "kode_lot": "GHKTBN",
+    "nama_lot": "1 bidang tanah dengan total luas 140 m2 berikut bangunan di Kota Jambi",
+    "nilai_limit": "100000000",
+    "tanggal_lelang": "2026-04-08T11:30:00+07:00",
+    "kpknl": "KPKNL Jambi"
+  },
+  {
+    "pemohon": "PT Bank Tabungan Negara (Persero) Tbk - Kantor Wilayah Sumatera 2",
+    "kode_lot": "EQCUU4",
+    "nama_lot": "1 bidang tanah dengan total luas 300 m2 berikut bangunan di Kab. Bungo",
+    "nilai_limit": "238400000",
+    "tanggal_lelang": "2026-04-08T11:30:00+07:00",
+    "kpknl": "KPKNL Jambi"
+  },
+  {
+    "pemohon": "PT Bank Tabungan Negara (Persero) Tbk - Kantor Wilayah Sumatera 2",
+    "kode_lot": "1MEWZY",
+    "nama_lot": "1 bidang tanah dengan total luas 133 m2 berikut bangunan di Kab. Muaro Jambi",
+    "nilai_limit": "133600000",
+    "tanggal_lelang": "2026-04-08T11:30:00+07:00",
+    "kpknl": "KPKNL Jambi"
+  },
+  {
+    "pemohon": "PNM Cabang Palembang",
+    "kode_lot": "AVLUQO",
+    "nama_lot": "TANAH BERIKUT BANGUNAN dengan total luas 468 m2 di Kab. Banyuasin",
+    "nilai_limit": "200000000",
+    "tanggal_lelang": "2026-04-08T09:00:00+07:00",
+    "kpknl": "KPKNL Palembang"
+  },
+  {
+    "pemohon": "PT Bank Mandiri (Persero), Tbk - Retail Asset Management II / Sumatera 2",
+    "kode_lot": "9APIZI",
+    "nama_lot": "1 bidang tanah dengan total luas 199 m2 berikut bangunan di Kab. Banyuasin",
+    "nilai_limit": "112500000",
+    "tanggal_lelang": "2026-04-08T10:00:00+07:00",
+    "kpknl": "KPKNL Palembang"
   },
   {
     "pemohon": "PT. Bank Rakyat Indonesia (Persero), Tbk, Kantor Cabang Palembang Sriwijaya",
-    "kode_lot": "TWV0K1",
-    "nama_lot": "1 bidang tanah dengan total luas 231 m2 berikut bangunan di Kota Palembang",
-    "nilai_limit": "645000000",
-    "tanggal_lelang": "2026-03-31T09:00:00+07:00",
+    "kode_lot": "RM9G1I",
+    "nama_lot": "1 bidang tanah dengan total luas 204 m2 berikut bangunan di Kota Palembang",
+    "nilai_limit": "759600000",
+    "tanggal_lelang": "2026-04-08T10:30:00+07:00",
     "kpknl": "KPKNL Palembang"
   },
   {
-    "pemohon": "PT. Bank Rakyat Indonesia (Persero), Tbk, Kantor Cabang Kayu Agung",
-    "kode_lot": "HOI2GE",
-    "nama_lot": "1 bidang tanah dengan total luas 120 m2 berikut bangunan di Kab. Ogan Komering Ilir",
-    "nilai_limit": "400000000",
-    "tanggal_lelang": "2026-03-31T10:00:00+07:00",
+    "pemohon": "PT. Bank Rakyat Indonesia (Persero), Tbk, Kantor Cabang Palembang Sriwijaya",
+    "kode_lot": "6PCUSO",
+    "nama_lot": "1 bidang tanah dengan total luas 204 m2 berikut bangunan di Kota Palembang",
+    "nilai_limit": "608400000",
+    "tanggal_lelang": "2026-04-08T10:30:00+07:00",
     "kpknl": "KPKNL Palembang"
-  },
-  {
-    "pemohon": "PT. Bank Rakyat Indonesia (Persero), Tbk, Kantor Cabang Kayu Agung",
-    "kode_lot": "SCTBV1",
-    "nama_lot": "1 bidang tanah dengan total luas 97 m2 berikut bangunan di Kab. Ogan Komering Ilir",
-    "nilai_limit": "450000000",
-    "tanggal_lelang": "2026-03-31T10:00:00+07:00",
-    "kpknl": "KPKNL Palembang"
-  },
-  {
-    "pemohon": "PT. Bank Rakyat Indonesia (Persero), Tbk, Kantor Cabang Kayu Agung",
-    "kode_lot": "C0AIFG",
-    "nama_lot": "1 bidang tanah dengan total luas 1042 m2 berikut bangunan di Kab. Ogan Komering Ilir",
-    "nilai_limit": "220000000",
-    "tanggal_lelang": "2026-03-31T10:00:00+07:00",
-    "kpknl": "KPKNL Palembang"
-  },
-  {
-    "pemohon": "PT. Bank Rakyat Indonesia (Persero), Tbk, Kantor Cabang Sarolangun",
-    "kode_lot": "8CNP7V",
-    "nama_lot": "1 bidang tanah dengan total luas 218 m2 berikut bangunan di Kab. Sarolangun",
-    "nilai_limit": "150000000",
-    "tanggal_lelang": "2026-03-31T10:00:00+07:00",
-    "kpknl": "KPKNL Jambi"
-  },
-  {
-    "pemohon": "BANK Perekonomian Rakyat Artha Prima Persada",
-    "kode_lot": "HYYXBE",
-    "nama_lot": "1 bidang tanah dengan total luas 378 m2 berikut bangunan di Kota Jambi",
-    "nilai_limit": "500000000",
-    "tanggal_lelang": "2026-03-31T14:00:00+07:00",
-    "kpknl": "KPKNL Jambi"
-  },
-  {
-    "pemohon": "BANK Perekonomian Rakyat Artha Prima Persada",
-    "kode_lot": "DPQKOS",
-    "nama_lot": "1 bidang tanah dengan total luas 176 m2 berikut bangunan di Kota Jambi",
-    "nilai_limit": "250000000",
-    "tanggal_lelang": "2026-03-31T14:00:00+07:00",
-    "kpknl": "KPKNL Jambi"
-  },
-  {
-    "pemohon": "PT. Bank Rakyat Indonesia Persero,Tbk Kantor Cabang Prabumulih",
-    "kode_lot": "R4R1IY",
-    "nama_lot": "1 bidang tanah dengan total luas 6405 m2 berikut bangunan di Kota Prabumulih",
-    "nilai_limit": "1850000000",
-    "tanggal_lelang": "2026-03-31T09:00:00+07:00",
-    "kpknl": "KPKNL Palembang"
-  },
-  {
-    "pemohon": "PT. Bank Rakyat Indonesia Persero,Tbk Kantor Cabang Baturaja",
-    "kode_lot": "TJSDMF",
-    "nama_lot": "1 bidang tanah dengan total luas 890 m2 berikut bangunan di Kab. Ogan Komering Ulu Timur",
-    "nilai_limit": "442000000",
-    "tanggal_lelang": "2026-03-31T10:00:00+07:00",
-    "kpknl": "KPKNL Palembang"
-  },
-  {
-    "pemohon": "PT Bank Mandiri (Persero) Tbk - Regional Special Asset Management Region II",
-    "kode_lot": "ISIQNW",
-    "nama_lot": "1 bidang tanah dengan total luas 36 m2 berikut bangunan di Kota Palembang",
-    "nilai_limit": "300500000",
-    "tanggal_lelang": "2026-03-31T11:00:00+07:00",
-    "kpknl": "KPKNL Palembang"
-  },
-  {
-    "pemohon": "PT. Bank Rakyat Indonesia (Persero), Tbk, Kantor Cabang Muara Bungo",
-    "kode_lot": "DZOBCC",
-    "nama_lot": "1 bidang tanah dengan total luas 608 m2 berikut bangunan di Kab. Bungo",
-    "nilai_limit": "305000000",
-    "tanggal_lelang": "2026-03-31T08:10:00+07:00",
-    "kpknl": "KPKNL Jambi"
-  },
-  {
-    "pemohon": "PT. Bank Rakyat Indonesia (Persero), Tbk, Kantor Cabang Muara Bungo",
-    "kode_lot": "EFIUHG",
-    "nama_lot": "1 bidang tanah dengan total luas 8965 m2 di Kab. Bungo",
-    "nilai_limit": "161000000",
-    "tanggal_lelang": "2026-03-31T08:10:00+07:00",
-    "kpknl": "KPKNL Jambi"
-  },
-  {
-    "pemohon": "PT. Bank Rakyat Indonesia (Persero), Tbk, Kantor Cabang Jambi",
-    "kode_lot": "JISOLK",
-    "nama_lot": "1 bidang tanah dengan total luas 76 m2 berikut bangunan di Kota Jambi",
-    "nilai_limit": "600000000",
-    "tanggal_lelang": "2026-03-31T08:15:00+07:00",
-    "kpknl": "KPKNL Jambi"
-  },
-  {
-    "pemohon": "PT. Bank Rakyat Indonesia (Persero), Tbk, Kantor Cabang Jambi",
-    "kode_lot": "LOZQCS",
-    "nama_lot": "2 bidang tanah dengan total luas 168 m2 berikut bangunan di Kota Jambi",
-    "nilai_limit": "800000000",
-    "tanggal_lelang": "2026-03-31T08:15:00+07:00",
-    "kpknl": "KPKNL Jambi"
-  },
-  {
-    "pemohon": "PT. Bank Rakyat Indonesia (Persero), Tbk, Kantor Cabang Bangko",
-    "kode_lot": "USHEJG",
-    "nama_lot": "1 bidang tanah dengan total luas 159 m2 berikut bangunan di Kab. Merangin",
-    "nilai_limit": "367000000",
-    "tanggal_lelang": "2026-03-31T08:30:00+07:00",
-    "kpknl": "KPKNL Jambi"
-  },
-  {
-    "pemohon": "PT. Bank Rakyat Indonesia (Persero), Tbk, Kantor Cabang Bangko",
-    "kode_lot": "M0LMY7",
-    "nama_lot": "1 bidang tanah dengan total luas 439 m2 berikut bangunan di Kab. Merangin",
-    "nilai_limit": "200000000",
-    "tanggal_lelang": "2026-03-31T08:30:00+07:00",
-    "kpknl": "KPKNL Jambi"
-  },
-  {
-    "pemohon": "PT. Bank Rakyat Indonesia (Persero), Tbk, Kantor Cabang Bangko",
-    "kode_lot": "F2LHK3",
-    "nama_lot": "1 bidang tanah dengan total luas 125 m2 di Kab. Merangin",
-    "nilai_limit": "157000000",
-    "tanggal_lelang": "2026-03-31T08:30:00+07:00",
-    "kpknl": "KPKNL Jambi"
-  },
-  {
-    "pemohon": "PT. Bank Rakyat Indonesia (Persero), Tbk, Kantor Cabang Jambi",
-    "kode_lot": "QC6EYJ",
-    "nama_lot": "2 bidang tanah dengan total luas 719 m2 berikut bangunan di Kab. Muaro Jambi",
-    "nilai_limit": "600000000",
-    "tanggal_lelang": "2026-03-31T08:30:00+07:00",
-    "kpknl": "KPKNL Jambi"
   },
   {
     "pemohon": "PT. Bank Negara Indonesia (Persero) Tbk. Divisi Retail Collection & Recovery Region 03",
-    "kode_lot": "7ALR8T",
-    "nama_lot": "1 bidang tanah dengan total luas 125 m2 berikut bangunan di Kota Jambi",
-    "nilai_limit": "68800000",
-    "tanggal_lelang": "2026-03-31T09:00:00+07:00",
-    "kpknl": "KPKNL Jambi"
-  },
-  {
-    "pemohon": "PT. Bank Negara Indonesia (Persero) Tbk. Divisi Retail Collection & Recovery Region 03",
-    "kode_lot": "B6LRTE",
-    "nama_lot": "1 bidang tanah dengan total luas 122 m2 berikut bangunan di Kota Jambi",
-    "nilai_limit": "66600000",
-    "tanggal_lelang": "2026-03-31T09:00:00+07:00",
-    "kpknl": "KPKNL Jambi"
-  },
-  {
-    "pemohon": "OKE ASSET INDONESIA",
-    "kode_lot": "DVPNZY",
-    "nama_lot": "1 bidang tanah dengan total luas 90 m2 berikut bangunan di Kab. Muaro Jambi",
-    "nilai_limit": "182750000",
-    "tanggal_lelang": "2026-03-31T09:00:00+07:00",
-    "kpknl": "KPKNL Jambi"
-  },
-  {
-    "pemohon": "PT Bank Tabungan Negara (Persero) Tbk - Kantor Wilayah Sumatera 2",
-    "kode_lot": "BCEK2O",
-    "nama_lot": "1 bidang tanah dengan total luas 112 m2 berikut bangunan di Kab. Muaro Jambi",
-    "nilai_limit": "125000000",
-    "tanggal_lelang": "2026-03-31T09:00:00+07:00",
-    "kpknl": "KPKNL Jambi"
-  },
-  {
-    "pemohon": "PT Bank Tabungan Negara (Persero) Tbk - Kantor Wilayah Sumatera 2",
-    "kode_lot": "BX6K1M",
-    "nama_lot": "1 bidang tanah dengan total luas 222 m2 berikut bangunan di Kota Jambi",
-    "nilai_limit": "352000000",
-    "tanggal_lelang": "2026-03-31T09:00:00+07:00",
-    "kpknl": "KPKNL Jambi"
-  },
-  {
-    "pemohon": "PT Bank Tabungan Negara (Persero) Tbk - Kantor Wilayah Sumatera 2",
-    "kode_lot": "PMK8RB",
-    "nama_lot": "1 bidang tanah dengan total luas 116 m2 berikut bangunan di Kota Jambi",
-    "nilai_limit": "89000000",
-    "tanggal_lelang": "2026-03-31T09:00:00+07:00",
-    "kpknl": "KPKNL Jambi"
-  },
-  {
-    "pemohon": "PT Bank Tabungan Negara (Persero) Tbk - Kantor Wilayah Sumatera 2",
-    "kode_lot": "0JPQ6E",
-    "nama_lot": "1 bidang tanah dengan total luas 300 m2 berikut bangunan di Kab. Bungo",
-    "nilai_limit": "228500000",
-    "tanggal_lelang": "2026-03-31T09:00:00+07:00",
-    "kpknl": "KPKNL Jambi"
-  },
-  {
-    "pemohon": "PT Bank Negara Indonesia (Persero) Tbk. Divisi Corporate Remedial and Recovery",
-    "kode_lot": "1ZKO9C",
-    "nama_lot": "1 bidang tanah dengan total luas 142 m2 berikut bangunan di Kota Jambi",
-    "nilai_limit": "4092000000",
-    "tanggal_lelang": "2026-03-31T10:10:00+07:00",
-    "kpknl": "KPKNL Jambi"
-  },
-  {
-    "pemohon": "BANK PEREKONOMIAN RAKYAT RONATAMA MANDIRI JAMBI",
-    "kode_lot": "BWHFDP",
-    "nama_lot": "1 bidang tanah dengan total luas 2142 m2 di Kab. Muaro Jambi",
-    "nilai_limit": "51500000",
-    "tanggal_lelang": "2026-03-31T11:00:00+07:00",
-    "kpknl": "KPKNL Jambi"
-  },
-  {
-    "pemohon": "BANK PEREKONOMIAN RAKYAT RONATAMA MANDIRI JAMBI",
-    "kode_lot": "GFEU8I",
-    "nama_lot": "1 bidang tanah dengan total luas 3386 m2 di Kab. Muaro Jambi",
-    "nilai_limit": "81500000",
-    "tanggal_lelang": "2026-03-31T11:00:00+07:00",
-    "kpknl": "KPKNL Jambi"
-  },
-  {
-    "pemohon": "BANK PEREKONOMIAN RAKYAT RONATAMA MANDIRI JAMBI",
-    "kode_lot": "2F6OQR",
-    "nama_lot": "1 bidang tanah dengan total luas 4637 m2 di Kab. Muaro Jambi",
-    "nilai_limit": "111500000",
-    "tanggal_lelang": "2026-03-31T11:00:00+07:00",
-    "kpknl": "KPKNL Jambi"
-  },
-  {
-    "pemohon": "BANK PEREKONOMIAN RAKYAT RONATAMA MANDIRI JAMBI",
-    "kode_lot": "FKQCVB",
-    "nama_lot": "1 bidang tanah dengan total luas 3054 m2 di Kab. Muaro Jambi",
-    "nilai_limit": "73500000",
-    "tanggal_lelang": "2026-03-31T11:00:00+07:00",
-    "kpknl": "KPKNL Jambi"
-  },
-  {
-    "pemohon": "BANK PEREKONOMIAN RAKYAT RONATAMA MANDIRI JAMBI",
-    "kode_lot": "ZHIV98",
-    "nama_lot": "1 bidang tanah dengan total luas 3611 m2 di Kab. Muaro Jambi",
-    "nilai_limit": "87000000",
-    "tanggal_lelang": "2026-03-31T11:00:00+07:00",
-    "kpknl": "KPKNL Jambi"
-  },
-  {
-    "pemohon": "PT. Bank Negara Indonesia (Persero) Tbk. Divisi Retail Collection & Recovery Region 03",
-    "kode_lot": "68KSZ5",
+    "kode_lot": "WP23KR",
     "nama_lot": "1 bidang tanah dengan total luas 90 m2 berikut bangunan di Kota Palembang",
-    "nilai_limit": "230000000",
-    "tanggal_lelang": "2026-03-31T09:30:00+07:00",
+    "nilai_limit": "197500000",
+    "tanggal_lelang": "2026-04-08T11:00:00+07:00",
     "kpknl": "KPKNL Palembang"
   },
   {
-    "pemohon": "PT. Bank Negara Indonesia (Persero) Tbk. Divisi Retail Collection & Recovery Region 03",
-    "kode_lot": "QQJGVD",
-    "nama_lot": "1 bidang tanah dengan total luas 144 m2 berikut bangunan di Kab. Banyuasin",
-    "nilai_limit": "536270000",
-    "tanggal_lelang": "2026-03-31T09:30:00+07:00",
-    "kpknl": "KPKNL Palembang"
-  },
-  {
-    "pemohon": "BANK PEREKONOMIAN RAKYAT SUMATERA SELATAN (PERSERODA)",
-    "kode_lot": "OXHVAT",
-    "nama_lot": "1 bidang tanah dengan total luas 2710 m2 berikut bangunan di Kab. Banyuasin",
-    "nilai_limit": "1975910000",
-    "tanggal_lelang": "2026-03-31T10:00:00+07:00",
-    "kpknl": "KPKNL Palembang"
-  },
-  {
-    "pemohon": "PT. Bank Rakyat Indonesia Persero,Tbk Kantor Cabang Baturaja",
-    "kode_lot": "DG85EM",
-    "nama_lot": "1 bidang tanah dengan total luas 1580 m2 berikut bangunan di Kab. Ogan Komering Ulu Timur",
-    "nilai_limit": "200000000",
-    "tanggal_lelang": "2026-03-31T10:30:00+07:00",
-    "kpknl": "KPKNL Palembang"
-  },
-  {
-    "pemohon": "PT. Bank Rakyat Indonesia (Persero), Tbk, Kantor Cabang Palembang A. Rivai",
-    "kode_lot": "E4F1RU",
-    "nama_lot": "Toko dan Rumah dengan total luas 304 m2 di Kab. Banyuasin",
-    "nilai_limit": "500000000",
-    "tanggal_lelang": "2026-03-31T11:00:00+07:00",
-    "kpknl": "KPKNL Palembang"
-  },
-  {
-    "pemohon": "PT. Bank Rakyat Indonesia (Persero), Tbk, Kantor Cabang Palembang A. Rivai",
-    "kode_lot": "CXYPSQ",
-    "nama_lot": "1 bidang tanah dengan total luas 3531 m2 di Kab. Banyuasin",
-    "nilai_limit": "120000000",
-    "tanggal_lelang": "2026-03-31T11:00:00+07:00",
-    "kpknl": "KPKNL Palembang"
-  },
-  {
-    "pemohon": "PT. Bank Rakyat Indonesia (Persero), Tbk, Kantor Cabang Muara Enim",
-    "kode_lot": "QCAHGE",
-    "nama_lot": "1 bidang tanah dengan total luas 182 m2 berikut bangunan di Kab. Muara Enim",
-    "nilai_limit": "150000000",
-    "tanggal_lelang": "2026-03-31T10:00:00+07:00",
+    "pemohon": "PT. Bank Rakyat Indonesia (Persero), Tbk, Kantor Cabang Lubuk Linggau",
+    "kode_lot": "9GE4K3",
+    "nama_lot": "1 bidang tanah dengan total luas 776 m2 berikut bangunan di Kota Lubuk Linggau",
+    "nilai_limit": "1950000000",
+    "tanggal_lelang": "2026-04-08T10:00:00+07:00",
     "kpknl": "KPKNL Lahat"
   },
   {
-    "pemohon": "PT. Bank Rakyat Indonesia (Persero), Tbk, Kantor Cabang Muara Enim",
-    "kode_lot": "HR8MAK",
-    "nama_lot": "1 bidang tanah dengan total luas 169 m2 berikut bangunan di Kab. Muara Enim",
-    "nilai_limit": "90000000",
-    "tanggal_lelang": "2026-03-31T10:00:00+07:00",
+    "pemohon": "PT. Bank Rakyat Indonesia (Persero), Tbk, Kantor Cabang Lubuk Linggau",
+    "kode_lot": "ALBX3O",
+    "nama_lot": "1 bidang tanah dengan total luas 9745 m2 berikut bangunan di Kab. Musi Rawas Utara",
+    "nilai_limit": "1250000000",
+    "tanggal_lelang": "2026-04-08T10:00:00+07:00",
     "kpknl": "KPKNL Lahat"
   },
   {
-    "pemohon": "PT. Bank Rakyat Indonesia (Persero), Tbk, Kantor Cabang Muara Enim",
-    "kode_lot": "NRLPHE",
-    "nama_lot": "1 bidang tanah dengan total luas 231 m2 berikut bangunan di Kab. Muara Enim",
-    "nilai_limit": "46000000",
-    "tanggal_lelang": "2026-03-31T10:00:00+07:00",
-    "kpknl": "KPKNL Lahat"
-  },
-  {
-    "pemohon": "PT. Bank Rakyat Indonesia (Persero), Tbk, Kantor Cabang Muara Enim",
-    "kode_lot": "ZWKY5P",
-    "nama_lot": "1 bidang tanah dengan total luas 300 m2 di Kab. Muara Enim",
-    "nilai_limit": "120000000",
-    "tanggal_lelang": "2026-03-31T10:05:00+07:00",
-    "kpknl": "KPKNL Lahat"
-  },
-  {
-    "pemohon": "PT. Bank Rakyat Indonesia (Persero), Tbk, Kantor Cabang Muara Enim",
-    "kode_lot": "MCMGZ6",
-    "nama_lot": "1 bidang tanah dengan total luas 120 m2 di Kab. Muara Enim",
-    "nilai_limit": "200000000",
-    "tanggal_lelang": "2026-03-31T10:05:00+07:00",
-    "kpknl": "KPKNL Lahat"
-  },
-  {
-    "pemohon": "PT. Bank Rakyat Indonesia (Persero), Tbk, Kantor Cabang Sarolangun",
-    "kode_lot": "ZTKZ5B",
-    "nama_lot": "1 bidang tanah dengan total luas 415 m2 berikut bangunan di Kab. Musi Rawas Utara",
-    "nilai_limit": "430000000",
-    "tanggal_lelang": "2026-03-31T10:30:00+07:00",
+    "pemohon": "PT Bank Mandiri (Persero), Tbk - Retail Asset Management II / Sumatera 2",
+    "kode_lot": "AWL6HB",
+    "nama_lot": "1 bidang tanah dengan total luas 3167 m2 berikut bangunan di Kab. Musi Rawas",
+    "nilai_limit": "593800000",
+    "tanggal_lelang": "2026-04-08T10:30:00+07:00",
     "kpknl": "KPKNL Lahat"
   },
   {
     "pemohon": "PT. Bank Rakyat Indonesia (Persero), Tbk, Kantor Cabang Lahat",
-    "kode_lot": "OIRXUS",
-    "nama_lot": "1 bidang tanah dengan total luas 294 m2 berikut bangunan di Kab. Lahat",
-    "nilai_limit": "150000000",
-    "tanggal_lelang": "2026-03-31T11:00:00+07:00",
-    "kpknl": "KPKNL Lahat"
-  },
-  {
-    "pemohon": "PT. Bank Rakyat Indonesia (Persero), Tbk, Kantor Cabang Sarolangun",
-    "kode_lot": "HTMP8B",
-    "nama_lot": "1 bidang tanah dengan total luas 200 m2 berikut bangunan di Kab. Musi Rawas Utara",
+    "kode_lot": "BDFRXH",
+    "nama_lot": "4 bidang tanah dengan total luas 1656 m2 di Kab. Lahat",
     "nilai_limit": "300000000",
-    "tanggal_lelang": "2026-03-31T13:30:00+07:00",
+    "tanggal_lelang": "2026-04-08T11:00:00+07:00",
     "kpknl": "KPKNL Lahat"
   },
   {
-    "pemohon": "PT. Bank Rakyat Indonesia (Persero), Tbk, Kantor Cabang Lubuk Linggau",
-    "kode_lot": "CEINIZ",
-    "nama_lot": "1 bidang tanah dengan total luas 428 m2 berikut bangunan di Kab. Musi Rawas",
-    "nilai_limit": "250000000",
-    "tanggal_lelang": "2026-03-31T14:00:00+07:00",
+    "pemohon": "PT. Bank Rakyat Indonesia (Persero), Tbk, Kantor Cabang Lahat",
+    "kode_lot": "HNKB52",
+    "nama_lot": "4 bidang tanah dengan total luas 1397 m2 berikut bangunan di Kab. Lahat",
+    "nilai_limit": "1960000000",
+    "tanggal_lelang": "2026-04-08T11:00:00+07:00",
     "kpknl": "KPKNL Lahat"
-  },
-  {
-    "pemohon": "PT. Bank Rakyat Indonesia (Persero), Tbk, Kantor Cabang Lubuk Linggau",
-    "kode_lot": "LF0DFA",
-    "nama_lot": "1 bidang tanah dengan total luas 1786 m2 berikut bangunan di Kab. Musi Rawas",
-    "nilai_limit": "40000000",
-    "tanggal_lelang": "2026-03-31T14:05:00+07:00",
-    "kpknl": "KPKNL Lahat"
-  },
-  {
-    "pemohon": "PT. Bank Rakyat Indonesia (Persero), Tbk, Kantor Cabang Lubuk Linggau",
-    "kode_lot": "JY7URX",
-    "nama_lot": "1 bidang tanah dengan total luas 3558 m2 berikut bangunan di Kab. Musi Rawas",
-    "nilai_limit": "1775000000",
-    "tanggal_lelang": "2026-03-31T14:10:00+07:00",
-    "kpknl": "KPKNL Lahat"
-  },
-  {
-    "pemohon": "PT. Bank Rakyat Indonesia Persero,Tbk Kantor Cabang Pangkal Pinang",
-    "kode_lot": "1UEIWK",
-    "nama_lot": "1 bidang tanah dengan total luas 393 m2 berikut bangunan di Kab. Bangka Selatan",
-    "nilai_limit": "120000000",
-    "tanggal_lelang": "2026-03-31T08:00:00+07:00",
-    "kpknl": "KPKNL Pangkalpinang"
-  },
-  {
-    "pemohon": "PT. Bank Rakyat Indonesia Persero,Tbk Kantor Cabang Pangkal Pinang",
-    "kode_lot": "DGXEF1",
-    "nama_lot": "1 bidang tanah dengan total luas 611 m2 berikut bangunan di Kab. Bangka Selatan",
-    "nilai_limit": "300000000",
-    "tanggal_lelang": "2026-03-31T08:00:00+07:00",
-    "kpknl": "KPKNL Pangkalpinang"
-  },
-  {
-    "pemohon": "PT. Bank Rakyat Indonesia Persero,Tbk Kantor Cabang Pangkal Pinang",
-    "kode_lot": "QPDFFN",
-    "nama_lot": "1 bidang tanah dengan total luas 5883 m2 di Kab. Bangka Selatan",
-    "nilai_limit": "90000000",
-    "tanggal_lelang": "2026-03-31T08:00:00+07:00",
-    "kpknl": "KPKNL Pangkalpinang"
-  },
-  {
-    "pemohon": "PT. Bank Rakyat Indonesia Persero,Tbk Kantor Cabang Pangkal Pinang",
-    "kode_lot": "GWR8SY",
-    "nama_lot": "1 bidang tanah dengan total luas 4049 m2 di Kab. Bangka Selatan",
-    "nilai_limit": "80000000",
-    "tanggal_lelang": "2026-03-31T08:00:00+07:00",
-    "kpknl": "KPKNL Pangkalpinang"
-  },
-  {
-    "pemohon": "PT. Bank Rakyat Indonesia Persero,Tbk Kantor Cabang Pangkal Pinang",
-    "kode_lot": "BBJFZU",
-    "nama_lot": "1 bidang tanah dengan total luas 4196 m2 di Kab. Bangka Selatan",
-    "nilai_limit": "80000000",
-    "tanggal_lelang": "2026-03-31T08:00:00+07:00",
-    "kpknl": "KPKNL Pangkalpinang"
-  },
-  {
-    "pemohon": "PT. Bank Rakyat Indonesia Persero,Tbk Kantor Cabang Tanjung Pandan",
-    "kode_lot": "YJT0BL",
-    "nama_lot": "1 bidang tanah dengan total luas 325 m2 berikut bangunan di Kab. Belitung Timur",
-    "nilai_limit": "70000000",
-    "tanggal_lelang": "2026-03-31T10:00:00+07:00",
-    "kpknl": "KPKNL Pangkalpinang"
-  },
-  {
-    "pemohon": "PT. Bank Rakyat Indonesia Persero,Tbk Kantor Cabang Tanjung Pandan",
-    "kode_lot": "D18EYB",
-    "nama_lot": "1 bidang tanah dengan total luas 827 m2 berikut bangunan di Kab. Belitung Timur",
-    "nilai_limit": "275000000",
-    "tanggal_lelang": "2026-03-31T10:00:00+07:00",
-    "kpknl": "KPKNL Pangkalpinang"
-  },
-  {
-    "pemohon": "PT. Bank Rakyat Indonesia Persero,Tbk Kantor Cabang Tanjung Pandan",
-    "kode_lot": "9WZXMH",
-    "nama_lot": "1 bidang tanah dengan total luas 121 m2 berikut bangunan di Kab. Belitung",
-    "nilai_limit": "100000000",
-    "tanggal_lelang": "2026-03-31T10:00:00+07:00",
-    "kpknl": "KPKNL Pangkalpinang"
-  },
-  {
-    "pemohon": "KANWIL DJBC SUMBAGTIM",
-    "kode_lot": "EHOQFI",
-    "nama_lot": "Bongkaran Taman dan Bangunan Gedung Tempat Ibadah di Kota Palembang",
-    "nilai_limit": "1134000",
-    "tanggal_lelang": "2026-03-31T11:00:00+07:00",
-    "kpknl": "KPKNL Palembang"
-  },
-  {
-    "pemohon": "KEJAKSAAN NEGERI LUBUK LINGGAU",
-    "kode_lot": "NPBDTI",
-    "nama_lot": "1 (satu) unit Mobil Merk Suzuki Carry Tanpa Nopol wama Hitam Nomor Rangka: MHYHDC61TNJ250322 dan Nomor Mesin: K15BT1444653 di Kota Lubuk Linggau",
-    "nilai_limit": "38585000",
-    "tanggal_lelang": "2026-03-31T09:30:00+07:00",
-    "kpknl": "KPKNL Lahat"
-  },
-  {
-    "pemohon": "KEJAKSAAN NEGERI LUBUK LINGGAU",
-    "kode_lot": "2Y3BFE",
-    "nama_lot": "1 (satu) Unit kendaran Suzuki Swift Warna Putih dengan Nomor Polisi F-1360-BF dengan Noka: MMSHZC82SER102374 dan Nosin: K14BS120475 di Kota Lubuk Linggau",
-    "nilai_limit": "59150000",
-    "tanggal_lelang": "2026-03-31T09:30:00+07:00",
-    "kpknl": "KPKNL Lahat"
-  },
-  {
-    "pemohon": "PT. Bank Rakyat Indonesia Persero,Tbk Kantor Cabang Baturaja",
-    "kode_lot": "JTEEGM",
-    "nama_lot": "1 bidang tanah dengan total luas 17690 m2 di Kab. Ogan Komering Ulu Timur",
-    "nilai_limit": "85000000",
-    "tanggal_lelang": "2026-03-31T10:00:00+07:00",
-    "kpknl": "KPKNL Palembang"
-  },
-  {
-    "pemohon": "PT. Bank Negara Indonesia (Persero) Tbk. Divisi Retail Collection & Recovery Region 03",
-    "kode_lot": "KIGK75",
-    "nama_lot": "1 bidang tanah dengan total luas 16640 m2 di Kab. Sarolangun",
-    "nilai_limit": "155840000",
-    "tanggal_lelang": "2026-03-31T11:00:00+07:00",
-    "kpknl": "KPKNL Jambi"
-  },
-  {
-    "pemohon": "PT. Bank Negara Indonesia (Persero) Tbk. Divisi Retail Collection & Recovery Region 03",
-    "kode_lot": "ZMTLPB",
-    "nama_lot": "1 bidang tanah dengan total luas 950 m2 berikut bangunan di Kab. Sarolangun",
-    "nilai_limit": "718160000",
-    "tanggal_lelang": "2026-03-31T11:00:00+07:00",
-    "kpknl": "KPKNL Jambi"
-  },
-  {
-    "pemohon": "PT. Bank Negara Indonesia (Persero) Tbk. Divisi Retail Collection & Recovery Region 03",
-    "kode_lot": "RS49LQ",
-    "nama_lot": "1 bidang tanah dengan total luas 262 m2 berikut bangunan di Kab. Sarolangun",
-    "nilai_limit": "352960000",
-    "tanggal_lelang": "2026-03-31T11:00:00+07:00",
-    "kpknl": "KPKNL Jambi"
-  },
-  {
-    "pemohon": "PT. Bank CIMB Niaga Tbk (SCR_Collection)",
-    "kode_lot": "I8JVYO",
-    "nama_lot": "1 bidang tanah dengan total luas 105 m2 berikut bangunan di Kota Jambi",
-    "nilai_limit": "220740000",
-    "tanggal_lelang": "2026-04-01T10:00:00+07:00",
-    "kpknl": "KPKNL Jambi"
-  },
-  {
-    "pemohon": "BANK SAHABAT SAMPOERNA",
-    "kode_lot": "YDLKHA",
-    "nama_lot": "1 bidang tanah dengan total luas 146 m2 berikut bangunan di Kota Palembang",
-    "nilai_limit": "550872000",
-    "tanggal_lelang": "2026-04-01T09:00:00+07:00",
-    "kpknl": "KPKNL Palembang"
-  },
-  {
-    "pemohon": "PT. Bank Panin Tbk. KCU Palembang",
-    "kode_lot": "HXK82Z",
-    "nama_lot": "1 bidang tanah dengan total luas 5200 m2 berikut bangunan di Kab. Banyuasin",
-    "nilai_limit": "5200000000",
-    "tanggal_lelang": "2026-04-01T10:00:00+07:00",
-    "kpknl": "KPKNL Palembang"
-  },
-  {
-    "pemohon": "PT. Bank Panin Tbk. KCU Palembang",
-    "kode_lot": "ILSQC3",
-    "nama_lot": "2 bidang tanah dengan total luas 150 m2 berikut bangunan di Kota Palembang",
-    "nilai_limit": "3089352000",
-    "tanggal_lelang": "2026-04-01T10:00:00+07:00",
-    "kpknl": "KPKNL Palembang"
-  },
-  {
-    "pemohon": "PT Bank Permata, Tbk. SAM LWO 3",
-    "kode_lot": "BTHEXE",
-    "nama_lot": "2 bidang tanah dengan total luas 268 m2 berikut bangunan di Kota Pangkal Pinang",
-    "nilai_limit": "1525000000",
-    "tanggal_lelang": "2026-04-01T10:00:00+07:00",
-    "kpknl": "KPKNL Pangkalpinang"
-  },
-  {
-    "pemohon": "PT Bank Permata, Tbk. SAM LWO 3",
-    "kode_lot": "TLRGUN",
-    "nama_lot": "1 bidang tanah dengan total luas 483 m2 di Kota Pangkal Pinang",
-    "nilai_limit": "1405000000",
-    "tanggal_lelang": "2026-04-01T10:00:00+07:00",
-    "kpknl": "KPKNL Pangkalpinang"
-  },
-  {
-    "pemohon": "PT Bank Permata, Tbk. SAM LWO 3",
-    "kode_lot": "WYF6LW",
-    "nama_lot": "2 bidang tanah dengan total luas 4456 m2 berikut bangunan di Kota Pangkal Pinang",
-    "nilai_limit": "9540000000",
-    "tanggal_lelang": "2026-04-01T10:00:00+07:00",
-    "kpknl": "KPKNL Pangkalpinang"
-  },
-  {
-    "pemohon": "PT Bank Permata, Tbk. SAM LWO 3",
-    "kode_lot": "IMRXFK",
-    "nama_lot": "1 bidang tanah dengan total luas 78 m2 berikut bangunan di Kota Pangkal Pinang",
-    "nilai_limit": "995000000",
-    "tanggal_lelang": "2026-04-01T10:00:00+07:00",
-    "kpknl": "KPKNL Pangkalpinang"
-  },
-  {
-    "pemohon": "PT Bank Permata, Tbk. SAM LWO 3",
-    "kode_lot": "HOT5BU",
-    "nama_lot": "4 bidang tanah dengan total luas 5810 m2 di Kota Pangkal Pinang",
-    "nilai_limit": "11505000000",
-    "tanggal_lelang": "2026-04-01T10:00:00+07:00",
-    "kpknl": "KPKNL Pangkalpinang"
-  },
-  {
-    "pemohon": "PT Bank Permata, Tbk. SAM LWO 3",
-    "kode_lot": "QN9RKG",
-    "nama_lot": "1 bidang tanah dengan total luas 2783 m2 berikut bangunan di Kab. Bangka Barat",
-    "nilai_limit": "1460000000",
-    "tanggal_lelang": "2026-04-01T10:00:00+07:00",
-    "kpknl": "KPKNL Pangkalpinang"
-  },
-  {
-    "pemohon": "PT Bank Permata, Tbk. SAM LWO 3",
-    "kode_lot": "ISEY8F",
-    "nama_lot": "2 bidang tanah dengan total luas 244 m2 berikut bangunan di Kota Pangkal Pinang",
-    "nilai_limit": "2725000000",
-    "tanggal_lelang": "2026-04-01T10:00:00+07:00",
-    "kpknl": "KPKNL Pangkalpinang"
-  },
-  {
-    "pemohon": "PT Bank Permata, Tbk. SAM LWO 3",
-    "kode_lot": "EW26TR",
-    "nama_lot": "1 bidang tanah dengan total luas 101 m2 berikut bangunan di Kota Pangkal Pinang",
-    "nilai_limit": "740000000",
-    "tanggal_lelang": "2026-04-01T10:00:00+07:00",
-    "kpknl": "KPKNL Pangkalpinang"
-  },
-  {
-    "pemohon": "PT Bank Tabungan Negara (Persero) Tbk - Kantor Wilayah Sumatera 2",
-    "kode_lot": "GJMKJT",
-    "nama_lot": "1 bidang tanah dengan total luas 83 m2 berikut bangunan di Kab. Banyuasin",
-    "nilai_limit": "244100000",
-    "tanggal_lelang": "2026-04-01T09:00:00+07:00",
-    "kpknl": "KPKNL Palembang"
   },
   {
     "pemohon": "PNM Cabang Palembang",
-    "kode_lot": "LS4RIC",
-    "nama_lot": "1 bidang tanah dengan total luas 475 m2 berikut bangunan di Kab. Ogan Komering Ulu Timur",
-    "nilai_limit": "70000000",
-    "tanggal_lelang": "2026-04-01T10:00:00+07:00",
+    "kode_lot": "M76C1R",
+    "nama_lot": "1 bidang tanah dengan total luas 96 m2 berikut bangunan di Kab. Lahat",
+    "nilai_limit": "56000000",
+    "tanggal_lelang": "2026-04-08T11:30:00+07:00",
+    "kpknl": "KPKNL Lahat"
+  },
+  {
+    "pemohon": "PT Bank Mandiri (Persero), Tbk - Retail Asset Management II / Sumatera 2",
+    "kode_lot": "0WBTD9",
+    "nama_lot": "1 bidang tanah dengan total luas 199 m2 berikut bangunan di Kota Lubuk Linggau",
+    "nilai_limit": "286085000",
+    "tanggal_lelang": "2026-04-08T13:00:00+07:00",
+    "kpknl": "KPKNL Lahat"
+  },
+  {
+    "pemohon": "PT Bank Mandiri (Persero), Tbk - Retail Asset Management II / Sumatera 2",
+    "kode_lot": "PAJYVZ",
+    "nama_lot": "1 bidang tanah dengan total luas 112 m2 berikut bangunan di Kota Lubuk Linggau",
+    "nilai_limit": "261886000",
+    "tanggal_lelang": "2026-04-08T13:30:00+07:00",
+    "kpknl": "KPKNL Lahat"
+  },
+  {
+    "pemohon": "PT Bank Mandiri (Persero), Tbk - Retail Asset Management II / Sumatera 2",
+    "kode_lot": "XN36UH",
+    "nama_lot": "1 bidang tanah dengan total luas 1062 m2 berikut bangunan di Kab. Musi Rawas",
+    "nilai_limit": "706200000",
+    "tanggal_lelang": "2026-04-08T14:00:00+07:00",
+    "kpknl": "KPKNL Lahat"
+  },
+  {
+    "pemohon": "PT Bank Mandiri (Persero), Tbk - Retail Asset Management II / Sumatera 2",
+    "kode_lot": "PUYWNI",
+    "nama_lot": "1 bidang tanah dengan total luas 263 m2 berikut bangunan di Kab. Musi Rawas Utara",
+    "nilai_limit": "235100000",
+    "tanggal_lelang": "2026-04-08T14:30:00+07:00",
+    "kpknl": "KPKNL Lahat"
+  },
+  {
+    "pemohon": "PT. Bank Rakyat Indonesia (Persero), Tbk, Kantor Cabang Lahat",
+    "kode_lot": "HYJPTL",
+    "nama_lot": "1 bidang tanah dengan total luas 372 m2 berikut bangunan di Kab. Lahat",
+    "nilai_limit": "350000000",
+    "tanggal_lelang": "2026-04-08T15:00:00+07:00",
+    "kpknl": "KPKNL Lahat"
+  },
+  {
+    "pemohon": "PT Bank Tabungan Negara (Persero) Tbk - Kantor Wilayah Sumatera 2",
+    "kode_lot": "MDVZW0",
+    "nama_lot": "1 bidang tanah dengan total luas 108 m2 berikut bangunan di Kota Jambi",
+    "nilai_limit": "73300000",
+    "tanggal_lelang": "2026-04-08T11:00:00+07:00",
+    "kpknl": "KPKNL Jambi"
+  },
+  {
+    "pemohon": "PT. Bank Rakyat Indonesia (Persero), Tbk, Kantor Cabang Lahat",
+    "kode_lot": "W2OETW",
+    "nama_lot": "2 bidang tanah dengan total luas 3251 m2 di Kab. Lahat",
+    "nilai_limit": "890000000",
+    "tanggal_lelang": "2026-04-08T11:00:00+07:00",
+    "kpknl": "KPKNL Lahat"
+  },
+  {
+    "pemohon": "BADAN NARKOTIKA NASIONAL KOTA PANGKALPINANG",
+    "kode_lot": "EBMEWT",
+    "nama_lot": "Satu paket BMN yang terdiri dari Rak Kayu, laptop, Filing Cabinet Besi, kursi Besi/ Metal, Meja Kerja Kayu, Vertikal Blind, P.C. Unit, Printer, Worstation , Wireless Amplifier , Megaphone di Kota Pangkal Pinang",
+    "nilai_limit": "395000",
+    "tanggal_lelang": "2026-04-08T10:00:00+07:00",
+    "kpknl": "KPKNL Pangkalpinang"
+  },
+  {
+    "pemohon": "KPPBC TMP B PALEMBANG",
+    "kode_lot": "OYHRKZ",
+    "nama_lot": "1 (Satu) Paket Peralatan dan Mesin dalam Keadaan Rusak Berat di Kota Palembang",
+    "nilai_limit": "4856000",
+    "tanggal_lelang": "2026-04-08T09:00:00+07:00",
+    "kpknl": "KPKNL Palembang"
+  },
+  {
+    "pemohon": "POLDA SUMSEL - BIDANG HUKUM",
+    "kode_lot": "2H3Z8W",
+    "nama_lot": "NISSAN EXTRAIL di Kota Palembang",
+    "nilai_limit": "23189000",
+    "tanggal_lelang": "2026-04-08T10:00:00+07:00",
+    "kpknl": "KPKNL Palembang"
+  },
+  {
+    "pemohon": "KANTOR KEMENTERIAN AGAMA KOTA PANGKALPINANG (SEKJEN)",
+    "kode_lot": "TGNSB3",
+    "nama_lot": "1 Paket Material Sisa Bongkaran Berupa 1.954 Keping Genteng Beton Dan 1 Kubik Balok Kayu di Kota Pangkal Pinang",
+    "nilai_limit": "1906000",
+    "tanggal_lelang": "2026-04-08T10:00:00+07:00",
+    "kpknl": "KPKNL Pangkalpinang"
+  },
+  {
+    "pemohon": "PT BCA, Tbk - Kanwil VI Palembang",
+    "kode_lot": "Y6IVHA",
+    "nama_lot": "1 bidang tanah dengan total luas 43 m2 berikut bangunan di Kota Prabumulih",
+    "nilai_limit": "997600000",
+    "tanggal_lelang": "2026-04-09T09:00:00+07:00",
+    "kpknl": "KPKNL Palembang"
+  },
+  {
+    "pemohon": "PT. Bank Rakyat Indonesia (Persero), Tbk, Kantor Cabang Sarolangun",
+    "kode_lot": "ZUK28D",
+    "nama_lot": "1 bidang tanah dengan total luas 205 m2 berikut bangunan di Kab. Sarolangun",
+    "nilai_limit": "250000000",
+    "tanggal_lelang": "2026-04-09T10:00:00+07:00",
+    "kpknl": "KPKNL Jambi"
+  },
+  {
+    "pemohon": "PT. BANK PEMBANGUNAN DAERAH JAWA BARAT DAN BANTEN TBK (BANK BJB) KC BATAM",
+    "kode_lot": "07YMMA",
+    "nama_lot": "1 bidang tanah dengan total luas 149 m2 berikut bangunan di Kota Jambi",
+    "nilai_limit": "630000000",
+    "tanggal_lelang": "2026-04-09T14:00:00+07:00",
+    "kpknl": "KPKNL Jambi"
+  },
+  {
+    "pemohon": "PT. Bank Rakyat Indonesia (Persero), Tbk, Kantor Cabang Kuala Tungkal",
+    "kode_lot": "I6JXDV",
+    "nama_lot": "1 bidang tanah dengan total luas 1273 m2 berikut bangunan di Kab. Tanjung Jabung Barat",
+    "nilai_limit": "1200000000",
+    "tanggal_lelang": "2026-04-09T15:00:00+07:00",
+    "kpknl": "KPKNL Jambi"
+  },
+  {
+    "pemohon": "PT. Bank Rakyat Indonesia (Persero), Tbk, Kantor Cabang Kuala Tungkal",
+    "kode_lot": "QBRCCY",
+    "nama_lot": "1 bidang tanah dengan total luas 748 m2 di Kab. Tanjung Jabung Barat",
+    "nilai_limit": "80000000",
+    "tanggal_lelang": "2026-04-09T15:00:00+07:00",
+    "kpknl": "KPKNL Jambi"
+  },
+  {
+    "pemohon": "PT. Bank Rakyat Indonesia (Persero), Tbk, Kantor Cabang Kuala Tungkal",
+    "kode_lot": "RS2NUQ",
+    "nama_lot": "1 bidang tanah dengan total luas 115 m2 di Kab. Tanjung Jabung Barat",
+    "nilai_limit": "20000000",
+    "tanggal_lelang": "2026-04-09T15:00:00+07:00",
+    "kpknl": "KPKNL Jambi"
+  },
+  {
+    "pemohon": "PT. Bank Rakyat Indonesia (Persero), Tbk, Kantor Cabang Kuala Tungkal",
+    "kode_lot": "1RKULY",
+    "nama_lot": "1 bidang tanah dengan total luas 140 m2 di Kab. Tanjung Jabung Barat",
+    "nilai_limit": "20000000",
+    "tanggal_lelang": "2026-04-09T15:00:00+07:00",
+    "kpknl": "KPKNL Jambi"
+  },
+  {
+    "pemohon": "PT. Bank Rakyat Indonesia (Persero), Tbk, Kantor Cabang Kuala Tungkal",
+    "kode_lot": "NSJMGT",
+    "nama_lot": "1 bidang tanah dengan total luas 2500 m2 berikut bangunan di Kab. Tanjung Jabung Barat",
+    "nilai_limit": "250000000",
+    "tanggal_lelang": "2026-04-09T15:00:00+07:00",
+    "kpknl": "KPKNL Jambi"
+  },
+  {
+    "pemohon": "PT. Bank Negara Indonesia (Persero) Tbk. Divisi Retail Collection & Recovery Region 03",
+    "kode_lot": "AKFO6B",
+    "nama_lot": "1 bidang tanah dengan total luas 120 m2 berikut bangunan di Kota Jambi",
+    "nilai_limit": "564000000",
+    "tanggal_lelang": "2026-04-09T09:00:00+07:00",
+    "kpknl": "KPKNL Jambi"
+  },
+  {
+    "pemohon": "PT. Bank Negara Indonesia (Persero) Tbk. Divisi Retail Collection & Recovery Region 03",
+    "kode_lot": "42QURZ",
+    "nama_lot": "1 bidang tanah dengan total luas 236 m2 berikut bangunan di Kab. Sarolangun",
+    "nilai_limit": "96068000",
+    "tanggal_lelang": "2026-04-09T09:00:00+07:00",
+    "kpknl": "KPKNL Jambi"
+  },
+  {
+    "pemohon": "PT. Bank Negara Indonesia (Persero) Tbk. Divisi Retail Collection & Recovery Region 03",
+    "kode_lot": "QHGLVF",
+    "nama_lot": "1 bidang tanah dengan total luas 14330 m2 di Kab. Sarolangun",
+    "nilai_limit": "146166000",
+    "tanggal_lelang": "2026-04-09T09:00:00+07:00",
+    "kpknl": "KPKNL Jambi"
+  },
+  {
+    "pemohon": "PT. Bank Negara Indonesia (Persero) Tbk. Divisi Retail Collection & Recovery Region 03",
+    "kode_lot": "QWCH98",
+    "nama_lot": "1 bidang tanah dengan total luas 8368 m2 di Kab. Sarolangun",
+    "nilai_limit": "87864000",
+    "tanggal_lelang": "2026-04-09T09:00:00+07:00",
+    "kpknl": "KPKNL Jambi"
+  },
+  {
+    "pemohon": "PT. Bank Negara Indonesia (Persero) Tbk. Divisi Retail Collection & Recovery Region 03",
+    "kode_lot": "6ABHEF",
+    "nama_lot": "1 bidang tanah dengan total luas 103 m2 berikut bangunan di Kota Jambi",
+    "nilai_limit": "260000000",
+    "tanggal_lelang": "2026-04-09T09:00:00+07:00",
+    "kpknl": "KPKNL Jambi"
+  },
+  {
+    "pemohon": "PT. Bank Negara Indonesia (Persero) Tbk. Divisi Retail Collection & Recovery Region 03",
+    "kode_lot": "3WWUVH",
+    "nama_lot": "2 bidang tanah dengan total luas 241 m2 berikut bangunan di Kota Jambi",
+    "nilai_limit": "253680000",
+    "tanggal_lelang": "2026-04-09T09:00:00+07:00",
+    "kpknl": "KPKNL Jambi"
+  },
+  {
+    "pemohon": "PT. Bank Negara Indonesia (Persero) Tbk. Divisi Retail Collection & Recovery Region 03",
+    "kode_lot": "OJIWDP",
+    "nama_lot": "1 bidang tanah dengan total luas 129 m2 berikut bangunan di Kota Jambi",
+    "nilai_limit": "455000000",
+    "tanggal_lelang": "2026-04-09T09:30:00+07:00",
+    "kpknl": "KPKNL Jambi"
+  },
+  {
+    "pemohon": "PT BCA, Tbk - Kanwil VI Palembang",
+    "kode_lot": "9Q6EHY",
+    "nama_lot": "1 bidang tanah dengan total luas 2466 m2 berikut bangunan di Kota Jambi",
+    "nilai_limit": "6583720000",
+    "tanggal_lelang": "2026-04-09T09:30:00+07:00",
+    "kpknl": "KPKNL Jambi"
+  },
+  {
+    "pemohon": "PT. Bank Negara Indonesia (Persero) Tbk. Divisi Retail Collection & Recovery Region 03",
+    "kode_lot": "CKMZLA",
+    "nama_lot": "1 bidang tanah dengan total luas 117 m2 berikut bangunan di Kota Jambi",
+    "nilai_limit": "294000000",
+    "tanggal_lelang": "2026-04-09T09:30:00+07:00",
+    "kpknl": "KPKNL Jambi"
+  },
+  {
+    "pemohon": "BANK Perekonomian Rakyat Artha Prima Persada",
+    "kode_lot": "8NGC4F",
+    "nama_lot": "1 bidang tanah dengan total luas 697 m2 berikut bangunan di Kota Jambi",
+    "nilai_limit": "2200000000",
+    "tanggal_lelang": "2026-04-09T10:00:00+07:00",
+    "kpknl": "KPKNL Jambi"
+  },
+  {
+    "pemohon": "PT. Bank Negara Indonesia (Persero) Tbk. Divisi Retail Collection & Recovery Region 03",
+    "kode_lot": "C5W7FY",
+    "nama_lot": "1 bidang tanah dengan total luas 224 m2 berikut bangunan di Kab. Sarolangun",
+    "nilai_limit": "138288000",
+    "tanggal_lelang": "2026-04-09T10:00:00+07:00",
+    "kpknl": "KPKNL Jambi"
+  },
+  {
+    "pemohon": "PT. Bank Negara Indonesia (Persero) Tbk. Divisi Retail Collection & Recovery Region 03",
+    "kode_lot": "GZCVUA",
+    "nama_lot": "1 bidang tanah dengan total luas 8560 m2 di Kab. Sarolangun",
+    "nilai_limit": "89880000",
+    "tanggal_lelang": "2026-04-09T10:00:00+07:00",
+    "kpknl": "KPKNL Jambi"
+  },
+  {
+    "pemohon": "PT. Bank Negara Indonesia (Persero) Tbk. Divisi Retail Collection & Recovery Region 03",
+    "kode_lot": "KYFPZ4",
+    "nama_lot": "1 bidang tanah dengan total luas 10430 m2 di Kab. Sarolangun",
+    "nilai_limit": "109515000",
+    "tanggal_lelang": "2026-04-09T10:00:00+07:00",
+    "kpknl": "KPKNL Jambi"
+  },
+  {
+    "pemohon": "PT. Bank Negara Indonesia (Persero) Tbk. Divisi Retail Collection & Recovery Region 03",
+    "kode_lot": "0NXR5S",
+    "nama_lot": "1 bidang tanah dengan total luas 9146 m2 di Kab. Sarolangun",
+    "nilai_limit": "96033000",
+    "tanggal_lelang": "2026-04-09T10:00:00+07:00",
+    "kpknl": "KPKNL Jambi"
+  },
+  {
+    "pemohon": "PT. Bank Rakyat Indonesia Persero,Tbk Kantor Cabang Abunjani Sipin",
+    "kode_lot": "V8PLHY",
+    "nama_lot": "1 bidang tanah dengan total luas 101 m2 berikut bangunan di Kota Jambi",
+    "nilai_limit": "300000000",
+    "tanggal_lelang": "2026-04-09T11:00:00+07:00",
+    "kpknl": "KPKNL Jambi"
+  },
+  {
+    "pemohon": "PT. Bank Rakyat Indonesia Persero,Tbk Kantor Cabang Abunjani Sipin",
+    "kode_lot": "NSBCS9",
+    "nama_lot": "1 bidang tanah dengan total luas 242 m2 berikut bangunan di Kota Jambi",
+    "nilai_limit": "400000000",
+    "tanggal_lelang": "2026-04-09T11:00:00+07:00",
+    "kpknl": "KPKNL Jambi"
+  },
+  {
+    "pemohon": "PT. Bank Rakyat Indonesia Persero,Tbk Kantor Cabang Abunjani Sipin",
+    "kode_lot": "GP2PTK",
+    "nama_lot": "1 bidang tanah dengan total luas 1618 m2 berikut bangunan di Kota Jambi",
+    "nilai_limit": "600000000",
+    "tanggal_lelang": "2026-04-09T11:00:00+07:00",
+    "kpknl": "KPKNL Jambi"
+  },
+  {
+    "pemohon": "BANK PEREKONOMIAN RAKYAT PERDANA CIPTA SEJAHTERA",
+    "kode_lot": "L8BHZD",
+    "nama_lot": "1 bidang tanah dengan total luas 155 m2 berikut bangunan di Kota Jambi",
+    "nilai_limit": "1000000000",
+    "tanggal_lelang": "2026-04-09T14:00:00+07:00",
+    "kpknl": "KPKNL Jambi"
+  },
+  {
+    "pemohon": "PT Bank Mandiri (Persero), Tbk - Retail Asset Management II / Sumatera 2",
+    "kode_lot": "KNJRPM",
+    "nama_lot": "1 bidang tanah dengan total luas 105 m2 berikut bangunan di Kota Jambi",
+    "nilai_limit": "853741650",
+    "tanggal_lelang": "2026-04-09T14:00:00+07:00",
+    "kpknl": "KPKNL Jambi"
+  },
+  {
+    "pemohon": "PT Bank Mandiri (Persero), Tbk - Retail Asset Management II / Sumatera 2",
+    "kode_lot": "0BG768",
+    "nama_lot": "1 bidang tanah dengan total luas 137 m2 berikut bangunan di Kota Jambi",
+    "nilai_limit": "229705950",
+    "tanggal_lelang": "2026-04-09T14:00:00+07:00",
+    "kpknl": "KPKNL Jambi"
+  },
+  {
+    "pemohon": "PT Bank Mandiri (Persero), Tbk - Retail Asset Management II / Sumatera 2",
+    "kode_lot": "PIC1NK",
+    "nama_lot": "1 bidang tanah dengan total luas 171 m2 berikut bangunan di Kota Jambi",
+    "nilai_limit": "187877600",
+    "tanggal_lelang": "2026-04-09T14:00:00+07:00",
+    "kpknl": "KPKNL Jambi"
+  },
+  {
+    "pemohon": "BANK PEREKONOMIAN RAKYAT PERDANA CIPTA SEJAHTERA",
+    "kode_lot": "QHEZE6",
+    "nama_lot": "1 bidang tanah dengan total luas 577 m2 berikut bangunan di Kota Jambi",
+    "nilai_limit": "700000000",
+    "tanggal_lelang": "2026-04-09T14:00:00+07:00",
+    "kpknl": "KPKNL Jambi"
+  },
+  {
+    "pemohon": "PT. Bank Negara Indonesia (Persero) Tbk. Divisi Retail Collection & Recovery Region 03",
+    "kode_lot": "B6YUND",
+    "nama_lot": "1 bidang tanah dengan total luas 2783 m2 berikut bangunan di Kab. Tanjung Jabung Timur",
+    "nilai_limit": "594500000",
+    "tanggal_lelang": "2026-04-09T14:15:00+07:00",
+    "kpknl": "KPKNL Jambi"
+  },
+  {
+    "pemohon": "PT Bank Mandiri (Persero), Tbk - Retail Asset Management II / Sumatera 2",
+    "kode_lot": "NOSQTH",
+    "nama_lot": "1 bidang tanah dengan total luas 77 m2 berikut bangunan di Kab. Ogan Ilir",
+    "nilai_limit": "63100000",
+    "tanggal_lelang": "2026-04-09T09:00:00+07:00",
+    "kpknl": "KPKNL Palembang"
+  },
+  {
+    "pemohon": "PT Bank Tabungan Negara (Persero) Tbk - Kantor Wilayah Sumatera 2",
+    "kode_lot": "RBMJ3L",
+    "nama_lot": "1 bidang tanah dengan total luas 90 m2 berikut bangunan di Kota Palembang",
+    "nilai_limit": "341000000",
+    "tanggal_lelang": "2026-04-09T09:00:00+07:00",
     "kpknl": "KPKNL Palembang"
   },
   {
     "pemohon": "PT Bank Mandiri (Persero), Tbk - Retail Asset Management II / Sumatera 2",
-    "kode_lot": "GYDBQX",
-    "nama_lot": "2 bidang tanah dengan total luas 120 m2 berikut bangunan di Kota Palembang",
-    "nilai_limit": "165292000",
-    "tanggal_lelang": "2026-04-01T11:00:00+07:00",
+    "kode_lot": "CX891Z",
+    "nama_lot": "1 bidang tanah dengan total luas 90 m2 berikut bangunan di Kota Palembang",
+    "nilai_limit": "214341600",
+    "tanggal_lelang": "2026-04-09T09:00:00+07:00",
     "kpknl": "KPKNL Palembang"
   },
   {
-    "pemohon": "BANK PEREKONOMIAN RAKYAT PRIMA JAMBI MANDIRI",
-    "kode_lot": "52O04W",
-    "nama_lot": "1 bidang tanah dengan total luas 1666 m2 berikut bangunan di Kab. Tanjung Jabung Timur",
-    "nilai_limit": "250000000",
-    "tanggal_lelang": "2026-04-01T10:00:00+07:00",
-    "kpknl": "KPKNL Jambi"
+    "pemohon": "PT Bank Mandiri (Persero), Tbk - Retail Asset Management II / Sumatera 2",
+    "kode_lot": "PQ6TKM",
+    "nama_lot": "1 bidang tanah dengan total luas 400 m2 berikut bangunan di Kab. Musi Banyuasin",
+    "nilai_limit": "150900000",
+    "tanggal_lelang": "2026-04-09T09:00:00+07:00",
+    "kpknl": "KPKNL Palembang"
   },
   {
-    "pemohon": "PNM Cabang Jambi",
-    "kode_lot": "8ZWVG6",
-    "nama_lot": "2 bidang tanah dengan total luas 12886 m2 di Kab. Sarolangun",
-    "nilai_limit": "55000000",
-    "tanggal_lelang": "2026-04-01T11:00:00+07:00",
-    "kpknl": "KPKNL Jambi"
-  },
-  {
-    "pemohon": "PNM Cabang Jambi",
-    "kode_lot": "JC1NS9",
-    "nama_lot": "1 bidang tanah dengan total luas 109 m2 berikut bangunan di Kota Jambi",
-    "nilai_limit": "140000000",
-    "tanggal_lelang": "2026-04-01T11:00:00+07:00",
-    "kpknl": "KPKNL Jambi"
-  },
-  {
-    "pemohon": "PNM Cabang Jambi",
-    "kode_lot": "ZR6MC7",
-    "nama_lot": "1 bidang tanah dengan total luas 3695 m2 di Kab. Batanghari",
-    "nilai_limit": "32000000",
-    "tanggal_lelang": "2026-04-01T11:00:00+07:00",
-    "kpknl": "KPKNL Jambi"
-  },
-  {
-    "pemohon": "PNM Cabang Jambi",
-    "kode_lot": "BEUFSX",
-    "nama_lot": "1 bidang tanah dengan total luas 391 m2 berikut bangunan di Kab. Batanghari",
-    "nilai_limit": "60000000",
-    "tanggal_lelang": "2026-04-01T11:00:00+07:00",
-    "kpknl": "KPKNL Jambi"
-  },
-  {
-    "pemohon": "BANK PEREKONOMIAN RAKYAT RONATAMA MANDIRI JAMBI",
-    "kode_lot": "ENR1UV",
-    "nama_lot": "1 bidang tanah dengan total luas 174 m2 berikut bangunan di Kab. Muaro Jambi",
-    "nilai_limit": "65000000",
-    "tanggal_lelang": "2026-04-01T11:00:00+07:00",
-    "kpknl": "KPKNL Jambi"
+    "pemohon": "PT Bank Mandiri (Persero), Tbk - Retail Asset Management II / Sumatera 2",
+    "kode_lot": "YUNAD9",
+    "nama_lot": "1 bidang tanah dengan total luas 96 m2 berikut bangunan di Kota Palembang",
+    "nilai_limit": "166000000",
+    "tanggal_lelang": "2026-04-09T09:00:00+07:00",
+    "kpknl": "KPKNL Palembang"
   },
   {
     "pemohon": "PT. Bank Negara Indonesia (Persero) Tbk. Divisi Retail Collection & Recovery Region 03",
-    "kode_lot": "8HVZTZ",
-    "nama_lot": "1 bidang tanah dengan total luas 345 m2 berikut bangunan di Kab. Belitung",
-    "nilai_limit": "307380000",
-    "tanggal_lelang": "2026-04-01T11:00:00+07:00",
-    "kpknl": "KPKNL Pangkalpinang"
+    "kode_lot": "AILXY3",
+    "nama_lot": "1 bidang tanah dengan total luas 263 m2 berikut bangunan di Kab. Banyuasin",
+    "nilai_limit": "783390000",
+    "tanggal_lelang": "2026-04-09T09:00:00+07:00",
+    "kpknl": "KPKNL Palembang"
   },
   {
     "pemohon": "PT. Bank Negara Indonesia (Persero) Tbk. Divisi Retail Collection & Recovery Region 03",
-    "kode_lot": "VW9A38",
-    "nama_lot": "1 bidang tanah dengan total luas 4121 m2 di Kab. Belitung Timur",
-    "nilai_limit": "37090000",
-    "tanggal_lelang": "2026-04-01T11:00:00+07:00",
-    "kpknl": "KPKNL Pangkalpinang"
+    "kode_lot": "AM9UDJ",
+    "nama_lot": "1 bidang tanah dengan total luas 52 m2 berikut bangunan di Kota Palembang",
+    "nilai_limit": "695000000",
+    "tanggal_lelang": "2026-04-09T09:00:00+07:00",
+    "kpknl": "KPKNL Palembang"
+  },
+  {
+    "pemohon": "PT. Bank Negara Indonesia (Persero) Tbk. Divisi Retail Collection & Recovery Region 03",
+    "kode_lot": "TGLS7E",
+    "nama_lot": "1 bidang tanah dengan total luas 52 m2 berikut bangunan di Kota Palembang",
+    "nilai_limit": "695000000",
+    "tanggal_lelang": "2026-04-09T09:00:00+07:00",
+    "kpknl": "KPKNL Palembang"
+  },
+  {
+    "pemohon": "PT. Bank Negara Indonesia (Persero) Tbk. Divisi Retail Collection & Recovery Region 03",
+    "kode_lot": "WVQH9F",
+    "nama_lot": "3 bidang tanah dengan total luas 195 m2 berikut bangunan di Kota Palembang",
+    "nilai_limit": "3100000000",
+    "tanggal_lelang": "2026-04-09T09:00:00+07:00",
+    "kpknl": "KPKNL Palembang"
+  },
+  {
+    "pemohon": "PT Bank Tabungan Negara (Persero) Tbk - Kantor Wilayah Sumatera 2",
+    "kode_lot": "1RLMIR",
+    "nama_lot": "1 bidang tanah dengan total luas 97 m2 berikut bangunan di Kab. Banyuasin",
+    "nilai_limit": "258500000",
+    "tanggal_lelang": "2026-04-09T09:00:00+07:00",
+    "kpknl": "KPKNL Palembang"
+  },
+  {
+    "pemohon": "BANK MUAMALAT INDONESIA",
+    "kode_lot": "BSDNJ1",
+    "nama_lot": "1 bidang tanah dengan total luas 4137 m2 berikut bangunan di Kab. Ogan Komering Ilir",
+    "nilai_limit": "529000000",
+    "tanggal_lelang": "2026-04-09T09:00:00+07:00",
+    "kpknl": "KPKNL Palembang"
+  },
+  {
+    "pemohon": "PT. Bank Negara Indonesia (Persero) Tbk. Divisi Retail Collection & Recovery Region 03",
+    "kode_lot": "9SOUE0",
+    "nama_lot": "2 bidang tanah dengan total luas 154 m2 berikut bangunan di Kota Palembang",
+    "nilai_limit": "1199900000",
+    "tanggal_lelang": "2026-04-09T09:30:00+07:00",
+    "kpknl": "KPKNL Palembang"
+  },
+  {
+    "pemohon": "PT. Bank Negara Indonesia (Persero) Tbk. Divisi Retail Collection & Recovery Region 03",
+    "kode_lot": "LVZJWU",
+    "nama_lot": "1 bidang tanah dengan total luas 597 m2 berikut bangunan di Kota Palembang",
+    "nilai_limit": "358200000",
+    "tanggal_lelang": "2026-04-09T09:30:00+07:00",
+    "kpknl": "KPKNL Palembang"
+  },
+  {
+    "pemohon": "PT. Bank Negara Indonesia (Persero) Tbk. Divisi Retail Collection & Recovery Region 03",
+    "kode_lot": "DW9NRK",
+    "nama_lot": "1 bidang tanah dengan total luas 1017 m2 berikut bangunan di Kota Palembang",
+    "nilai_limit": "1024100000",
+    "tanggal_lelang": "2026-04-09T09:30:00+07:00",
+    "kpknl": "KPKNL Palembang"
+  },
+  {
+    "pemohon": "PT. Bank Negara Indonesia (Persero) Tbk. Divisi Retail Collection & Recovery Region 03",
+    "kode_lot": "OBXSUE",
+    "nama_lot": "4 bidang tanah dengan total luas 799 m2 berikut bangunan di Kota Palembang",
+    "nilai_limit": "3119000000",
+    "tanggal_lelang": "2026-04-09T09:30:00+07:00",
+    "kpknl": "KPKNL Palembang"
+  },
+  {
+    "pemohon": "PT. Bank Negara Indonesia (Persero) Tbk. Divisi Retail Collection & Recovery Region 03",
+    "kode_lot": "JDYK0L",
+    "nama_lot": "1 bidang tanah dengan total luas 73 m2 berikut bangunan di Kab. Ogan Komering Ilir",
+    "nilai_limit": "94400000",
+    "tanggal_lelang": "2026-04-09T10:00:00+07:00",
+    "kpknl": "KPKNL Palembang"
+  },
+  {
+    "pemohon": "PT. Bank Negara Indonesia (Persero) Tbk. Divisi Retail Collection & Recovery Region 03",
+    "kode_lot": "QAMEI4",
+    "nama_lot": "1 bidang tanah dengan total luas 8418 m2 di Kab. Ogan Komering Ilir",
+    "nilai_limit": "220552000",
+    "tanggal_lelang": "2026-04-09T10:00:00+07:00",
+    "kpknl": "KPKNL Palembang"
+  },
+  {
+    "pemohon": "PT. Bank Rakyat Indonesia Persero,Tbk Kantor Cabang Prabumulih",
+    "kode_lot": "9T7XGC",
+    "nama_lot": "1 bidang tanah dengan total luas 435 m2 berikut bangunan di Kota Prabumulih",
+    "nilai_limit": "537500000",
+    "tanggal_lelang": "2026-04-09T10:00:00+07:00",
+    "kpknl": "KPKNL Palembang"
+  },
+  {
+    "pemohon": "PT. Bank Panin Tbk. KCU Palembang",
+    "kode_lot": "J5DGPC",
+    "nama_lot": "2 bidang tanah dengan total luas 99 m2 berikut bangunan di Kota Palembang",
+    "nilai_limit": "1818300000",
+    "tanggal_lelang": "2026-04-09T11:00:00+07:00",
+    "kpknl": "KPKNL Palembang"
+  },
+  {
+    "pemohon": "PT. Bank Negara Indonesia (Persero) Tbk. Divisi Retail Collection & Recovery Region 03",
+    "kode_lot": "WWN8R2",
+    "nama_lot": "1 bidang tanah dengan total luas 199 m2 berikut bangunan di Kab. Musi Rawas Utara",
+    "nilai_limit": "1204000000",
+    "tanggal_lelang": "2026-04-09T09:30:00+07:00",
+    "kpknl": "KPKNL Lahat"
+  },
+  {
+    "pemohon": "Seksi Piutang Negara KPKNL Lahat",
+    "kode_lot": "BYFYKV",
+    "nama_lot": "1 bidang tanah dengan total luas 1290 m2 berikut bangunan di Kab. Musi Rawas",
+    "nilai_limit": "4110000000",
+    "tanggal_lelang": "2026-04-09T10:00:00+07:00",
+    "kpknl": "KPKNL Lahat"
+  },
+  {
+    "pemohon": "Seksi Piutang Negara KPKNL Lahat",
+    "kode_lot": "JN7XZ3",
+    "nama_lot": "1 bidang tanah dengan total luas 1386 m2 berikut bangunan di Kab. Musi Rawas",
+    "nilai_limit": "2069901000",
+    "tanggal_lelang": "2026-04-09T10:00:00+07:00",
+    "kpknl": "KPKNL Lahat"
+  },
+  {
+    "pemohon": "Seksi Piutang Negara KPKNL Lahat",
+    "kode_lot": "MTNZVK",
+    "nama_lot": "1 bidang tanah dengan total luas 990 m2 berikut bangunan di Kab. Musi Rawas",
+    "nilai_limit": "1864000000",
+    "tanggal_lelang": "2026-04-09T10:00:00+07:00",
+    "kpknl": "KPKNL Lahat"
+  },
+  {
+    "pemohon": "Seksi Piutang Negara KPKNL Lahat",
+    "kode_lot": "EQAOMV",
+    "nama_lot": "1 bidang tanah dengan total luas 10273 m2 di Kab. Musi Rawas",
+    "nilai_limit": "1600000000",
+    "tanggal_lelang": "2026-04-09T10:00:00+07:00",
+    "kpknl": "KPKNL Lahat"
+  },
+  {
+    "pemohon": "Seksi Piutang Negara KPKNL Lahat",
+    "kode_lot": "SW5E9D",
+    "nama_lot": "1 bidang tanah dengan total luas 214 m2 berikut bangunan di Kab. Musi Rawas",
+    "nilai_limit": "748543000",
+    "tanggal_lelang": "2026-04-09T10:00:00+07:00",
+    "kpknl": "KPKNL Lahat"
+  },
+  {
+    "pemohon": "Seksi Piutang Negara KPKNL Lahat",
+    "kode_lot": "75Y3MQ",
+    "nama_lot": "1 bidang tanah dengan total luas 1617 m2 berikut bangunan di Kab. Musi Rawas",
+    "nilai_limit": "1400000000",
+    "tanggal_lelang": "2026-04-09T10:00:00+07:00",
+    "kpknl": "KPKNL Lahat"
+  },
+  {
+    "pemohon": "PT Bank Mandiri (Persero), Tbk - Retail Asset Management II / Sumatera 2",
+    "kode_lot": "ZHF8LD",
+    "nama_lot": "1 bidang tanah dengan total luas 749 m2 berikut bangunan di Kab. Musi Rawas",
+    "nilai_limit": "151900000",
+    "tanggal_lelang": "2026-04-09T10:00:00+07:00",
+    "kpknl": "KPKNL Lahat"
+  },
+  {
+    "pemohon": "Seksi Piutang Negara KPKNL Lahat",
+    "kode_lot": "0MUVMD",
+    "nama_lot": "1 bidang tanah dengan total luas 182 m2 berikut bangunan di Kab. Musi Rawas",
+    "nilai_limit": "572573000",
+    "tanggal_lelang": "2026-04-09T10:00:00+07:00",
+    "kpknl": "KPKNL Lahat"
+  },
+  {
+    "pemohon": "Seksi Piutang Negara KPKNL Lahat",
+    "kode_lot": "DQM8C7",
+    "nama_lot": "1 bidang tanah dengan total luas 297 m2 berikut bangunan di Kab. Musi Rawas",
+    "nilai_limit": "947000000",
+    "tanggal_lelang": "2026-04-09T10:00:00+07:00",
+    "kpknl": "KPKNL Lahat"
+  },
+  {
+    "pemohon": "Seksi Piutang Negara KPKNL Lahat",
+    "kode_lot": "GTM9Y7",
+    "nama_lot": "1 bidang tanah dengan total luas 367 m2 berikut bangunan di Kab. Musi Rawas",
+    "nilai_limit": "1263508000",
+    "tanggal_lelang": "2026-04-09T10:00:00+07:00",
+    "kpknl": "KPKNL Lahat"
+  },
+  {
+    "pemohon": "Seksi Piutang Negara KPKNL Lahat",
+    "kode_lot": "QAWGTQ",
+    "nama_lot": "1 bidang tanah dengan total luas 629 m2 berikut bangunan di Kab. Musi Rawas",
+    "nilai_limit": "434753000",
+    "tanggal_lelang": "2026-04-09T10:00:00+07:00",
+    "kpknl": "KPKNL Lahat"
+  },
+  {
+    "pemohon": "Seksi Piutang Negara KPKNL Lahat",
+    "kode_lot": "ZKSAG5",
+    "nama_lot": "1 bidang tanah dengan total luas 1614 m2 berikut bangunan di Kab. Musi Rawas",
+    "nilai_limit": "1674000000",
+    "tanggal_lelang": "2026-04-09T10:00:00+07:00",
+    "kpknl": "KPKNL Lahat"
+  },
+  {
+    "pemohon": "Seksi Piutang Negara KPKNL Lahat",
+    "kode_lot": "XXGFOC",
+    "nama_lot": "1 bidang tanah dengan total luas 627 m2 berikut bangunan di Kab. Musi Rawas",
+    "nilai_limit": "967331000",
+    "tanggal_lelang": "2026-04-09T10:00:00+07:00",
+    "kpknl": "KPKNL Lahat"
+  },
+  {
+    "pemohon": "PT Bank Mandiri (Persero), Tbk - Retail Asset Management II / Sumatera 2",
+    "kode_lot": "NOSC4N",
+    "nama_lot": "1 bidang tanah dengan total luas 906 m2 berikut bangunan di Kab. Musi Rawas",
+    "nilai_limit": "276700000",
+    "tanggal_lelang": "2026-04-09T10:05:00+07:00",
+    "kpknl": "KPKNL Lahat"
+  },
+  {
+    "pemohon": "PT Bank Mandiri (Persero), Tbk - Retail Asset Management II / Sumatera 2",
+    "kode_lot": "TR5GTB",
+    "nama_lot": "1 bidang tanah dengan total luas 132 m2 berikut bangunan di Kota Lubuk Linggau",
+    "nilai_limit": "196899000",
+    "tanggal_lelang": "2026-04-09T10:10:00+07:00",
+    "kpknl": "KPKNL Lahat"
+  },
+  {
+    "pemohon": "PT Bank Negara Indonesia (Persero) Tbk. Divisi Corporate Remedial and Recovery",
+    "kode_lot": "XJCK1Q",
+    "nama_lot": "1 bidang tanah dengan total luas 19350 m2 di Kab. Muara Enim",
+    "nilai_limit": "3747005000",
+    "tanggal_lelang": "2026-04-09T10:30:00+07:00",
+    "kpknl": "KPKNL Lahat"
+  },
+  {
+    "pemohon": "PNM Cabang Palembang",
+    "kode_lot": "9LBHLH",
+    "nama_lot": "1 bidang tanah dengan total luas 94 m2 berikut bangunan di Kab. Lahat",
+    "nilai_limit": "71000000",
+    "tanggal_lelang": "2026-04-09T11:00:00+07:00",
+    "kpknl": "KPKNL Lahat"
   },
   {
     "pemohon": "KOPERASI SIMPAN PINJAM SAHABAT MITRA SEJATI",
-    "kode_lot": "EZDNWW",
-    "nama_lot": "1 bidang tanah dengan total luas 168 m2 berikut bangunan di Kab. Bungo",
-    "nilai_limit": "150000000",
-    "tanggal_lelang": "2026-04-01T14:00:00+07:00",
-    "kpknl": "KPKNL Jambi"
+    "kode_lot": "XBJWIP",
+    "nama_lot": "3 bidang tanah dengan total luas 1427 m2 berikut bangunan di Kab. Lahat",
+    "nilai_limit": "1340567250",
+    "tanggal_lelang": "2026-04-09T11:00:00+07:00",
+    "kpknl": "KPKNL Lahat"
   },
   {
-    "pemohon": "PT. Bank Rakyat Indonesia (Persero), Tbk, Kantor Cabang Palembang A. Rivai",
-    "kode_lot": "VUS5PS",
-    "nama_lot": "2 bidang tanah dengan total luas 124 m2 berikut bangunan di Kota Palembang",
-    "nilai_limit": "3400000000",
-    "tanggal_lelang": "2026-04-01T09:00:00+07:00",
-    "kpknl": "KPKNL Palembang"
+    "pemohon": "PNM Cabang Palembang",
+    "kode_lot": "ARRD9I",
+    "nama_lot": "1 bidang tanah dengan total luas 219 m2 berikut bangunan di Kab. Lahat",
+    "nilai_limit": "42000000",
+    "tanggal_lelang": "2026-04-09T11:05:00+07:00",
+    "kpknl": "KPKNL Lahat"
   },
   {
-    "pemohon": "KANWIL DJP SUMSEL DAN KEP.BABEL",
-    "kode_lot": "OCG3TQ",
-    "nama_lot": "Rumah Negara Golongan II Berupa Mess/Asrama NUP 8 di Kota Palembang",
-    "nilai_limit": "439000",
-    "tanggal_lelang": "2026-04-01T11:00:00+07:00",
-    "kpknl": "KPKNL Palembang"
+    "pemohon": "PNM Cabang Palembang",
+    "kode_lot": "KBGJC0",
+    "nama_lot": "1 bidang tanah dengan total luas 375 m2 berikut bangunan di Kab. Muara Enim",
+    "nilai_limit": "41000000",
+    "tanggal_lelang": "2026-04-09T11:05:00+07:00",
+    "kpknl": "KPKNL Lahat"
   },
   {
-    "pemohon": "KANWIL DJP SUMSEL DAN KEP.BABEL",
-    "kode_lot": "1RSBVJ",
-    "nama_lot": "Bangunan Rumah Negara Golongan II Berupa Mess/Asrama NUP 9 di Kota Palembang",
-    "nilai_limit": "439000",
-    "tanggal_lelang": "2026-04-01T11:00:00+07:00",
-    "kpknl": "KPKNL Palembang"
+    "pemohon": "PT BCA, Tbk - Kanwil VI Palembang",
+    "kode_lot": "LHOKMJ",
+    "nama_lot": "1 bidang tanah dengan total luas 285 m2 berikut bangunan di Kab. Lahat",
+    "nilai_limit": "1341820000",
+    "tanggal_lelang": "2026-04-09T11:30:00+07:00",
+    "kpknl": "KPKNL Lahat"
   },
   {
-    "pemohon": "CABJARI TANJAB TIMUR DI NIPAH PANJANG",
-    "kode_lot": "5K0L7F",
-    "nama_lot": "SATU PAKET BMN PERALATAN DAN MESIN di Kab. Tanjung Jabung Timur",
-    "nilai_limit": "5256000",
-    "tanggal_lelang": "2026-04-01T14:00:00+07:00",
-    "kpknl": "KPKNL Jambi"
+    "pemohon": "PT Bank Mandiri (Persero), Tbk - Retail Asset Management II / Sumatera 2",
+    "kode_lot": "IZL8J1",
+    "nama_lot": "1 bidang tanah dengan total luas 667 m2 berikut bangunan di Kab. Muara Enim",
+    "nilai_limit": "215300000",
+    "tanggal_lelang": "2026-04-09T13:00:00+07:00",
+    "kpknl": "KPKNL Lahat"
   },
   {
-    "pemohon": "BALAI KARANTINA HEWAN, IKAN, DAN TUMBUHAN KEPULAUAN BANGKA BELITUNG",
-    "kode_lot": "THISOK",
-    "nama_lot": "Alat Laboratorium Berupa Alat Uji Elisa Reader di Kota Pangkal Pinang",
-    "nilai_limit": "135000",
-    "tanggal_lelang": "2026-04-01T13:00:00+07:00",
+    "pemohon": "PT Bank Mandiri (Persero), Tbk - Retail Asset Management II / Sumatera 2",
+    "kode_lot": "XWATSH",
+    "nama_lot": "1 bidang tanah dengan total luas 304 m2 berikut bangunan di Kab. Musi Rawas",
+    "nilai_limit": "291500000",
+    "tanggal_lelang": "2026-04-09T13:30:00+07:00",
+    "kpknl": "KPKNL Lahat"
+  },
+  {
+    "pemohon": "PT Bank Mandiri (Persero), Tbk - Retail Asset Management II / Sumatera 2",
+    "kode_lot": "0QA28I",
+    "nama_lot": "1 bidang tanah dengan total luas 257 m2 berikut bangunan di Kab. Musi Rawas",
+    "nilai_limit": "87500000",
+    "tanggal_lelang": "2026-04-09T14:00:00+07:00",
+    "kpknl": "KPKNL Lahat"
+  },
+  {
+    "pemohon": "KEJAKSAAN NEGERI LAHAT",
+    "kode_lot": "LA4JCN",
+    "nama_lot": "1 bidang tanah dengan total luas 464 m2 berikut bangunan di Kab. Lahat",
+    "nilai_limit": "214709000",
+    "tanggal_lelang": "2026-04-09T14:30:00+07:00",
+    "kpknl": "KPKNL Lahat"
+  },
+  {
+    "pemohon": "PT Bank Negara Indonesia (Persero) Tbk. Divisi Corporate Remedial and Recovery",
+    "kode_lot": "RO6QTU",
+    "nama_lot": "1 bidang tanah dengan total luas 24436 m2 berikut bangunan di Kota Pangkal Pinang",
+    "nilai_limit": "7884218000",
+    "tanggal_lelang": "2026-04-09T10:00:00+07:00",
     "kpknl": "KPKNL Pangkalpinang"
   },
   {
-    "pemohon": "BANK OCBC NISP",
-    "kode_lot": "MCP4HL",
-    "nama_lot": "1 bidang tanah dengan total luas 1053 m2 berikut bangunan di Kota Pangkal Pinang",
-    "nilai_limit": "4544000000",
-    "tanggal_lelang": "2026-04-02T10:00:00+07:00",
+    "pemohon": "Seksi Piutang Negara KPKNL Lahat",
+    "kode_lot": "OSHL9Z",
+    "nama_lot": "1 bidang tanah dengan total luas 1209 m2 berikut bangunan di Kab. Musi Rawas",
+    "nilai_limit": "735377000",
+    "tanggal_lelang": "2026-04-09T10:00:00+07:00",
+    "kpknl": "KPKNL Lahat"
+  },
+  {
+    "pemohon": "Seksi Piutang Negara KPKNL Lahat",
+    "kode_lot": "7ZRCKU",
+    "nama_lot": "1 bidang tanah dengan total luas 1345 m2 berikut bangunan di Kab. Musi Rawas",
+    "nilai_limit": "1992508000",
+    "tanggal_lelang": "2026-04-09T10:00:00+07:00",
+    "kpknl": "KPKNL Lahat"
+  },
+  {
+    "pemohon": "PENGADILAN NEGERI TANJUNG PANDAN",
+    "kode_lot": "XBONSE",
+    "nama_lot": "SATU PAKET BONGKARAN BERUPA RUMAH NEGARA GOLONGAN II Tipe B Permanen di Kab. Belitung",
+    "nilai_limit": "199000",
+    "tanggal_lelang": "2026-04-09T10:00:00+07:00",
     "kpknl": "KPKNL Pangkalpinang"
   },
   {
-    "pemohon": "Komisi Pemberantasan Korupsi",
-    "kode_lot": "894RY1",
-    "nama_lot": "1 bidang tanah dengan total luas 1771 m2 di Kab. Ogan Komering Ulu Timur",
-    "nilai_limit": "105246000",
-    "tanggal_lelang": "2026-04-02T10:00:00+07:00",
-    "kpknl": "KPKNL Palembang"
+    "pemohon": "PT. Bank Rakyat Indonesia (Persero), Tbk, Kantor Cabang Lubuk Linggau",
+    "kode_lot": "VACBGX",
+    "nama_lot": "1 bidang tanah dengan total luas 4852 m2 di Kab. Musi Rawas",
+    "nilai_limit": "400000000",
+    "tanggal_lelang": "2026-04-09T09:00:00+07:00",
+    "kpknl": "KPKNL Lahat"
   },
   {
-    "pemohon": "BANK MUAMALAT INDONESIA",
-    "kode_lot": "6IDGY7",
-    "nama_lot": "1 bidang tanah dengan total luas 90 m2 berikut bangunan di Kab. Bangka",
-    "nilai_limit": "105000000",
-    "tanggal_lelang": "2026-04-02T08:00:00+07:00",
-    "kpknl": "KPKNL Pangkalpinang"
-  },
-  {
-    "pemohon": "BANK MUAMALAT INDONESIA",
-    "kode_lot": "3DGE29",
-    "nama_lot": "1 bidang tanah dengan total luas 266 m2 berikut bangunan di Kab. Belitung Timur",
-    "nilai_limit": "198126000",
-    "tanggal_lelang": "2026-04-02T08:05:00+07:00",
-    "kpknl": "KPKNL Pangkalpinang"
-  },
-  {
-    "pemohon": "BANK MUAMALAT INDONESIA",
-    "kode_lot": "HDSJE4",
-    "nama_lot": "1 bidang tanah dengan total luas 408 m2 berikut bangunan di Kab. Bangka",
-    "nilai_limit": "281000000",
-    "tanggal_lelang": "2026-04-02T08:10:00+07:00",
-    "kpknl": "KPKNL Pangkalpinang"
-  },
-  {
-    "pemohon": "BANK MUAMALAT INDONESIA",
-    "kode_lot": "HU0NVR",
-    "nama_lot": "1 bidang tanah dengan total luas 155 m2 berikut bangunan di Kab. Bangka",
-    "nilai_limit": "211000000",
-    "tanggal_lelang": "2026-04-02T08:15:00+07:00",
-    "kpknl": "KPKNL Pangkalpinang"
-  },
-  {
-    "pemohon": "BANK MUAMALAT INDONESIA",
-    "kode_lot": "E18CGU",
-    "nama_lot": "1 bidang tanah dengan total luas 130 m2 berikut bangunan di Kota Pangkal Pinang",
-    "nilai_limit": "220000000",
-    "tanggal_lelang": "2026-04-02T08:20:00+07:00",
-    "kpknl": "KPKNL Pangkalpinang"
-  },
-  {
-    "pemohon": "BANK MUAMALAT INDONESIA",
-    "kode_lot": "PHBYWF",
-    "nama_lot": "1 bidang tanah dengan total luas 105 m2 berikut bangunan di Kota Pangkal Pinang",
-    "nilai_limit": "122000000",
-    "tanggal_lelang": "2026-04-02T08:25:00+07:00",
-    "kpknl": "KPKNL Pangkalpinang"
-  },
-  {
-    "pemohon": "BANK MUAMALAT INDONESIA",
-    "kode_lot": "7ZV8BR",
-    "nama_lot": "1 bidang tanah dengan total luas 136 m2 berikut bangunan di Kota Pangkal Pinang",
-    "nilai_limit": "148000000",
-    "tanggal_lelang": "2026-04-02T08:30:00+07:00",
-    "kpknl": "KPKNL Pangkalpinang"
-  },
-  {
-    "pemohon": "BANK MUAMALAT INDONESIA",
-    "kode_lot": "GJEBWS",
-    "nama_lot": "1 bidang tanah dengan total luas 112 m2 berikut bangunan di Kota Pangkal Pinang",
-    "nilai_limit": "204000000",
-    "tanggal_lelang": "2026-04-02T08:35:00+07:00",
-    "kpknl": "KPKNL Pangkalpinang"
-  },
-  {
-    "pemohon": "BANK MUAMALAT INDONESIA",
-    "kode_lot": "HUDZBW",
-    "nama_lot": "1 bidang tanah dengan total luas 668 m2 berikut bangunan di Kota Pangkal Pinang",
-    "nilai_limit": "852384000",
-    "tanggal_lelang": "2026-04-02T08:40:00+07:00",
-    "kpknl": "KPKNL Pangkalpinang"
-  },
-  {
-    "pemohon": "BANK MUAMALAT INDONESIA",
-    "kode_lot": "LEBXBT",
-    "nama_lot": "1 bidang tanah dengan total luas 770 m2 berikut bangunan di Kab. Belitung Timur",
-    "nilai_limit": "261690000",
-    "tanggal_lelang": "2026-04-02T08:45:00+07:00",
-    "kpknl": "KPKNL Pangkalpinang"
-  },
-  {
-    "pemohon": "BANK MUAMALAT INDONESIA",
-    "kode_lot": "CGAEMK",
-    "nama_lot": "1 bidang tanah dengan total luas 105 m2 berikut bangunan di Kota Pangkal Pinang",
-    "nilai_limit": "322270000",
-    "tanggal_lelang": "2026-04-02T08:50:00+07:00",
-    "kpknl": "KPKNL Pangkalpinang"
-  },
-  {
-    "pemohon": "KEJAKSAAN NEGERI SUNGAI PENUH",
-    "kode_lot": "XLZAHY",
-    "nama_lot": "1 (satu) Paket Barang Milik Negara berupa Inventaris Kantor Peralatan dan Mesin yang terdiri atas meja, kursi, printer, lemari, dll dalam kondisi rusak berat / apa adanya. di Kota Sungai Penuh",
-    "nilai_limit": "1023000",
-    "tanggal_lelang": "2026-04-02T09:00:00+07:00",
-    "kpknl": "KPKNL Jambi"
-  },
-  {
-    "pemohon": "PT. Bank Rakyat Indonesia (Persero), Tbk, Kantor Cabang Dharmasraya",
-    "kode_lot": "WCJKNC",
-    "nama_lot": "1 bidang tanah dengan total luas 300 m2 berikut bangunan di Kab. Bungo",
+    "pemohon": "PT. Bank Rakyat Indonesia (Persero), Tbk, Kantor Cabang Lubuk Linggau",
+    "kode_lot": "YIPDWC",
+    "nama_lot": "1 bidang tanah dengan total luas 611 m2 di Kab. Musi Rawas",
     "nilai_limit": "250000000",
-    "tanggal_lelang": "2026-04-02T10:00:00+07:00",
+    "tanggal_lelang": "2026-04-09T09:00:00+07:00",
+    "kpknl": "KPKNL Lahat"
+  },
+  {
+    "pemohon": "PT. Bank Rakyat Indonesia (Persero), Tbk, Kantor Cabang Lubuk Linggau",
+    "kode_lot": "JLJ4CE",
+    "nama_lot": "1 bidang tanah dengan total luas 5302 m2 di Kab. Musi Rawas",
+    "nilai_limit": "400000000",
+    "tanggal_lelang": "2026-04-09T09:00:00+07:00",
+    "kpknl": "KPKNL Lahat"
+  },
+  {
+    "pemohon": "PT Bank Negara Indonesia (Persero) Tbk. Divisi Corporate Remedial and Recovery",
+    "kode_lot": "0BMUN8",
+    "nama_lot": "1 bidang tanah dengan total luas 42676 m2 berikut bangunan di Kab. Muara Enim",
+    "nilai_limit": "3923426000",
+    "tanggal_lelang": "2026-04-09T09:30:00+07:00",
+    "kpknl": "KPKNL Lahat"
+  },
+  {
+    "pemohon": "PT Bank Tabungan Negara (Persero) Tbk - Kantor Wilayah Sumatera 2",
+    "kode_lot": "WMCQUT",
+    "nama_lot": "1 bidang tanah dengan total luas 90 m2 berikut bangunan di Kota Palembang",
+    "nilai_limit": "280000000",
+    "tanggal_lelang": "2026-04-10T09:00:00+07:00",
+    "kpknl": "KPKNL Palembang"
+  },
+  {
+    "pemohon": "PT Bank Tabungan Negara (Persero) Tbk - Kantor Wilayah Sumatera 2",
+    "kode_lot": "Q1QAUN",
+    "nama_lot": "1 bidang tanah dengan total luas 96 m2 berikut bangunan di Kota Palembang",
+    "nilai_limit": "375200000",
+    "tanggal_lelang": "2026-04-10T09:00:00+07:00",
+    "kpknl": "KPKNL Palembang"
+  },
+  {
+    "pemohon": "PT Bank Mandiri (Persero) Tbk - Regional Special Asset Management Region II",
+    "kode_lot": "QU9I6A",
+    "nama_lot": "1 bidang tanah dengan total luas 1569 m2 berikut bangunan di Kab. Sarolangun",
+    "nilai_limit": "473900000",
+    "tanggal_lelang": "2026-04-10T09:00:00+07:00",
     "kpknl": "KPKNL Jambi"
   },
   {
-    "pemohon": "JTRUST INVESTMENTS INDONESIA",
-    "kode_lot": "R8N7VG",
-    "nama_lot": "1 bidang tanah dengan total luas 119 m2 berikut bangunan di Kota Jambi",
-    "nilai_limit": "62400000",
-    "tanggal_lelang": "2026-04-02T11:00:00+07:00",
+    "pemohon": "PT BCA, Tbk - Kanwil VI Palembang",
+    "kode_lot": "53VAPG",
+    "nama_lot": "2 bidang tanah dengan total luas 1303 m2 berikut bangunan di Kab. Batanghari",
+    "nilai_limit": "3794400000",
+    "tanggal_lelang": "2026-04-10T09:00:00+07:00",
     "kpknl": "KPKNL Jambi"
   },
   {
-    "pemohon": "WASKITA BETON PRECAST",
-    "kode_lot": "UEWISA",
-    "nama_lot": "3 barang bergerak di Kab. Banyuasin",
-    "nilai_limit": "314618400",
-    "tanggal_lelang": "2026-04-02T08:30:00+07:00",
+    "pemohon": "PT BCA, Tbk - Kanwil VI Palembang",
+    "kode_lot": "KH7DVP",
+    "nama_lot": "1 bidang tanah dengan total luas 220 m2 berikut bangunan di Kab. Batanghari",
+    "nilai_limit": "952875000",
+    "tanggal_lelang": "2026-04-10T09:00:00+07:00",
+    "kpknl": "KPKNL Jambi"
+  },
+  {
+    "pemohon": "PT BCA, Tbk - Kanwil VI Palembang",
+    "kode_lot": "WGS827",
+    "nama_lot": "3 bidang tanah dengan total luas 678 m2 di Kota Jambi",
+    "nilai_limit": "3112020000",
+    "tanggal_lelang": "2026-04-10T09:00:00+07:00",
+    "kpknl": "KPKNL Jambi"
+  },
+  {
+    "pemohon": "PT Bank Mandiri (Persero) Tbk - Regional Special Asset Management Region II",
+    "kode_lot": "3PMQWI",
+    "nama_lot": "1 bidang tanah dengan total luas 1485 m2 di Kab. Tebo",
+    "nilai_limit": "154000000",
+    "tanggal_lelang": "2026-04-10T09:00:00+07:00",
+    "kpknl": "KPKNL Jambi"
+  },
+  {
+    "pemohon": "PT. Bank Rakyat Indonesia (Persero), Tbk, Kantor Cabang Muara Bungo",
+    "kode_lot": "1YC9FL",
+    "nama_lot": "1 bidang tanah dengan total luas 180 m2 berikut bangunan di Kab. Bungo",
+    "nilai_limit": "200000000",
+    "tanggal_lelang": "2026-04-10T09:00:00+07:00",
+    "kpknl": "KPKNL Jambi"
+  },
+  {
+    "pemohon": "PT. Bank Rakyat Indonesia (Persero), Tbk, Kantor Cabang Muara Bungo",
+    "kode_lot": "GNO2ZR",
+    "nama_lot": "1 bidang tanah dengan total luas 180 m2 di Kab. Bungo",
+    "nilai_limit": "50000000",
+    "tanggal_lelang": "2026-04-10T09:00:00+07:00",
+    "kpknl": "KPKNL Jambi"
+  },
+  {
+    "pemohon": "PT. Bank Rakyat Indonesia (Persero), Tbk, Kantor Cabang Muara Bungo",
+    "kode_lot": "TPESJG",
+    "nama_lot": "1 bidang tanah dengan total luas 180 m2 berikut bangunan di Kab. Bungo",
+    "nilai_limit": "200000000",
+    "tanggal_lelang": "2026-04-10T09:00:00+07:00",
+    "kpknl": "KPKNL Jambi"
+  },
+  {
+    "pemohon": "PT. Bank Rakyat Indonesia (Persero), Tbk, Kantor Cabang Muara Bungo",
+    "kode_lot": "VVN5PE",
+    "nama_lot": "1 bidang tanah dengan total luas 1049 m2 di Kab. Bungo",
+    "nilai_limit": "80000000",
+    "tanggal_lelang": "2026-04-10T09:00:00+07:00",
+    "kpknl": "KPKNL Jambi"
+  },
+  {
+    "pemohon": "PT. Bank Rakyat Indonesia (Persero), Tbk, Kantor Cabang Muara Bungo",
+    "kode_lot": "URPFA4",
+    "nama_lot": "1 bidang tanah dengan total luas 17882 m2 di Kab. Bungo",
+    "nilai_limit": "233000000",
+    "tanggal_lelang": "2026-04-10T09:00:00+07:00",
+    "kpknl": "KPKNL Jambi"
+  },
+  {
+    "pemohon": "PT. Bank Rakyat Indonesia (Persero), Tbk, Kantor Cabang Muara Bungo",
+    "kode_lot": "UTCODS",
+    "nama_lot": "1 bidang tanah dengan total luas 1417 m2 di Kab. Tebo",
+    "nilai_limit": "453440000",
+    "tanggal_lelang": "2026-04-10T09:00:00+07:00",
+    "kpknl": "KPKNL Jambi"
+  },
+  {
+    "pemohon": "PT. Bank Rakyat Indonesia (Persero), Tbk, Kantor Cabang Muara Bungo",
+    "kode_lot": "VZMB0K",
+    "nama_lot": "1 bidang tanah dengan total luas 2373 m2 di Kab. Bungo",
+    "nilai_limit": "250000000",
+    "tanggal_lelang": "2026-04-10T09:00:00+07:00",
+    "kpknl": "KPKNL Jambi"
+  },
+  {
+    "pemohon": "PT. Bank Rakyat Indonesia (Persero), Tbk, Kantor Cabang Sarolangun",
+    "kode_lot": "IMUQYZ",
+    "nama_lot": "1 bidang tanah dengan total luas 303 m2 berikut bangunan di Kab. Sarolangun",
+    "nilai_limit": "150000000",
+    "tanggal_lelang": "2026-04-10T10:00:00+07:00",
+    "kpknl": "KPKNL Jambi"
+  },
+  {
+    "pemohon": "PT. Bank Rakyat Indonesia (Persero), Tbk, Kantor Cabang Kuala Tungkal",
+    "kode_lot": "QARCUM",
+    "nama_lot": "1 bidang tanah dengan total luas 690 m2 berikut bangunan di Kab. Tanjung Jabung Barat",
+    "nilai_limit": "500000000",
+    "tanggal_lelang": "2026-04-10T10:00:00+07:00",
+    "kpknl": "KPKNL Jambi"
+  },
+  {
+    "pemohon": "PT. Bank Rakyat Indonesia (Persero), Tbk, Kantor Cabang Kuala Tungkal",
+    "kode_lot": "DFJR0H",
+    "nama_lot": "1 bidang tanah dengan total luas 137 m2 berikut bangunan di Kab. Tanjung Jabung Barat",
+    "nilai_limit": "50000000",
+    "tanggal_lelang": "2026-04-10T10:00:00+07:00",
+    "kpknl": "KPKNL Jambi"
+  },
+  {
+    "pemohon": "PT. Bank Rakyat Indonesia (Persero), Tbk, Kantor Cabang Kuala Tungkal",
+    "kode_lot": "NYBRBC",
+    "nama_lot": "1 bidang tanah dengan total luas 10000 m2 di Kab. Tanjung Jabung Timur",
+    "nilai_limit": "75000000",
+    "tanggal_lelang": "2026-04-10T11:00:00+07:00",
+    "kpknl": "KPKNL Jambi"
+  },
+  {
+    "pemohon": "PT. Bank Rakyat Indonesia (Persero), Tbk, Kantor Cabang Kuala Tungkal",
+    "kode_lot": "EKJFWI",
+    "nama_lot": "1 bidang tanah dengan total luas 10990 m2 di Kab. Tanjung Jabung Timur",
+    "nilai_limit": "75000000",
+    "tanggal_lelang": "2026-04-10T11:00:00+07:00",
+    "kpknl": "KPKNL Jambi"
+  },
+  {
+    "pemohon": "PT. Bank Rakyat Indonesia (Persero), Tbk, Kantor Cabang Kuala Tungkal",
+    "kode_lot": "EBFWMX",
+    "nama_lot": "1 bidang tanah dengan total luas 62 m2 berikut bangunan di Kab. Tanjung Jabung Barat",
+    "nilai_limit": "1000000000",
+    "tanggal_lelang": "2026-04-10T11:00:00+07:00",
+    "kpknl": "KPKNL Jambi"
+  },
+  {
+    "pemohon": "PT. Bank Rakyat Indonesia (Persero), Tbk, Kantor Cabang Kuala Tungkal",
+    "kode_lot": "SN8ZKY",
+    "nama_lot": "1 bidang tanah dengan total luas 250 m2 di Kab. Tanjung Jabung Barat",
+    "nilai_limit": "30000000",
+    "tanggal_lelang": "2026-04-10T11:00:00+07:00",
+    "kpknl": "KPKNL Jambi"
+  },
+  {
+    "pemohon": "PT. Bank Rakyat Indonesia (Persero), Tbk, Kantor Cabang Kuala Tungkal",
+    "kode_lot": "ITCUNL",
+    "nama_lot": "1 bidang tanah dengan total luas 160 m2 di Kab. Tanjung Jabung Barat",
+    "nilai_limit": "35000000",
+    "tanggal_lelang": "2026-04-10T11:00:00+07:00",
+    "kpknl": "KPKNL Jambi"
+  },
+  {
+    "pemohon": "PT. Bank Rakyat Indonesia (Persero), Tbk, Kantor Cabang Kuala Tungkal",
+    "kode_lot": "XZFSTY",
+    "nama_lot": "1 bidang tanah dengan total luas 15180 m2 di Kab. Tanjung Jabung Timur",
+    "nilai_limit": "300000000",
+    "tanggal_lelang": "2026-04-10T11:00:00+07:00",
+    "kpknl": "KPKNL Jambi"
+  },
+  {
+    "pemohon": "PT. Bank Rakyat Indonesia (Persero), Tbk, Kantor Cabang Kuala Tungkal",
+    "kode_lot": "ATEQ4W",
+    "nama_lot": "2 bidang tanah dengan total luas 770 m2 berikut bangunan di Kab. Muaro Jambi",
+    "nilai_limit": "1400000000",
+    "tanggal_lelang": "2026-04-10T11:00:00+07:00",
+    "kpknl": "KPKNL Jambi"
+  },
+  {
+    "pemohon": "PT Bank Negara Indonesia (Persero) Tbk. Divisi Enterprise & Commercial Remedial and Recovery 03",
+    "kode_lot": "0IVMKG",
+    "nama_lot": "1 bidang tanah dengan total luas 7861 m2 di Kab. Banyuasin",
+    "nilai_limit": "75100000",
+    "tanggal_lelang": "2026-04-10T08:30:00+07:00",
     "kpknl": "KPKNL Palembang"
   },
   {
-    "pemohon": "WASKITA BETON PRECAST",
-    "kode_lot": "ZGUX5O",
-    "nama_lot": "Wheel Loader SDLG kondisi apa adanya (tanpa bukti Kepemilikan), Truck Mixer Hino dan  barang bergerak lainnya di Kab. Banyuasin",
-    "nilai_limit": "609501000",
-    "tanggal_lelang": "2026-04-02T09:00:00+07:00",
+    "pemohon": "PT Bank Negara Indonesia (Persero) Tbk. Divisi Enterprise & Commercial Remedial and Recovery 03",
+    "kode_lot": "XGEO94",
+    "nama_lot": "1 bidang tanah dengan total luas 19975 m2 di Kab. Ogan Ilir",
+    "nilai_limit": "551200000",
+    "tanggal_lelang": "2026-04-10T08:30:00+07:00",
     "kpknl": "KPKNL Palembang"
   },
   {
-    "pemohon": "WASKITA BETON PRECAST",
-    "kode_lot": "4UJFUY",
-    "nama_lot": "Wheel Loader SDLG, Truck Mixer Hino dan  barang bergerak lainnya di Kab. Banyuasin",
-    "nilai_limit": "574869000",
-    "tanggal_lelang": "2026-04-02T09:30:00+07:00",
-    "kpknl": "KPKNL Palembang"
-  },
-  {
-    "pemohon": "WASKITA BETON PRECAST",
-    "kode_lot": "WV7AMW",
-    "nama_lot": "3 barang bergerak di Kab. Banyuasin",
-    "nilai_limit": "317471100",
-    "tanggal_lelang": "2026-04-02T10:00:00+07:00",
-    "kpknl": "KPKNL Palembang"
-  },
-  {
-    "pemohon": "WASKITA BETON PRECAST",
-    "kode_lot": "UHZG23",
-    "nama_lot": "7 barang bergerak di Kab. Banyuasin",
-    "nilai_limit": "320634600",
-    "tanggal_lelang": "2026-04-02T10:10:00+07:00",
-    "kpknl": "KPKNL Palembang"
-  },
-  {
-    "pemohon": "WASKITA BETON PRECAST",
-    "kode_lot": "WQVNFO",
-    "nama_lot": "Wheel Loader SDLG, Truck Mixer Hino dan  barang bergerak lainnya di Kab. Banyuasin",
-    "nilai_limit": "578088000",
-    "tanggal_lelang": "2026-04-02T10:30:00+07:00",
-    "kpknl": "KPKNL Palembang"
-  },
-  {
-    "pemohon": "DAMRI",
-    "kode_lot": "AIK0K1",
-    "nama_lot": "1 (Satu) Paket Scrap/Besi Tua terdiri atas 3 (unit) Bus Mercedes Nomor Plat B 7513 IZ, B 7502 IZ, dan BG 7992 AO (Tanpa Bukti Kepemilikan) di Kota Palembang",
-    "nilai_limit": "124800000",
-    "tanggal_lelang": "2026-04-02T09:00:00+07:00",
-    "kpknl": "KPKNL Palembang"
-  },
-  {
-    "pemohon": "KPPBC TMP B PALEMBANG",
-    "kode_lot": "6VIPZT",
-    "nama_lot": "1 (satu) paket peralatan dan mesin dalam keadaan rusak berat di Kota Palembang",
-    "nilai_limit": "4856000",
-    "tanggal_lelang": "2026-04-02T10:00:00+07:00",
-    "kpknl": "KPKNL Palembang"
-  },
-  {
-    "pemohon": "PENGADILAN TINGGI AGAMA PALEMBANG",
-    "kode_lot": "UHKZTX",
-    "nama_lot": "Satu Paket Inventaris Kantor dengan kondisi apa adanya di Kota Palembang",
-    "nilai_limit": "1721000",
-    "tanggal_lelang": "2026-04-02T11:00:00+07:00",
-    "kpknl": "KPKNL Palembang"
-  },
-  {
-    "pemohon": "DOK DAN PERKAPALAN AIR KANTUNG",
-    "kode_lot": "MS30YJ",
-    "nama_lot": "1 Paket Scrap atau Besi Tua eks Sisa Pekerjaan Reparasi dan Bangunan Baru di Kota Pangkal Pinang",
-    "nilai_limit": "1887000000",
-    "tanggal_lelang": "2026-04-02T11:00:00+07:00",
+    "pemohon": "PT Bank Negara Indonesia (Persero) Tbk. Divisi Corporate Remedial and Recovery",
+    "kode_lot": "S7UGVR",
+    "nama_lot": "1 bidang tanah dengan total luas 16619 m2 berikut bangunan di Kab. Belitung Timur",
+    "nilai_limit": "1352218000",
+    "tanggal_lelang": "2026-04-10T13:30:00+07:00",
     "kpknl": "KPKNL Pangkalpinang"
+  },
+  {
+    "pemohon": "PT Bank Negara Indonesia (Persero) Tbk. Divisi Corporate Remedial and Recovery",
+    "kode_lot": "HJP9KG",
+    "nama_lot": "4 bidang tanah dengan total luas 109908 m2 di Kota Pangkal Pinang",
+    "nilai_limit": "36379548000",
+    "tanggal_lelang": "2026-04-10T13:30:00+07:00",
+    "kpknl": "KPKNL Pangkalpinang"
+  },
+  {
+    "pemohon": "PT Bank Negara Indonesia (Persero) Tbk. Divisi Corporate Remedial and Recovery",
+    "kode_lot": "HV7PKR",
+    "nama_lot": "5 bidang tanah dengan total luas 115655 m2 berikut bangunan dan  barang bergerak lainnya di Kab. Belitung Timur",
+    "nilai_limit": "12391517000",
+    "tanggal_lelang": "2026-04-10T13:30:00+07:00",
+    "kpknl": "KPKNL Pangkalpinang"
+  },
+  {
+    "pemohon": "PT Bank Negara Indonesia (Persero) Tbk. Divisi Corporate Remedial and Recovery",
+    "kode_lot": "QSOXEA",
+    "nama_lot": "15 bidang tanah dengan total luas 168236 m2 di Kab. Belitung",
+    "nilai_limit": "7220742000",
+    "tanggal_lelang": "2026-04-10T13:30:00+07:00",
+    "kpknl": "KPKNL Pangkalpinang"
+  },
+  {
+    "pemohon": "PT Bank Mandiri (Persero) Tbk - Regional Special Asset Management Region II",
+    "kode_lot": "I26WX8",
+    "nama_lot": "1 bidang tanah dengan total luas 981 m2 berikut bangunan di Kab. Merangin",
+    "nilai_limit": "451600000",
+    "tanggal_lelang": "2026-04-10T09:00:00+07:00",
+    "kpknl": "KPKNL Jambi"
+  },
+  {
+    "pemohon": "PT Bank Mandiri (Persero) Tbk - Regional Special Asset Management Region II",
+    "kode_lot": "QL7JQS",
+    "nama_lot": "1 bidang tanah dengan total luas 128 m2 berikut bangunan di Kab. Tebo",
+    "nilai_limit": "81000000",
+    "tanggal_lelang": "2026-04-10T09:00:00+07:00",
+    "kpknl": "KPKNL Jambi"
+  },
+  {
+    "pemohon": "PT Bank Negara Indonesia (Persero) Tbk. Divisi Corporate Remedial and Recovery",
+    "kode_lot": "CIV65P",
+    "nama_lot": "1 bidang tanah dengan total luas 25340 m2 di Kota Pangkal Pinang",
+    "nilai_limit": "6715100000",
+    "tanggal_lelang": "2026-04-10T13:30:00+07:00",
+    "kpknl": "KPKNL Pangkalpinang"
+  },
+  {
+    "pemohon": "Politeknik Manufaktur Negeri Bangka Belitung",
+    "kode_lot": "MHGOIS",
+    "nama_lot": "Air Conditioning (A.C) atau A.C. Split di Kab. Bangka",
+    "nilai_limit": "13214750",
+    "tanggal_lelang": "2026-04-10T13:00:00+07:00",
+    "kpknl": "KPKNL Pangkalpinang"
+  },
+  {
+    "pemohon": "PNM Cabang Jambi",
+    "kode_lot": "VMQ42U",
+    "nama_lot": "1 bidang tanah dengan total luas 1925 m2 di Kab. Muaro Jambi",
+    "nilai_limit": "50000000",
+    "tanggal_lelang": "2026-04-10T09:00:00+07:00",
+    "kpknl": "KPKNL Jambi"
+  },
+  {
+    "pemohon": "KEJAKSAAN NEGERI MERANGIN",
+    "kode_lot": "6S5UPT",
+    "nama_lot": "1 (satu) kantong plastik berisi butiran emas seberat 552.89 gr; di Kab. Merangin",
+    "nilai_limit": "1005789000",
+    "tanggal_lelang": "2026-04-10T15:00:00+07:00",
+    "kpknl": "KPKNL Jambi"
+  },
+  {
+    "pemohon": "KEJAKSAAN NEGERI MERANGIN",
+    "kode_lot": "WGOZT3",
+    "nama_lot": "1 (satu) kantong plastik berisi butiran emas seberat 687.44 gr di Kab. Merangin",
+    "nilai_limit": "1250854000",
+    "tanggal_lelang": "2026-04-10T15:00:00+07:00",
+    "kpknl": "KPKNL Jambi"
+  },
+  {
+    "pemohon": "KEJAKSAAN NEGERI MERANGIN",
+    "kode_lot": "FH32IO",
+    "nama_lot": "1 (satu) Unit Excavator Merek Hitachi 210 F Wama Orange di Kab. Merangin",
+    "nilai_limit": "160226000",
+    "tanggal_lelang": "2026-04-10T15:00:00+07:00",
+    "kpknl": "KPKNL Jambi"
+  },
+  {
+    "pemohon": "BANK PEMBANGUNAN DAERAH SUMATERA SELATAN DAN BANGKA BELITUNG",
+    "kode_lot": "KZW9VO",
+    "nama_lot": "1 bidang tanah dengan total luas 98 m2 berikut bangunan di Kota Palembang",
+    "nilai_limit": "1300000000",
+    "tanggal_lelang": "2026-04-10T09:00:00+07:00",
+    "kpknl": "KPKNL Palembang"
   }
 ]
